@@ -19,4 +19,16 @@ TICKERS = {
             re.IGNORECASE,
         ),
     },
+    "LHG": {
+        "pattern": re.compile(
+            r"\bLHG\b|Long Hậu",
+            re.IGNORECASE,
+        ),
+    },
+    "LPB": {
+        "pattern": re.compile(
+            r"\bLPB\b|LienVietPostBank|Ngân hàng Bưu điện Liên Việt",
+            re.IGNORECASE,
+        ),
+    },
 }
