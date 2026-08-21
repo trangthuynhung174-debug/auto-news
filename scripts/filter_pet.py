@@ -3,10 +3,14 @@ import os
 import re
 from datetime import datetime, timezone
 
+import requests
+
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 LATEST_PATH = os.path.join(DATA_DIR, "latest.json")
 PET_SEEN_PATH = os.path.join(DATA_DIR, "pet_seen.json")
 PET_OUTPUT_PATH = os.path.join(DATA_DIR, "pet_news.md")
+
+NTFY_TOPIC_URL = "https://ntfy.sh/investment-opp"
 
 # Petrosetco (PET) — khớp mã "PET" đứng riêng, hoặc tên công ty đầy đủ.
 PET_PATTERN = re.compile(
@@ -27,6 +31,21 @@ def save_seen(seen):
         json.dump(sorted(seen), f, ensure_ascii=False, indent=2)
 
 
+def push_ntfy(item):
+    try:
+        requests.post(
+            NTFY_TOPIC_URL,
+            data=f"PET - {item['title']} ({item['link']})".encode("utf-8"),
+            headers={
+                "Title": "Tin PET moi".encode("ascii"),
+                "Click": item["link"],
+            },
+            timeout=10,
+        )
+    except Exception as exc:
+        print(f"[ntfy] failed to push: {exc}")
+
+
 def main():
     with open(LATEST_PATH, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -39,6 +58,7 @@ def main():
 
     for item in matches:
         seen.add(item["link"])
+        push_ntfy(item)
     save_seen(seen)
 
     now = datetime.now(timezone.utc)
