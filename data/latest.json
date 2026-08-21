@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-21T06:26:02.386791+00:00",
+  "collected_at": "2026-08-21T07:03:05.077621+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Chỉ còn 2 ngày cuối cùng để bình chọn IR Awards 2026: Nhà đầu tư có thể trúng Laptop Asus, điện thoại Samsung, loa Bluetooth Marshall",
+      "link": "http://vietstock.vn/2026/08/chi-con-2-ngay-cuoi-cung-de-binh-chon-ir-awards-2026-nha-dau-tu-co-the-trung-laptop-asus-dien-thoai-samsung-loa-bluetooth-marshall-830-1483537.htm",
+      "published": "Fri, 21 Aug 2026 13:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Nhịp đập Thị trường 21/08: Tiếp tục tăng điểm",
       "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2108-tiep-tuc-tang-diem-1636-1483481.htm",
       "published": "Fri, 21 Aug 2026 12:52:00 +0700"
@@ -415,12 +421,6 @@
       "title": "Phân tích kỹ thuật phiên chiều 19/08: Triển vọng ngắn hạn tiếp tục xấu đi",
       "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-1908-trien-vong-ngan-han-tiep-tuc-xau-di-585-1482549.htm",
       "published": "Wed, 19 Aug 2026 13:03:34 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "CSV bị nhắc nhở chậm công bố thông tin",
-      "link": "http://vietstock.vn/2026/08/csv-bi-nhac-nho-cham-cong-bo-thong-tin-830-1482480.htm",
-      "published": "Wed, 19 Aug 2026 11:28:11 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "PNJ bật trần sau ‘minh oan’: Rủi ro pháp lý được gỡ, nhưng bài toán lợi nhuận vẫn còn",
+      "link": "https://vnbusiness.vn//pnj-bat-tran-sau-minh-oan-rui-ro-phap-ly-duoc-go-nhung-bai-toan-loi-nhuan-van-con.html",
+      "published": "Fri, 21 Aug 2026 06:34:39 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Hàng chục nghìn tỷ đồng trái phiếu sắp được huy động: Ai vay để đầu tư, ai vay để trả nợ?",
       "link": "https://vnbusiness.vn//hang-chuc-nghin-ty-dong-trai-phieu-sap-duoc-huy-dong-ai-vay-de-dau-tu-ai-vay-de-tra-no.html",
       "published": "Fri, 21 Aug 2026 04:23:16 GMT"
@@ -1015,12 +1021,6 @@
       "title": "VN-Index mất gần 12 điểm nhưng một cổ phiếu vẫn \"cháy hàng\", dư mua trần gần 1,2 triệu đơn vị",
       "link": "https://vnbusiness.vn//vn-index-mat-gan-12-diem-nhung-mot-co-phieu-van-chay-hang-du-mua-tran-gan-12-trieu-don-vi.html",
       "published": "Thu, 06 Aug 2026 09:07:43 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Lợi nhuận tăng mạnh nhưng gần 71% tài sản FECON vẫn nằm ở phải thu và tồn kho",
-      "link": "https://vnbusiness.vn//loi-nhuan-tang-manh-nhung-gan-71-tai-san-fecon-van-nam-o-phai-thu-va-ton-kho.html",
-      "published": "Thu, 06 Aug 2026 09:04:52 GMT"
     }
   ]
 }
