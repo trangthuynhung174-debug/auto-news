@@ -26,8 +26,8 @@ jobs:
       - name: Collect news
         run: python scripts/collect_news.py
 
-      - name: Filter PET news
-        run: python scripts/filter_pet.py
+      - name: Filter ticker news
+        run: python scripts/filter_tickers.py
 
       - name: Build site
         run: python scripts/build_site.py
