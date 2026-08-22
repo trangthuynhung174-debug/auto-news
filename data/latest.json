@@ -1,7 +1,37 @@
 {
-  "collected_at": "2026-08-22T16:56:14.180957+00:00",
+  "collected_at": "2026-08-22T17:50:20.589985+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "2 ngày cuối tuần dài đằng đẵng với nhà đầu tư chứng khoán",
+      "link": "https://cafef.vn/2-ngay-cuoi-tuan-dai-dang-dang-voi-nha-dau-tu-chung-khoan-188260822222244897.chn",
+      "published": "Sun, 23 Aug 26 00:10:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Đã bắt giữ đối tượng sinh năm 1993 trộm hơn 80 lượng vàng",
+      "link": "https://cafef.vn/da-bat-giu-doi-tuong-sinh-nam-1993-trom-hon-80-luong-vang-188260822220738614.chn",
+      "published": "Sun, 23 Aug 26 00:10:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Không chỉ chứng khoán, nhóm cổ phiếu này được dự báo hưởng lợi kép sau nâng hạng",
+      "link": "https://cafef.vn/khong-chi-chung-khoan-nhom-co-phieu-nay-duoc-du-bao-huong-loi-kep-sau-nang-hang-188260822221034656.chn",
+      "published": "Sun, 23 Aug 26 00:08:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Soi định giá nhóm cổ phiếu chứng khoán trước sóng nâng hạng",
+      "link": "https://cafef.vn/soi-dinh-gia-nhom-co-phieu-chung-khoan-truoc-song-nang-hang-18826082222091201.chn",
+      "published": "Sun, 23 Aug 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Lịch chốt quyền cổ tức tuần 24-28/8: Gần 30 doanh nghiệp \"lăn chốt\", cổ tức tiền mặt cao nhất 25%",
+      "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-24-28-8-gan-30-doanh-nghiep-lan-chot-co-tuc-tien-mat-cao-nhat-25-188260822221212717.chn",
+      "published": "Sun, 23 Aug 26 00:01:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Kế toán trưởng F88 xin nghỉ việc",
@@ -271,36 +301,6 @@
       "title": "CTCK chỉ ra chất xúc tác quan trọng giúp VN-Index tiến lên vùng 2.000 điểm",
       "link": "https://cafef.vn/ctck-chi-ra-chat-xuc-tac-quan-trong-giup-vn-index-tien-len-vung-2000-diem-188260820220251249.chn",
       "published": "Fri, 21 Aug 26 00:01:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Đúng 1 ngày nữa FTSE công bố thông tin quan trọng, CTCK gọi tên 28 cổ phiếu có thể hút hàng tỷ USD",
-      "link": "https://cafef.vn/dung-1-ngay-nua-ftse-cong-bo-thong-tin-quan-trong-ctck-goi-ten-28-co-phieu-co-the-hut-hang-ty-usd-188260820210158725.chn",
-      "published": "Thu, 20 Aug 26 21:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Sếp SSI đăng ký mua 5 triệu cổ phiếu ngay trước thềm nâng hạng",
-      "link": "https://cafef.vn/sep-ssi-dang-ky-mua-5-trieu-co-phieu-ngay-truoc-them-nang-hang-188260820204931304.chn",
-      "published": "Thu, 20 Aug 26 20:49:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một cổ phiếu tăng “phi mã\" trước thềm họp ĐHCĐ bất thường",
-      "link": "https://cafef.vn/mot-co-phieu-tang-phi-ma-truoc-them-hop-dhcd-bat-thuong-188260820204315683.chn",
-      "published": "Thu, 20 Aug 26 20:43:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cục Đường bộ yêu cầu bổ sung phương án phù hợp thu phí ví VETC, Viettel Money",
-      "link": "https://cafef.vn/cuc-duong-bo-yeu-cau-bo-sung-phuong-an-phu-hop-thu-phi-vi-vetc-viettel-money-188260820170814257.chn",
-      "published": "Thu, 20 Aug 26 17:59:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Đầu tư tiền ảo thua lỗ 68 tỷ, Phạm Anh Tiến SN 1992 mua vàng giả trên mạng rồi dán mác Kho bạc Nhà nước để lừa đảo",
-      "link": "https://cafef.vn/dau-tu-tien-ao-thua-lo-68-ty-pham-anh-tien-sn-1992-mua-vang-gia-tren-mang-roi-dan-mac-kho-bac-nha-nuoc-de-lua-dao-188260820175012089.chn",
-      "published": "Thu, 20 Aug 26 17:50:00 +0700"
     },
     {
       "source": "VietstockFinance",
