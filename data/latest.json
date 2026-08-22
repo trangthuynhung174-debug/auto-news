@@ -1,7 +1,37 @@
 {
-  "collected_at": "2026-08-22T03:10:26.705831+00:00",
+  "collected_at": "2026-08-22T05:04:52.400901+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Quỹ khổng lồ \"xuống tiền\"  gom 20 tấn bạc khi giá hồi phục",
+      "link": "https://cafef.vn/quy-khong-lo-xuong-tien-gom-20-tan-bac-khi-gia-hoi-phuc-188260822110845125.chn",
+      "published": "Sat, 22 Aug 26 11:09:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng nhảy vọt, quỹ vàng lớn nhất thế giới có động thái mới",
+      "link": "https://cafef.vn/gia-vang-nhay-vot-quy-vang-lon-nhat-the-gioi-co-dong-thai-moi-188260822110703651.chn",
+      "published": "Sat, 22 Aug 26 11:07:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "17 cổ phiếu chứng khoán được FTSE Russell gọi tên, hàng trăm triệu USD chờ đổ vào",
+      "link": "https://cafef.vn/17-co-phieu-chung-khoan-duoc-ftse-russell-goi-ten-hang-tram-trieu-usd-cho-do-vao-188260822104744242.chn",
+      "published": "Sat, 22 Aug 26 10:47:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vợ Phó TGĐ VietinBank mua được căn hộ hơn 12 tỷ đồng do chính ngân hàng đấu giá",
+      "link": "https://cafef.vn/vo-pho-tgd-vietinbank-mua-duoc-can-ho-hon-12-ty-dong-do-chinh-ngan-hang-dau-gia-188260822093434934.chn",
+      "published": "Sat, 22 Aug 26 10:33:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Ngạc nhiên giá vàng",
+      "link": "https://cafef.vn/ngac-nhien-gia-vang-188260822102547165.chn",
+      "published": "Sat, 22 Aug 26 10:25:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "VN-Index tăng mạnh nhất 1 tháng, tuần tới chứng khoán sẽ ra sao?",
@@ -271,36 +301,6 @@
       "title": "Loạt câu hỏi sau 'thương vụ' thu phí tài khoản giao thông bất thành",
       "link": "https://cafef.vn/loat-cau-hoi-sau-thuong-vu-thu-phi-tai-khoan-giao-thong-bat-thanh-18826082017063851.chn",
       "published": "Thu, 20 Aug 26 17:27:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Công ty con của Hóa chất Đức Giang đón tin vui",
-      "link": "https://cafef.vn/cong-ty-con-cua-hoa-chat-duc-giang-don-tin-vui-188260820171626583.chn",
-      "published": "Thu, 20 Aug 26 17:17:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Phiên 20/8: Khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE, cổ phiếu nào bị \"xả\" mạnh nhất?",
-      "link": "https://cafef.vn/phien-20-8-khoi-ngoai-ban-rong-hon-600-ty-dong-tren-hose-co-phieu-nao-bi-xa-manh-nhat-188260820154406132.chn",
-      "published": "Thu, 20 Aug 26 15:45:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Miễn nhiệm TGĐ Nguyễn Khánh Linh",
-      "link": "https://cafef.vn/mien-nhiem-tgd-nguyen-khanh-linh-188260820150034615.chn",
-      "published": "Thu, 20 Aug 26 15:00:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Hiếm có: Giá vàng trong nước mua vào bằng giá thế giới, bạc cũng giảm độ vênh",
-      "link": "https://cafef.vn/hiem-co-gia-vang-trong-nuoc-mua-vao-bang-gia-the-gioi-bac-cung-giam-do-venh-188260820144402606.chn",
-      "published": "Thu, 20 Aug 26 14:43:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Lộ diện thêm cá mập trở lại là cổ đông lớn tại PNJ",
-      "link": "https://cafef.vn/lo-dien-them-ca-map-tro-lai-la-co-dong-lon-tai-pnj-188260820144218261.chn",
-      "published": "Thu, 20 Aug 26 14:42:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "FTSE công bố 117 cổ phiếu Việt Nam: Ai sẽ hưởng lợi lớn trước ‘giờ G’ nâng hạng?",
+      "link": "https://vnbusiness.vn//ftse-cong-bo-117-co-phieu-viet-nam-ai-se-huong-loi-lon-truoc-gio-g-nang-hang.html",
+      "published": "Sat, 22 Aug 2026 04:38:14 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Doanh nghiệp lớn đồng loạt chốt cổ tức, hàng nghìn tỷ đồng sắp chảy về túi cổ đông",
       "link": "https://vnbusiness.vn//doanh-nghiep-lon-dong-loat-chot-co-tuc-hang-nghin-ty-dong-sap-chay-ve-tui-co-dong.html",
       "published": "Fri, 21 Aug 2026 08:03:53 GMT"
@@ -1015,12 +1021,6 @@
       "title": "Cảng Sài Gòn mất điều kiện đại chúng: Vì sao cổ phiếu định giá hấp dẫn vẫn khó hút dòng tiền?",
       "link": "https://vnbusiness.vn//cang-sai-gon-mat-dieu-kien-dai-chung-vi-sao-co-phieu-dinh-gia-hap-dan-van-kho-hut-dong-tien.html",
       "published": "Fri, 07 Aug 2026 03:35:48 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Cổ phiếu bảo hiểm phân hóa: ‘Mỏ vàng’ tiền gửi nâng đỡ lợi nhuận nhưng chưa đủ tạo sóng",
-      "link": "https://vnbusiness.vn//co-phieu-bao-hiem-phan-hoa-mo-vang-tien-gui-nang-do-loi-nhuan-nhung-chua-du-tao-song.html",
-      "published": "Fri, 07 Aug 2026 00:39:16 GMT"
     }
   ]
 }
