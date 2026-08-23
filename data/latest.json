@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-08-23T03:31:08.053544+00:00",
+  "collected_at": "2026-08-23T05:16:30.161896+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "TCBS chuẩn bị chia cổ tức bằng cổ phiếu tỷ lệ 20%",
+      "link": "https://cafef.vn/tcbs-chuan-bi-chia-co-tuc-bang-co-phieu-ty-le-20-188260823111708151.chn",
+      "published": "Sun, 23 Aug 26 11:16:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Một tín hiệu \"đáng mừng\" với vàng vừa diễn ra",
@@ -297,12 +303,6 @@
       "published": "Fri, 21 Aug 26 02:29:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Điều gì có thể khiến dòng vốn ngoại đảo chiều trong nửa cuối năm?",
-      "link": "https://cafef.vn/dieu-gi-co-the-khien-dong-von-ngoai-dao-chieu-trong-nua-cuoi-nam-188260820223554025.chn",
-      "published": "Fri, 21 Aug 26 00:06:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 24-28/08/2026",
       "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-24-28082026-585-1483951.htm",
@@ -424,6 +424,18 @@
     },
     {
       "source": "VnEconomy - Chứng khoán",
+      "title": "Công ty chứng khoán nhận định gì sau phiên tăng đột biến cuối tuần?",
+      "link": "https://vneconomy.vn/cong-ty-chung-khoan-nhan-dinh-gi-sau-phien-tang-dot-bien-cuoi-tuan.htm",
+      "published": "Sun, 23 Aug 2026 03:44:30 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Xu thế dòng tiền: Kỳ vọng gì từ đột biến tăng mạnh cuối tuần?",
+      "link": "https://vneconomy.vn/xu-the-dong-tien-ky-vong-gi-tu-dot-bien-tang-manh-cuoi-tuan.htm",
+      "published": "Sun, 23 Aug 2026 03:36:48 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
       "title": "Hiệu suất các quỹ trái phiếu rất thấp, dòng tiền tiếp tục rút ra",
       "link": "https://vneconomy.vn/hieu-suat-cac-quy-trai-phieu-rat-thap-dong-tien-tiep-tuc-rut-ra.htm",
       "published": "Sun, 23 Aug 2026 02:43:43 GMT"
@@ -433,12 +445,6 @@
       "title": "“Sai lầm” của tự doanh và khối ngoại là bán ròng toàn cổ phiếu trong nhóm FTSE GEIS, đặc biệt xả SSI",
       "link": "https://vneconomy.vn/sai-lam-cua-tu-doanh-va-khoi-ngoai-la-ban-rong-toan-co-phieu-trong-nhom-ftse-geis-dac-biet-xa-ssi.htm",
       "published": "Sun, 23 Aug 2026 02:43:30 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "SCIC đề xuất thành lập Quỹ đầu tư quốc gia quy mô vốn chủ 133.000 tỷ ngay trong quý 3/2026",
-      "link": "https://vneconomy.vn/scic-de-xuat-thanh-lap-quy-dau-tu-quoc-gia-quy-mo-von-chu-133000-ty-ngay-trong-quy-32026.htm",
-      "published": "Sun, 23 Aug 2026 02:42:39 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Chứng khoán Mỹ giảm liên ba phiên, giá dầu duy trì xu thế tăng",
       "link": "https://vneconomy.vn/chung-khoan-my-giam-lien-ba-phien-gia-dau-duy-tri-xu-the-tang.htm",
       "published": "Wed, 19 Aug 2026 01:10:08 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Các tổ chức nước ngoài đổ xô phát hành trái phiếu tại châu Á - Thái Bình Dương",
-      "link": "https://vneconomy.vn/cac-to-chuc-nuoc-ngoai-do-xo-phat-hanh-trai-phieu-tai-chau-a-thai-binh-duong.htm",
-      "published": "Wed, 19 Aug 2026 00:26:43 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
