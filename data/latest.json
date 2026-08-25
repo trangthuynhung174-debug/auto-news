@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-08-25T08:10:46.895665+00:00",
+  "collected_at": "2026-08-25T10:16:57.842072+00:00",
   "count": 169,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Phiên 25/8: Một cổ phiếu Bluechips được khối ngoại \"gom\" gần 400 tỷ đồng",
+      "link": "https://cafef.vn/phien-25-8-mot-co-phieu-bluechips-duoc-khoi-ngoai-gom-gan-400-ty-dong-188260825153236281.chn",
+      "published": "Tue, 25 Aug 26 16:02:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ đông mua IPO Điện Máy Xanh gần hết lãi",
+      "link": "https://cafef.vn/co-dong-mua-ipo-dien-may-xanh-gan-het-lai-188260825151440744.chn",
+      "published": "Tue, 25 Aug 26 15:45:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Doanh nghiệp trăm năm tuổi trên sàn chứng khoán \"chơi lớn\" trả gần 700 tỷ tiền cổ tức",
@@ -291,28 +303,16 @@
       "published": "Mon, 24 Aug 26 10:00:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam, sẽ giải ngân ra sao?",
-      "link": "https://cafef.vn/hang-ty-usd-sap-do-vao-chung-khoan-viet-nam-se-giai-ngan-ra-sao-188260824094132871.chn",
-      "published": "Mon, 24 Aug 26 09:41:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Transimex tiếp tục đăng ký mua vào 1 triệu cổ phiếu VNF",
-      "link": "https://cafef.vn/transimex-tiep-tuc-dang-ky-mua-vao-1-trieu-co-phieu-vnf-188260824091908041.chn",
-      "published": "Mon, 24 Aug 26 09:19:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Vietcap tiếp tục trao tặng 8,000 cây, thành công khép lại Go Green Go Up mùa 2",
+      "link": "http://vietstock.vn/2026/08/vietcap-tiep-tuc-trao-tang-8000-cay-thanh-cong-khep-lai-go-green-go-up-mua-2-830-1484784.htm",
+      "published": "Tue, 25 Aug 2026 16:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật phiên chiều 25/08: Đà tăng tiếp tục được củng cố",
       "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2508-da-tang-tiep-tuc-duoc-cung-co-585-1484776.htm",
       "published": "Tue, 25 Aug 2026 13:11:55 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Nhịp đập Thị trường 25/08: Cổ phiếu trụ kéo chỉ số",
-      "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2508-co-phieu-tru-keo-chi-so-1636-1484699.htm",
-      "published": "Tue, 25 Aug 2026 13:05:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -415,6 +415,42 @@
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 24-28/08/2026",
       "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-24-28082026-585-1483951.htm",
       "published": "Sun, 23 Aug 2026 07:30:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "\"Dòng vốn chủ động đã tìm kiếm cơ hội tại Việt Nam ngay cả trước nâng hạng, nhưng thiếu hàng tốt\"",
+      "link": "https://vneconomy.vn/dong-von-chu-dong-da-tim-kiem-co-hoi-tai-viet-nam-ngay-ca-truoc-nang-hang-nhung-thieu-hang-tot.htm",
+      "published": "Tue, 25 Aug 2026 09:27:20 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Hiệu suất trung bình của các quỹ trong 10 năm đạt 8,2%/năm có hấp dẫn nhà đầu tư?",
+      "link": "https://vneconomy.vn/hieu-suat-trung-binh-cua-cac-quy-trong-10-nam-dat-82nam-co-hap-dan-nha-dau-tu.htm",
+      "published": "Tue, 25 Aug 2026 09:20:50 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "95% nhà đầu tư thua lỗ và rời bỏ thị trường chứng khoán sau 2 năm",
+      "link": "https://vneconomy.vn/95-nha-dau-tu-thua-lo-va-roi-bo-thi-truong-chung-khoan-sau-2-nam.htm",
+      "published": "Tue, 25 Aug 2026 09:15:21 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Blog chứng khoán: Phản ứng ngược",
+      "link": "https://vneconomy.vn/blog-chung-khoan-phan-ung-nguoc.htm",
+      "published": "Tue, 25 Aug 2026 09:14:29 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Doanh nghiệp siêu nhỏ và hoạt động trong lĩnh vực bất động sản có tỷ lệ đóng cửa cao nhất",
+      "link": "https://vneconomy.vn/doanh-nghiep-sieu-nho-va-hoat-dong-trong-linh-vuc-bat-dong-san-co-ty-le-dong-cua-cao-nhat.htm",
+      "published": "Tue, 25 Aug 2026 08:26:32 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Trụ “còng lưng” đỡ điểm, cổ phiếu vẫn giảm la liệt",
+      "link": "https://vneconomy.vn/tru-cong-lung-do-diem-co-phieu-van-giam-la-liet.htm",
+      "published": "Tue, 25 Aug 2026 08:26:09 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -679,42 +715,6 @@
       "title": "Trái phiếu chính phủ Trung Quốc “ngược dòng” đà bán tháo toàn cầu",
       "link": "https://vneconomy.vn/trai-phieu-chinh-phu-trung-quoc-nguoc-dong-da-ban-thao-toan-cau.htm",
       "published": "Fri, 21 Aug 2026 00:22:33 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index có khả năng thử thách ngưỡng 1750 điểm?",
-      "link": "https://vneconomy.vn/vn-index-co-kha-nang-thu-thach-nguong-1750-diem.htm",
-      "published": "Thu, 20 Aug 2026 14:28:56 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thanh khoản cạn kiệt, cá nhân mua ròng 100 tỷ",
-      "link": "https://vneconomy.vn/thanh-khoan-can-kiet-ca-nhan-mua-rong-100-ty.htm",
-      "published": "Thu, 20 Aug 2026 12:24:49 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "91/91 quỹ cổ phiếu đồng loạt báo lỗ nặng trong tháng 7, dòng tiền rút ra mạnh",
-      "link": "https://vneconomy.vn/9191-quy-co-phieu-dong-loat-bao-lo-nang-trong-thang-7-dong-tien-rut-ra-manh.htm",
-      "published": "Thu, 20 Aug 2026 12:22:57 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Công bố Dự thảo Nghị định kinh doanh xăng dầu: Những doanh nghiệp nào được hưởng lợi?",
-      "link": "https://vneconomy.vn/cong-bo-du-thao-nghi-dinh-kinh-doanh-xang-dau-nhung-doanh-nghiep-nao-duoc-huong-loi.htm",
-      "published": "Thu, 20 Aug 2026 08:48:17 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Ngày cổ phiếu chào sàn, nhà sáng lập hãng robot Trung Quốc “kiếm” 13 tỷ USD",
-      "link": "https://vneconomy.vn/ngay-co-phieu-chao-san-nha-sang-lap-hang-robot-trung-quoc-kiem-13-ty-usd.htm",
-      "published": "Thu, 20 Aug 2026 08:36:18 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "“Dò dẫm” phục hồi, HoSE khớp lệnh dưới 10.000 tỷ",
-      "link": "https://vneconomy.vn/do-dam-phuc-hoi-hose-khop-lenh-duoi-10000-ty.htm",
-      "published": "Thu, 20 Aug 2026 08:31:22 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
