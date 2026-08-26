@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-08-26T03:35:38.765280+00:00",
+  "collected_at": "2026-08-26T05:53:57.166770+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vietcombank phát cảnh báo khẩn về việc bị giả mạo",
+      "link": "https://cafef.vn/vietcombank-phat-canh-bao-khan-ve-viec-bi-gia-mao-188260826111009435.chn",
+      "published": "Wed, 26 Aug 26 11:09:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Green GSM có động thái mới tại quốc gia láng giềng Việt Nam",
+      "link": "https://cafef.vn/green-gsm-co-dong-thai-moi-tai-quoc-gia-lang-gieng-viet-nam-188260826105018144.chn",
+      "published": "Wed, 26 Aug 26 10:50:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "FTSE Russell công bố tài liệu quan trọng về tỷ trọng của Việt Nam, lộ trình giải ngân, phân loại cổ phiếu…",
+      "link": "https://cafef.vn/ftse-russell-cong-bo-tai-lieu-quan-trong-ve-ty-trong-cua-viet-nam-lo-trinh-giai-ngan-phan-loai-co-phieu-188260826103513483.chn",
+      "published": "Wed, 26 Aug 26 10:35:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "VIS Rating dự báo: sự phân hóa về hồ sơ tín nhiệm sẽ tiếp tục là tông màu chủ đạo của ngành ngân hàng nửa cuối năm 2026",
@@ -285,24 +303,6 @@
       "published": "Tue, 25 Aug 26 00:03:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "27 quỹ cùng “đổ tiền” vào một cổ phiếu ngân hàng, mua ròng 4 tháng liên tiếp",
-      "link": "https://cafef.vn/27-quy-cung-do-tien-vao-mot-co-phieu-ngan-hang-mua-rong-4-thang-lien-tiep-188260824223902783.chn",
-      "published": "Tue, 25 Aug 26 00:01:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một cổ phiếu quốc dân bất ngờ bị hơn 20 quỹ ồ ạt \"xả hàng\"",
-      "link": "https://cafef.vn/mot-co-phieu-quoc-dan-bat-ngo-bi-hon-20-quy-o-at-xa-hang-188260824210648107.chn",
-      "published": "Mon, 24 Aug 26 21:06:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một doanh nghiệp trên sàn chứng khoán chuẩn bị \"lăn chốt\" cổ tức 25% bằng tiền mặt",
-      "link": "https://cafef.vn/mot-doanh-nghiep-tren-san-chung-khoan-chuan-bi-lan-chot-co-tuc-25-bang-tien-mat-188260824210155606.chn",
-      "published": "Mon, 24 Aug 26 21:01:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Top cổ phiếu đáng chú ý đầu phiên 26/08",
       "link": "http://vietstock.vn/2026/08/top-co-phieu-dang-chu-y-dau-phien-2608-830-1485104.htm",
@@ -421,6 +421,18 @@
       "title": "Hé lộ 43 định chế tài chính là Thành viên Hội đồng bình chọn IR Awards 2026",
       "link": "http://vietstock.vn/2026/08/he-lo-43-dinh-che-tai-chinh-la-thanh-vien-hoi-dong-binh-chon-ir-awards-2026-830-1483978.htm",
       "published": "Mon, 24 Aug 2026 09:57:07 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Tâm lý nghỉ Lễ sớm, thanh khoản giảm đột biến",
+      "link": "https://vneconomy.vn/tam-ly-nghi-le-som-thanh-khoan-giam-dot-bien.htm",
+      "published": "Wed, 26 Aug 2026 05:00:37 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Quỹ ngoại: Định giá nhiều cổ phiếu Việt Nam ở mức thấp bất thường",
+      "link": "https://vneconomy.vn/quy-ngoai-dinh-gia-nhieu-co-phieu-viet-nam-o-muc-thap-bat-thuong.htm",
+      "published": "Wed, 26 Aug 2026 03:57:40 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,16 @@
       "published": "Sat, 22 Aug 2026 01:32:20 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "FTSE Russell chính thức công bố 27 cổ phiếu Việt Nam lọt vào FTSE All-Cap",
-      "link": "https://vneconomy.vn/ftse-russell-chinh-thuc-cong-bo-27-co-phieu-viet-nam-lot-vao-ftse-all-cap.htm",
-      "published": "Fri, 21 Aug 2026 15:28:06 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Chủ tịch 9x của Fibo Invest và 11 tài khoản trong vụ thao túng cổ phiếu CAR",
+      "link": "https://vnbusiness.vn//chu-tich-9x-cua-fibo-invest-va-11-tai-khoan-trong-vu-thao-tung-co-phieu-car.html",
+      "published": "Wed, 26 Aug 2026 04:39:56 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tiền đổ vào chứng khoán ngân hàng đón sóng FTSE Russell, tổ chức trong nước tranh thủ thoát hàng",
-      "link": "https://vneconomy.vn/tien-do-vao-chung-khoan-ngan-hang-don-song-ftse-russell-to-chuc-trong-nuoc-tranh-thu-thoat-hang.htm",
-      "published": "Fri, 21 Aug 2026 13:56:38 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "IPO đình đám, lợi nhuận nhà đầu tư cổ phiếu Điện Máy Xanh vẫn nhanh chóng ‘bốc hơi’",
+      "link": "https://vnbusiness.vn//ipo-dinh-dam-loi-nhuan-nha-dau-tu-co-phieu-dien-may-xanh-van-nhanh-chong-boc-hoi.html",
+      "published": "Wed, 26 Aug 2026 03:41:59 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1009,18 +1021,6 @@
       "title": "Cổ phiếu thép: Lợi nhuận bật tăng, dòng tiền có tìm lại 'sức nóng'?",
       "link": "https://vnbusiness.vn//co-phieu-thep-loi-nhuan-bat-tang-dong-tien-co-tim-lai-suc-nong.html",
       "published": "Wed, 12 Aug 2026 00:39:09 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Thuduc House được gỡ “khóa” tài sản, doanh thu tăng 4,5 lần nhưng lãi giảm 33%",
-      "link": "https://vnbusiness.vn//thuduc-house-duoc-go-khoa-tai-san-doanh-thu-tang-45-lan-nhung-lai-giam-33.html",
-      "published": "Tue, 11 Aug 2026 09:28:21 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "GEE tăng trần, “trắng bên bán” giữa lúc VN-Index quay đầu giảm",
-      "link": "https://vnbusiness.vn//gee-tang-tran-trang-ben-ban-giua-luc-vn-index-quay-dau-giam.html",
-      "published": "Tue, 11 Aug 2026 09:26:37 GMT"
     }
   ]
 }
