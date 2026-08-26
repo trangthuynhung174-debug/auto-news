@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-08-26T10:55:01.401281+00:00",
+  "collected_at": "2026-08-26T12:01:21.430331+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ phiếu TCB, BCM “cháy hàng”, VN-Index tăng phiên thứ 5 liên tiếp",
+      "link": "https://cafef.vn/co-phieu-tcb-bcm-chay-hang-vn-index-tang-phien-thu-5-lien-tiep-188260826171144393.chn",
+      "published": "Wed, 26 Aug 26 18:10:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Quant Trading bước vào “cuộc chơi” mới khi dữ liệu, AI và công nghệ định hình lại cách tiếp cận thị trường",
@@ -297,10 +303,16 @@
       "published": "Tue, 25 Aug 26 11:28:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "HoSE cập nhật danh sách 61 mã chứng khoán không được cấp margin",
-      "link": "https://cafef.vn/hose-cap-nhat-danh-sach-61-ma-chung-khoan-khong-duoc-cap-margin-188260825111652756.chn",
-      "published": "Tue, 25 Aug 26 11:23:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Vietstock Daily 27/08/2026: Đà tăng rộng mở?",
+      "link": "http://vietstock.vn/2026/08/vietstock-daily-27082026-da-tang-rong-mo-1636-1485476.htm",
+      "published": "Wed, 26 Aug 2026 18:17:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "RTB không đạt điều kiện đại chúng, còn 1 năm để giải quyết",
+      "link": "http://vietstock.vn/2026/08/rtb-khong-dat-dieu-kien-dai-chung-con-1-nam-de-giai-quyet-830-1485477.htm",
+      "published": "Wed, 26 Aug 2026 18:10:36 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -411,16 +423,10 @@
       "published": "Mon, 24 Aug 2026 18:35:57 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Nhịp đập Thị trường 24/08: Áp lực chốt lời ngắn hạn xuất hiện, VN-Index diễn biến giằng co quanh mốc 1,788 điểm",
-      "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2408-ap-luc-chot-loi-ngan-han-xuat-hien-vn-index-dien-bien-giang-co-quanh-moc-1788-diem-1636-1484286.htm",
-      "published": "Mon, 24 Aug 2026 17:47:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 24/08: Áp lực bán ngắn hạn xuất hiện",
-      "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2408-ap-luc-ban-ngan-han-xuat-hien-585-1484336.htm",
-      "published": "Mon, 24 Aug 2026 13:06:11 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Hơn 5.000 tỷ đồng cổ tức tiền mặt từ DMX chính thức về tài khoản của các cổ đông",
+      "link": "https://vneconomy.vn/hon-5000-ty-dong-co-tuc-tien-mat-tu-dmx-chinh-thuc-ve-tai-khoan-cua-cac-co-dong.htm",
+      "published": "Wed, 26 Aug 2026 11:51:26 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Dữ liệu và AI đang thay đổi ngành chứng khoán như thế nào?",
       "link": "https://vneconomy.vn/du-lieu-va-ai-dang-thay-doi-nganh-chung-khoan-nhu-the-nao.htm",
       "published": "Sun, 23 Aug 2026 02:42:08 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Nhà đầu tư lùi dự báo về thời điểm Mỹ và Anh tăng lãi suất",
-      "link": "https://vneconomy.vn/nha-dau-tu-lui-du-bao-ve-thoi-diem-my-va-anh-tang-lai-suat.htm",
-      "published": "Sat, 22 Aug 2026 07:33:55 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
