@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-29T14:06:39.094569+00:00",
+  "collected_at": "2026-08-29T15:06:27.171177+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Giá cổ phiếu biến động vì tin đồn",
+      "link": "http://vietstock.vn/2026/08/gia-co-phieu-bien-dong-vi-tin-don-830-1486926.htm",
+      "published": "Sat, 29 Aug 2026 21:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC “gánh” hơn 52 điểm",
       "link": "http://vietstock.vn/2026/08/vn-index-tang-64-diem-tuan-qua-rieng-vic-ganh-hon-52-diem-830-1486908.htm",
       "published": "Sat, 29 Aug 2026 20:30:00 +0700"
@@ -415,12 +421,6 @@
       "title": "27/08: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/08/2708-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1485595.htm",
       "published": "Thu, 27 Aug 2026 06:00:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 26/08: Tự doanh, khối ngoại cùng gom TCB khi xuất hiện kỳ vọng về cổ đông chiến lược",
-      "link": "http://vietstock.vn/2026/08/theo-dau-dong-tien-ca-map-2608-tu-doanh-khoi-ngoai-cung-gom-tcb-khi-xuat-hien-ky-vong-ve-co-dong-chien-luoc-830-1485565.htm",
-      "published": "Wed, 26 Aug 2026 19:02:26 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
