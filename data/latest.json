@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-08-29T01:06:26.857040+00:00",
+  "collected_at": "2026-08-29T02:06:27.473051+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Khối ngoại bất ngờ trở lại giải ngân hơn 1.100 tỷ đồng mua cổ phiếu Việt Nam, tâm điểm một mã ngân hàng",
+      "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tro-lai-giai-ngan-hon-1100-ty-dong-mua-co-phieu-viet-nam-tam-diem-mot-ma-ngan-hang-188260828234348842.chn",
+      "published": "Sat, 29 Aug 26 08:25:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Ông Ngô Trọng Vinh xin từ nhiệm, công ty triệu tập họp bất thường",
@@ -151,12 +157,6 @@
       "title": "Doanh nghiệp dầu khí lớn nhất sàn chứng khoán phát thông báo quan trọng",
       "link": "https://cafef.vn/doanh-nghiep-dau-khi-lon-nhat-san-chung-khoan-phat-thong-bao-quan-trong-18826082722235075.chn",
       "published": "Fri, 28 Aug 26 00:02:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Khối ngoại bất ngờ trở lại giải ngân hơn 1.100 tỷ đồng mua cổ phiếu Việt Nam, tâm điểm một mã ngân hàng",
-      "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tro-lai-giai-ngan-hon-1100-ty-dong-mua-co-phieu-viet-nam-tam-diem-mot-ma-ngan-hang-188260828234348842.chn",
-      "published": "Fri, 28 Aug 26 00:01:00 +0700"
     },
     {
       "source": "CafeF - Chứng khoán",
@@ -421,6 +421,24 @@
       "title": "RTB không đạt điều kiện đại chúng, còn 1 năm để giải quyết",
       "link": "http://vietstock.vn/2026/08/rtb-khong-dat-dieu-kien-dai-chung-con-1-nam-de-giai-quyet-830-1485477.htm",
       "published": "Wed, 26 Aug 2026 18:10:36 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Cá nhân và Tự doanh xả hàng nghỉ lễ, tổ chức trong nước \"cân lệnh\"",
+      "link": "https://vneconomy.vn/ca-nhan-va-tu-doanh-xa-hang-nghi-le-to-chuc-trong-nuoc-can-lenh.htm",
+      "published": "Sat, 29 Aug 2026 01:23:59 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "S&P Dow Jones Indices đánh giá cao tiến trình cải cách thị trường chứng khoán Việt Nam",
+      "link": "https://vneconomy.vn/sp-dow-jones-indices-danh-gia-cao-tien-trinh-cai-cach-thi-truong-chung-khoan-viet-nam.htm",
+      "published": "Sat, 29 Aug 2026 01:23:16 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng “bốc hơi” gần 150 USD/oz sau bài phát biểu của Chủ tịch Fed",
+      "link": "https://vneconomy.vn/gia-vang-boc-hoi-gan-150-usdoz-sau-bai-phat-bieu-cua-chu-tich-fed.htm",
+      "published": "Sat, 29 Aug 2026 01:21:44 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -703,24 +721,6 @@
       "title": "Blog chứng khoán: Phản ứng ngược",
       "link": "https://vneconomy.vn/blog-chung-khoan-phan-ung-nguoc.htm",
       "published": "Tue, 25 Aug 2026 09:14:29 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Doanh nghiệp siêu nhỏ và hoạt động trong lĩnh vực bất động sản có tỷ lệ đóng cửa cao nhất",
-      "link": "https://vneconomy.vn/doanh-nghiep-sieu-nho-va-hoat-dong-trong-linh-vuc-bat-dong-san-co-ty-le-dong-cua-cao-nhat.htm",
-      "published": "Tue, 25 Aug 2026 08:26:32 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Trụ “còng lưng” đỡ điểm, cổ phiếu vẫn giảm la liệt",
-      "link": "https://vneconomy.vn/tru-cong-lung-do-diem-co-phieu-van-giam-la-liet.htm",
-      "published": "Tue, 25 Aug 2026 08:26:09 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Quy mô ngành quỹ Việt Nam chỉ khoảng 6% GDP, bằng 1/5 so với Thái Lan",
-      "link": "https://vneconomy.vn/quy-mo-nganh-quy-viet-nam-chi-khoang-6-gdp-bang-15-so-voi-thai-lan.htm",
-      "published": "Tue, 25 Aug 2026 07:42:07 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
