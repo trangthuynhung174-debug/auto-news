@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-08-31T04:06:49.193229+00:00",
+  "collected_at": "2026-08-31T05:06:36.422088+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tổng Giám đốc Vingroup thu nhập bao nhiêu khi Chủ tịch Phạm Nhật Vượng nhận thù lao 0 đồng?",
+      "link": "https://cafef.vn/tong-giam-doc-vingroup-thu-nhap-bao-nhieu-khi-chu-tich-pham-nhat-vuong-nhan-thu-lao-0-dong-188260831114331374.chn",
+      "published": "Mon, 31 Aug 26 11:43:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Giá vàng sáng nay: Vàng miếng đi ngang, vàng nhẫn có nơi bán gần 150 triệu đồng/lượng",
@@ -295,12 +301,6 @@
       "title": "Doanh nghiệp dầu khí lớn nhất sàn chứng khoán phát thông báo quan trọng",
       "link": "https://cafef.vn/doanh-nghiep-dau-khi-lon-nhat-san-chung-khoan-phat-thong-bao-quan-trong-18826082722235075.chn",
       "published": "Fri, 28 Aug 26 00:02:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Quá nhanh: Bách Hóa Xanh cán mốc 1.000 cửa hàng mở mới từ đầu 2026, hoàn thành sớm KPI",
-      "link": "https://cafef.vn/qua-nhanh-bach-hoa-xanh-can-moc-1000-cua-hang-mo-moi-tu-dau-2026-hoan-thanh-som-kpi-188260827223232059.chn",
-      "published": "Fri, 28 Aug 26 00:01:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Đông Tây Land đưa 80 triệu cổ phiếu lên UPCoM: Lợi nhuận tăng 11 lần, gần nửa tài sản là khoản phải thu",
+      "link": "https://vnbusiness.vn//dong-tay-land-dua-80-trieu-co-phieu-len-upcom-loi-nhuan-tang-11-lan-gan-nua-tai-san-la-khoan-phai-thu.html",
+      "published": "Mon, 31 Aug 2026 04:39:03 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "SSB “cháy hàng” sau tin vào rổ FTSE Global All Cap Index",
       "link": "https://vnbusiness.vn//ssb-chay-hang-sau-tin-vao-ro-ftse-global-all-cap-index.html",
       "published": "Fri, 28 Aug 2026 09:05:26 GMT"
@@ -1015,12 +1021,6 @@
       "title": "Tiền mặt phình to, lợi nhuận tăng mạnh: Sóng mới của cổ phiếu dầu khí?",
       "link": "https://vnbusiness.vn//tien-mat-phinh-to-loi-nhuan-tang-manh-song-moi-cua-co-phieu-dau-khi.html",
       "published": "Mon, 17 Aug 2026 00:30:53 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Thị trường đỏ lửa, cổ phiếu DXG bất ngờ tăng gần 6%, thanh khoản cao nhất hơn 2 tháng",
-      "link": "https://vnbusiness.vn//thi-truong-do-lua-co-phieu-dxg-bat-ngo-tang-gan-6-thanh-khoan-cao-nhat-hon-2-thang.html",
-      "published": "Fri, 14 Aug 2026 09:01:34 GMT"
     }
   ]
 }
