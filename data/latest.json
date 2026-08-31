@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-08-31T03:06:26.889176+00:00",
+  "collected_at": "2026-08-31T04:06:49.193229+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng sáng nay: Vàng miếng đi ngang, vàng nhẫn có nơi bán gần 150 triệu đồng/lượng",
+      "link": "https://cafef.vn/gia-vang-sang-nay-vang-mieng-di-ngang-vang-nhan-co-noi-ban-gan-150-trieu-dong-luong-188260831102744106.chn",
+      "published": "Mon, 31 Aug 26 10:27:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Vàng lên xuống liên tục, người mua vàng nên làm gì?",
@@ -297,12 +303,6 @@
       "published": "Fri, 28 Aug 26 00:01:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "VNDIRECT: Hơn 2 tỷ USD có thể đổ vào chứng khoán Việt Nam, hé lộ bước tiến với MSCI",
-      "link": "https://cafef.vn/vndirect-hon-2-ty-usd-co-the-do-vao-chung-khoan-viet-nam-he-lo-buoc-tien-voi-msci-188260827221632269.chn",
-      "published": "Fri, 28 Aug 26 00:01:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Giá cổ phiếu biến động vì tin đồn",
       "link": "http://vietstock.vn/2026/08/gia-co-phieu-bien-dong-vi-tin-don-830-1486926.htm",
@@ -421,6 +421,12 @@
       "title": "27/08: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/08/2708-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1485595.htm",
       "published": "Thu, 27 Aug 2026 06:00:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Bộ trưởng Bessent phát tín hiệu không can thiệp thêm, dù đồng yên trượt giá xuống ngưỡng nhạy cảm",
+      "link": "https://vneconomy.vn/bo-truong-bessent-phat-tin-hieu-khong-can-thiep-them-du-dong-yen-truot-gia-xuong-nguong-nhay-cam.htm",
+      "published": "Mon, 31 Aug 2026 03:48:30 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Dòng tiền toàn cầu thận trọng với cổ phiếu, đổ mạnh vào vàng và trái phiếu",
       "link": "https://vneconomy.vn/dong-tien-toan-cau-than-trong-voi-co-phieu-do-manh-vao-vang-va-trai-phieu.htm",
       "published": "Wed, 26 Aug 2026 02:44:35 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ tăng điểm nhờ lợi suất trái phiếu chính phủ giảm, giá dầu sụt mạnh",
-      "link": "https://vneconomy.vn/chung-khoan-my-tang-diem-nho-loi-suat-trai-phieu-chinh-phu-giam-gia-dau-sut-manh.htm",
-      "published": "Wed, 26 Aug 2026 01:03:31 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
