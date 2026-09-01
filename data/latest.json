@@ -1,7 +1,37 @@
 {
-  "collected_at": "2026-09-01T16:38:17.686655+00:00",
+  "collected_at": "2026-09-01T17:11:45.149872+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Dự báo sốc về giá vàng",
+      "link": "https://cafef.vn/du-bao-soc-ve-gia-vang-188260901220637603.chn",
+      "published": "Wed, 02 Sep 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Khối ngoại bán ròng hơn 90.000 tỷ từ đầu năm nhưng một tín hiệu tích cực đã xuất hiện",
+      "link": "https://cafef.vn/khoi-ngoai-ban-rong-hon-90000-ty-tu-dau-nam-nhung-mot-tin-hieu-tich-cuc-da-xuat-hien-188260901220700323.chn",
+      "published": "Wed, 02 Sep 26 00:04:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá thuê giàn khoan chịu áp lực ngắn hạn, \"ông lớn\" dầu khí vẫn được dự báo tăng trưởng mạnh",
+      "link": "https://cafef.vn/gia-thue-gian-khoan-chiu-ap-luc-ngan-han-ong-lon-dau-khi-van-duoc-du-bao-tang-truong-manh-188260901220505686.chn",
+      "published": "Wed, 02 Sep 26 00:03:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Petrosetco (PET) rót gần 473 tỷ đồng vào chứng khoán, mạnh tay với VIX, GEL, VPB và MSN",
+      "link": "https://cafef.vn/petrosetco-pet-rot-gan-473-ty-dong-vao-chung-khoan-manh-tay-voi-vix-gel-vpb-va-msn-188260901191955926.chn",
+      "published": "Wed, 02 Sep 26 00:02:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Ông Petri Deryng lý giải nguyên nhân cổ phiếu Việt Nam chưa tăng như kỳ vọng",
+      "link": "https://cafef.vn/ong-petri-deryng-ly-giai-nguyen-nhan-co-phieu-viet-nam-chua-tang-nhu-ky-vong-188260901220348935.chn",
+      "published": "Wed, 02 Sep 26 00:01:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Vàng tăng hơn 10 triệu đồng/lượng trong tháng 8: Tháng 9 liệu còn ‘nóng’?",
@@ -271,36 +301,6 @@
       "title": "Ông Ngô Trọng Vinh xin từ nhiệm, công ty triệu tập họp bất thường",
       "link": "https://cafef.vn/ong-ngo-trong-vinh-xin-tu-nhiem-cong-ty-trieu-tap-hop-bat-thuong-188260828230954212.chn",
       "published": "Sat, 29 Aug 26 00:07:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng bật tăng 15% trong tháng 8, chuyên gia cảnh báo một vùng giá có thể kích hoạt áp lực chốt lời",
-      "link": "https://cafef.vn/gia-vang-bat-tang-15-trong-thang-8-chuyen-gia-canh-bao-mot-vung-gia-co-the-kich-hoat-ap-luc-chot-loi-188260828230904135.chn",
-      "published": "Sat, 29 Aug 26 00:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chứng khoán ra sao trước kỳ nghỉ 5 ngày?",
-      "link": "https://cafef.vn/chung-khoan-ra-sao-truoc-ky-nghi-5-ngay-188260828203507456.chn",
-      "published": "Sat, 29 Aug 26 00:04:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "“Khách sộp” ở TP HCM vừa chốt mua 3.000 xe điện VinFast của tỷ phú Phạm Nhật Vượng là ai?",
-      "link": "https://cafef.vn/khach-sop-o-tp-hcm-vua-chot-mua-3000-xe-dien-vinfast-cua-ty-phu-pham-nhat-vuong-la-ai-188260828225615132.chn",
-      "published": "Sat, 29 Aug 26 00:03:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chính thức chốt ngày 4,1 tỷ cổ phiếu Vinhomes phát hành trả cổ tức được giao dịch",
-      "link": "https://cafef.vn/chinh-thuc-chot-ngay-41-ty-co-phieu-vinhomes-phat-hanh-tra-co-tuc-duoc-giao-dich-188260828225936108.chn",
-      "published": "Sat, 29 Aug 26 00:01:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một thế lực xả ròng hơn 700 tỷ đồng cổ phiếu Việt ngay trước kỳ nghỉ lễ, đâu là tâm điểm?",
-      "link": "https://cafef.vn/mot-the-luc-xa-rong-hon-700-ty-dong-co-phieu-viet-ngay-truoc-ky-nghi-le-dau-la-tam-diem-188260828181821828.chn",
-      "published": "Fri, 28 Aug 26 18:18:00 +0700"
     },
     {
       "source": "VietstockFinance",
