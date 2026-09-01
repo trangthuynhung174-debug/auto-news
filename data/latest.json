@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-01T08:13:23.312566+00:00",
+  "collected_at": "2026-09-01T09:12:37.901714+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tỷ phú Phạm Nhật Vượng tiếp tục nhận thù lao 0 đồng",
+      "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tiep-tuc-nhan-thu-lao-0-dong-188260901152155463.chn",
+      "published": "Tue, 01 Sep 26 15:21:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Tân Chủ tịch HĐQT nâng sở hữu lên 75% vốn VikkiBankS",
@@ -295,12 +301,6 @@
       "title": "2 bluechip được khối ngoại mạnh tay “gom” hơn 450 tỷ đồng trong phiên 28/8",
       "link": "https://cafef.vn/2-bluechip-duoc-khoi-ngoai-manh-tay-gom-hon-450-ty-dong-trong-phien-28-8-188260828152803729.chn",
       "published": "Fri, 28 Aug 26 15:45:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Mua công ty của Vingroup, Tập đoàn vốn hóa hơn 170 tỷ USD muốn xây trung tâm Top 3 thế giới ở Việt Nam",
-      "link": "https://cafef.vn/mua-cong-ty-cua-vingroup-tap-doan-von-hoa-hon-170-ty-usd-muon-xay-trung-tam-top-3-the-gioi-o-viet-nam-18826082814270151.chn",
-      "published": "Fri, 28 Aug 26 14:27:56 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Nợ phải trả vượt 30.000 tỷ đồng, CII vẫn miệt mài gom PC1: Đang đánh cược vào năng lượng?",
+      "link": "https://vnbusiness.vn//no-phai-tra-vuot-30000-ty-dong-cii-van-miet-mai-gom-pc1-dang-danh-cuoc-vao-nang-luong.html",
+      "published": "Tue, 01 Sep 2026 08:16:18 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "CIG: Cổ phiếu tăng gấp đôi, lợi nhuận sau soát xét giảm gần 30%, nợ phải trả vượt 2.300 tỷ đồng",
       "link": "https://vnbusiness.vn//cig-co-phieu-tang-gap-doi-loi-nhuan-sau-soat-xet-giam-gan-30-no-phai-tra-vuot-2300-ty-dong.html",
       "published": "Tue, 01 Sep 2026 04:40:24 GMT"
@@ -1015,12 +1021,6 @@
       "title": "VN-Index giảm nhẹ, cổ phiếu dầu khí và cao su ngược dòng bứt tốc",
       "link": "https://vnbusiness.vn//vn-index-giam-nhe-co-phieu-dau-khi-va-cao-su-nguoc-dong-but-toc.html",
       "published": "Mon, 17 Aug 2026 09:03:54 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Hàng tỷ cổ phiếu ngân hàng sắp 'bung', cuộc đua tăng vốn bước vào giai đoạn mới",
-      "link": "https://vnbusiness.vn//hang-ty-co-phieu-ngan-hang-sap-bung-cuoc-dua-tang-von-buoc-vao-giai-doan-moi.html",
-      "published": "Mon, 17 Aug 2026 05:47:41 GMT"
     }
   ]
 }
