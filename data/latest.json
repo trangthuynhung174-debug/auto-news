@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-02T03:11:57.449246+00:00",
+  "collected_at": "2026-09-02T04:14:03.581675+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 03-04/09/2026",
+      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-03-04092026-585-1486893.htm",
+      "published": "Wed, 02 Sep 2026 10:35:59 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Đông Tây Land sắp giao dịch 80 triệu cp trên UPCoM, kiểm toán lưu ý loạt khoản công nợ",
       "link": "http://vietstock.vn/2026/08/dong-tay-land-sap-giao-dich-80-trieu-cp-tren-upcom-kiem-toan-luu-y-loat-khoan-cong-no-830-1487023.htm",
       "published": "Mon, 31 Aug 2026 22:42:57 +0700"
@@ -417,10 +423,10 @@
       "published": "Thu, 27 Aug 2026 10:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Top cổ phiếu đáng chú ý đầu phiên 27/08",
-      "link": "http://vietstock.vn/2026/08/top-co-phieu-dang-chu-y-dau-phien-2708-830-1485596.htm",
-      "published": "Thu, 27 Aug 2026 08:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Mỹ cho biết Trung Quốc bất đồng với tuyên bố chung của G20 về “hàng xuất khẩu giá rẻ”",
+      "link": "https://vneconomy.vn/my-cho-biet-trung-quoc-bat-dong-voi-tuyen-bo-chung-cua-g20-ve-hang-xuat-khau-gia-re.htm",
+      "published": "Wed, 02 Sep 2026 03:28:53 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "FTSE Russell: Dòng vốn chủ động và thụ động vào Việt Nam có thể lên tới 157 nghìn tỷ",
       "link": "https://vneconomy.vn/ftse-russell-dong-von-chu-dong-va-thu-dong-vao-viet-nam-co-the-len-toi-157-nghin-ty.htm",
       "published": "Wed, 26 Aug 2026 09:30:22 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Blog chứng khoán: “Điểm nổ” cổ phiếu ngân hàng",
-      "link": "https://vneconomy.vn/blog-chung-khoan-diem-no-co-phieu-ngan-hang.htm",
-      "published": "Wed, 26 Aug 2026 09:29:03 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
