@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-02T11:11:34.536693+00:00",
+  "collected_at": "2026-09-02T12:16:28.284579+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Vietstock Weekly 03-04/09/2026: Giữ đà phục hồi",
+      "link": "http://vietstock.vn/2026/09/vietstock-weekly-03-04092026-giu-da-phuc-hoi-1636-1486892.htm",
+      "published": "Wed, 02 Sep 2026 18:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 03-04/09/2026",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-03-04092026-585-1486893.htm",
       "published": "Wed, 02 Sep 2026 10:35:59 +0700"
@@ -415,12 +421,6 @@
       "title": "Phân tích kỹ thuật phiên chiều 27/08: Sắc xanh đỏ đan xen",
       "link": "http://vietstock.vn/2026/08/phan-tich-ky-thuat-phien-chieu-2708-sac-xanh-do-dan-xen-585-1485767.htm",
       "published": "Thu, 27 Aug 2026 13:19:56 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Ngày 27/08/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-      "link": "http://vietstock.vn/2026/08/ngay-27082026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1485485.htm",
-      "published": "Thu, 27 Aug 2026 10:00:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
