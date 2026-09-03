@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-03T06:17:17.946354+00:00",
+  "collected_at": "2026-09-03T07:12:43.496230+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,18 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 03/09: VIC làm trụ, VN-Index chỉ còn giảm gần 11 điểm",
+      "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-0309-vic-lam-tru-vn-index-chi-con-giam-gan-11-diem-1636-1487266.htm",
+      "published": "Thu, 03 Sep 2026 13:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "Phân tích kỹ thuật phiên chiều 03/09: Thế giằng co vẫn còn",
+      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0309-the-giang-co-van-con-585-1487528.htm",
+      "published": "Thu, 03 Sep 2026 13:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "ADS bị nhắc nhở chậm công bố thông tin",
       "link": "http://vietstock.vn/2026/09/ads-bi-nhac-nho-cham-cong-bo-thong-tin-830-1487283.htm",
       "published": "Thu, 03 Sep 2026 11:14:29 +0700"
@@ -411,16 +423,16 @@
       "published": "Fri, 28 Aug 2026 08:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "28/08: Đọc gì trước giờ giao dịch chứng khoán?",
-      "link": "http://vietstock.vn/2026/08/2808-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1486094.htm",
-      "published": "Fri, 28 Aug 2026 06:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Xu hướng tăng có thể gặp áp lực do bất ổn chính trị toàn cầu",
+      "link": "https://vneconomy.vn/xu-huong-tang-co-the-gap-ap-luc-do-bat-on-chinh-tri-toan-cau.htm",
+      "published": "Thu, 03 Sep 2026 06:57:48 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "PV GAS không còn đáp ứng điều kiện công ty đại chúng",
-      "link": "http://vietstock.vn/2026/08/pv-gas-khong-con-dap-ung-dieu-kien-cong-ty-dai-chung-830-1486086.htm",
-      "published": "Thu, 27 Aug 2026 21:34:19 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chiến tranh kéo dài ở Vùng Vịnh đang “làm khó” Fed",
+      "link": "https://vneconomy.vn/chien-tranh-keo-dai-o-vung-vinh-dang-lam-kho-fed.htm",
+      "published": "Thu, 03 Sep 2026 06:57:11 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Thu, 27 Aug 2026 02:20:14 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ yếu đi trong lúc chờ tin Nvidia và Jackson Hole, giá dầu tiếp tục giảm",
-      "link": "https://vneconomy.vn/chung-khoan-my-yeu-di-trong-luc-cho-tin-nvidia-va-jackson-hole-gia-dau-tiep-tuc-giam.htm",
-      "published": "Thu, 27 Aug 2026 01:16:57 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Vàng trượt giá sau báo cáo lạm phát Mỹ",
-      "link": "https://vneconomy.vn/vang-truot-gia-sau-bao-cao-lam-phat-my-1300941.htm",
-      "published": "Thu, 27 Aug 2026 00:36:49 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Cảng Phước An tăng vốn lên 3.570 tỷ đồng, PetroVietnam mất quyền chi phối",
+      "link": "https://vnbusiness.vn//cang-phuoc-an-tang-von-len-3570-ty-dong-petrovietnam-mat-quyen-chi-phoi.html",
+      "published": "Thu, 03 Sep 2026 06:57:40 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "DNSE bị phạt 802,5 triệu đồng, phải dừng một số dịch vụ ký quỹ",
       "link": "https://vnbusiness.vn//dnse-bi-phat-8025-trieu-dong-phai-dung-mot-so-dich-vu-ky-quy.html",
       "published": "Tue, 18 Aug 2026 00:33:18 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "SCIC thoái vốn tại 66 doanh nghiệp: Cú hích free float hay áp lực nguồn cung?",
-      "link": "https://vnbusiness.vn//scic-thoai-von-tai-66-doanh-nghiep-cu-hich-free-float-hay-ap-luc-nguon-cung.html",
-      "published": "Tue, 18 Aug 2026 00:30:56 GMT"
     }
   ]
 }
