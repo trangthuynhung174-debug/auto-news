@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-03T01:10:52.020050+00:00",
+  "collected_at": "2026-09-03T02:16:13.606128+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Quỹ vàng lớn nhất thế giới mạnh tay \"bắt đáy\" gần 10 tấn vàng",
+      "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-manh-tay-bat-day-gan-10-tan-vang-18826090308454057.chn",
+      "published": "Thu, 03 Sep 26 08:50:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Bất động sản Greenwich chậm thanh toán gần 1.700 tỷ đồng gốc, lãi trái phiếu",
+      "link": "https://cafef.vn/bat-dong-san-greenwich-cham-thanh-toan-gan-1700-ty-dong-goc-lai-trai-phieu-18826090308234871.chn",
+      "published": "Thu, 03 Sep 26 08:23:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, một \"thế lực\" âm thầm gom loạt cổ phiếu",
@@ -291,16 +303,10 @@
       "published": "Sun, 30 Aug 26 10:57:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cuộc đua tăng vốn công ty chứng khoán: Nhóm quy mô nhỏ bứt tốc",
-      "link": "https://cafef.vn/cuoc-dua-tang-von-cong-ty-chung-khoan-nhom-quy-mo-nho-but-toc-188260830085545808.chn",
-      "published": "Sun, 30 Aug 26 09:54:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng hôm nay 30/8: Đi ngang ở ngưỡng thấp",
-      "link": "https://cafef.vn/gia-vang-hom-nay-30-8-di-ngang-o-nguong-thap-188260830085404035.chn",
-      "published": "Sun, 30 Aug 26 08:53:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 03/09",
+      "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0309-830-1486637.htm",
+      "published": "Thu, 03 Sep 2026 08:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -415,12 +421,6 @@
       "title": "Nhịp đập Thị trường 27/08: Lấy lại phong độ trong phiên chiều, VN-Index vượt 1,830 điểm",
       "link": "http://vietstock.vn/2026/08/nhip-dap-thi-truong-2708-lay-lai-phong-do-trong-phien-chieu-vn-index-vuot-1830-diem-1636-1485657.htm",
       "published": "Thu, 27 Aug 2026 17:02:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Gần 33 triệu cp HBS nhận án đình chỉ giao dịch",
-      "link": "http://vietstock.vn/2026/08/gan-33-trieu-cp-hbs-nhan-an-dinh-chi-giao-dich-830-1485892.htm",
-      "published": "Thu, 27 Aug 2026 16:59:49 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Cổ phiếu điện trước chu kỳ tăng trưởng mới",
+      "link": "https://vnbusiness.vn//co-phieu-dien-truoc-chu-ky-tang-truong-moi.html",
+      "published": "Thu, 03 Sep 2026 01:29:32 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Nợ phải trả vượt 30.000 tỷ đồng, CII vẫn miệt mài gom PC1: Đang đánh cược vào năng lượng?",
       "link": "https://vnbusiness.vn//no-phai-tra-vuot-30000-ty-dong-cii-van-miet-mai-gom-pc1-dang-danh-cuoc-vao-nang-luong.html",
       "published": "Tue, 01 Sep 2026 08:16:18 GMT"
@@ -1015,12 +1021,6 @@
       "title": "SCIC thoái vốn tại 66 doanh nghiệp: Cú hích free float hay áp lực nguồn cung?",
       "link": "https://vnbusiness.vn//scic-thoai-von-tai-66-doanh-nghiep-cu-hich-free-float-hay-ap-luc-nguon-cung.html",
       "published": "Tue, 18 Aug 2026 00:30:56 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "VN-Index giảm nhẹ, cổ phiếu dầu khí và cao su ngược dòng bứt tốc",
-      "link": "https://vnbusiness.vn//vn-index-giam-nhe-co-phieu-dau-khi-va-cao-su-nguoc-dong-but-toc.html",
-      "published": "Mon, 17 Aug 2026 09:03:54 GMT"
     }
   ]
 }
