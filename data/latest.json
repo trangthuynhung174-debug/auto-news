@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-04T07:12:23.641037+00:00",
+  "collected_at": "2026-09-04T08:13:30.053353+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Ông Đoàn Văn Hiểu Em muốn gom thêm cổ phiếu Điện Máy Xanh",
+      "link": "https://cafef.vn/ong-doan-van-hieu-em-muon-gom-them-co-phieu-dien-may-xanh-18826090414461838.chn",
+      "published": "Fri, 04 Sep 26 14:54:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Trước khi tuyên bố sắp IPO tại Mỹ, CT Group từng gây sốc khi thưởng Tết 1 lượng vàng 9999 cho tạp vụ, bảo vệ, tài xế…",
@@ -295,12 +301,6 @@
       "title": "Khi nào thị trường tài sản mã hóa vận hành, loại tài sản nào được giao dịch?",
       "link": "https://cafef.vn/khi-nao-thi-truong-tai-san-ma-hoa-van-hanh-loai-tai-san-nao-duoc-giao-dich-188260902170000627.chn",
       "published": "Wed, 02 Sep 26 17:59:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chuyên gia: Thị trường chứng khoán cuối năm sẽ phân hóa mạnh",
-      "link": "https://cafef.vn/chuyen-gia-thi-truong-chung-khoan-cuoi-nam-se-phan-hoa-manh-188260902152821037.chn",
-      "published": "Wed, 02 Sep 26 15:28:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Cổ phiếu SEA tăng 53% sau một tháng, SCIC vẫn chào giá thoái vốn cao hơn 38% thị giá",
+      "link": "https://vnbusiness.vn//co-phieu-sea-tang-53-sau-mot-thang-scic-van-chao-gia-thoai-von-cao-hon-38-thi-gia.html",
+      "published": "Fri, 04 Sep 2026 07:43:11 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Hơn 137 triệu cổ phiếu SBT đổi chủ, cơ cấu sở hữu TTC AgriS có gì đáng chú ý?",
       "link": "https://vnbusiness.vn//hon-137-trieu-co-phieu-sbt-doi-chu-co-cau-so-huu-ttc-agris-co-gi-dang-chu-y.html",
       "published": "Fri, 04 Sep 2026 04:12:28 GMT"
@@ -1015,12 +1021,6 @@
       "title": "Trước ‘giờ G’, chứng khoán Việt thiếu tiền hay thiếu sức hút?",
       "link": "https://vnbusiness.vn//truoc-gio-g-chung-khoan-viet-thieu-tien-hay-thieu-suc-hut.html",
       "published": "Tue, 18 Aug 2026 23:58:57 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Cen Land liên tiếp thoái vốn khỏi công ty con, lợi nhuận lao dốc: Tái cấu trúc để ‘nhẹ gánh’ hay thu hẹp cuộc chơi?",
-      "link": "https://vnbusiness.vn//cen-land-lien-tiep-thoai-von-khoi-cong-ty-con-loi-nhuan-lao-doc-tai-cau-truc-de-nhe-ganh-hay-thu-hep-cuoc-choi.html",
-      "published": "Tue, 18 Aug 2026 09:27:04 GMT"
     }
   ]
 }
