@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-04T12:16:06.137002+00:00",
+  "collected_at": "2026-09-04T13:12:14.689975+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Theo dấu dòng tiền cá mập 04/09: Khối ngoại mua ròng 119 tỷ đồng, tự doanh bán ròng 168 tỷ đồng",
+      "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0409-khoi-ngoai-mua-rong-119-ty-dong-tu-doanh-ban-rong-168-ty-dong-830-1488880.htm",
+      "published": "Fri, 04 Sep 2026 19:32:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Chứng khoán Tuần 03-04/09/2026: Dòng tiền phân hóa",
       "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-03-04092026-dong-tien-phan-hoa-1636-1488796.htm",
       "published": "Fri, 04 Sep 2026 18:17:00 +0700"
@@ -417,10 +423,10 @@
       "published": "Wed, 02 Sep 2026 10:35:59 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Đông Tây Land sắp giao dịch 80 triệu cp trên UPCoM, kiểm toán lưu ý loạt khoản công nợ",
-      "link": "http://vietstock.vn/2026/08/dong-tay-land-sap-giao-dich-80-trieu-cp-tren-upcom-kiem-toan-luu-y-loat-khoan-cong-no-830-1487023.htm",
-      "published": "Mon, 31 Aug 2026 22:42:57 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Thế giới bước vào kỷ nguyên lãi suất cao: Ai thiệt hại?",
+      "link": "https://vneconomy.vn/the-gioi-buoc-vao-ky-nguyen-lai-suat-cao-ai-thiet-hai.htm",
+      "published": "Fri, 04 Sep 2026 12:32:09 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Thị trường chưa phản ánh đúng tăng trưởng lợi nhuận, dư địa tăng giá vẫn còn nhiều?",
       "link": "https://vneconomy.vn/thi-truong-chua-phan-anh-dung-tang-truong-loi-nhuan-du-dia-tang-gia-van-con-nhieu.htm",
       "published": "Fri, 28 Aug 2026 06:35:40 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dòng tiền nghỉ ngơi, thanh khoản tiếp tục sụt giảm, blue-chips giữ cân bằng điểm số",
-      "link": "https://vneconomy.vn/dong-tien-nghi-ngoi-thanh-khoan-tiep-tuc-sut-giam-blue-chips-giu-can-bang-diem-so.htm",
-      "published": "Fri, 28 Aug 2026 05:10:46 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
