@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-04T09:12:26.110525+00:00",
+  "collected_at": "2026-09-04T10:12:31.322123+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vì sao PVIT bị xử phạt?",
+      "link": "https://cafef.vn/vi-sao-pvit-bi-xu-phat-188260904165802559.chn",
+      "published": "Fri, 04 Sep 26 16:57:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vingroup và SACOMBANK cùng nhau lên đỉnh",
+      "link": "https://cafef.vn/vingroup-va-sacombank-cung-nhau-len-dinh-18826090416324243.chn",
+      "published": "Fri, 04 Sep 26 16:32:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Khối ngoại \"quay xe\" mua ròng phiên VN-Index bứt phá, gom mạnh VIC, VHM",
@@ -291,18 +303,6 @@
       "published": "Thu, 03 Sep 26 00:16:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng lao dốc đầu tháng 9, chuyên gia phát cảnh báo quan trọng",
-      "link": "https://cafef.vn/gia-vang-lao-doc-dau-thang-9-chuyen-gia-phat-canh-bao-quan-trong-188260902225452251.chn",
-      "published": "Thu, 03 Sep 26 00:02:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Sau nghỉ lễ, chuyên gia chỉ tên 2 nhóm cổ phiếu định giá rẻ, triển vọng tăng trưởng lợi nhuận tích cực",
-      "link": "https://cafef.vn/sau-nghi-le-chuyen-gia-chi-ten-2-nhom-co-phieu-dinh-gia-re-trien-vong-tang-truong-loi-nhuan-tich-cuc-188260902225313204.chn",
-      "published": "Thu, 03 Sep 26 00:02:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật phiên chiều 04/09: Rung lắc tại ngưỡng Fibonacci Projection 100%",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0409-rung-lac-tai-nguong-fibonacci-projection-100-585-1488519.htm",
@@ -421,6 +421,18 @@
       "title": "Giá cổ phiếu biến động vì tin đồn",
       "link": "http://vietstock.vn/2026/08/gia-co-phieu-bien-dong-vi-tin-don-830-1486926.htm",
       "published": "Sat, 29 Aug 2026 21:02:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Blog chứng khoán: Blue-chips “bảo kê” xu thế tăng cho chỉ số",
+      "link": "https://vneconomy.vn/blog-chung-khoan-blue-chips-bao-ke-xu-the-tang-cho-chi-so.htm",
+      "published": "Fri, 04 Sep 2026 09:34:46 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "HTN: Kết quả bán niên 2026 khả quan, hoàn tất thủ tục tăng vốn điều lệ thêm 50%",
+      "link": "https://vneconomy.vn/htn-ket-qua-ban-nien-2026-kha-quan-hoan-tat-thu-tuc-tang-von-dieu-le-them-50.htm",
+      "published": "Fri, 04 Sep 2026 09:16:58 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Dòng tiền nghỉ ngơi, thanh khoản tiếp tục sụt giảm, blue-chips giữ cân bằng điểm số",
       "link": "https://vneconomy.vn/dong-tien-nghi-ngoi-thanh-khoan-tiep-tuc-sut-giam-blue-chips-giu-can-bang-diem-so.htm",
       "published": "Fri, 28 Aug 2026 05:10:46 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thị trường tháng 9: Áp lực điều chỉnh sau thời điểm nâng hạng?",
-      "link": "https://vneconomy.vn/thi-truong-thang-9-ap-luc-dieu-chinh-sau-thoi-diem-nang-hang.htm",
-      "published": "Fri, 28 Aug 2026 03:02:25 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Vừa tới Jackson Hole, ba quan chức Fed đã bày tỏ lo ngại về lạm phát",
-      "link": "https://vneconomy.vn/vua-toi-jackson-hole-ba-quan-chuc-fed-da-bay-to-lo-ngai-ve-lam-phat.htm",
-      "published": "Fri, 28 Aug 2026 02:27:55 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
