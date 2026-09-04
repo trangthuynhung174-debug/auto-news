@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-04T00:18:07.575606+00:00",
+  "collected_at": "2026-09-04T01:09:43.027144+00:00",
   "count": 170,
   "items": [
     {
@@ -424,6 +424,24 @@
     },
     {
       "source": "VnEconomy - Chứng khoán",
+      "title": "Tỷ giá yên Nhật tăng mạnh do khả năng BOJ tăng lãi suất, không có dấu hiệu can thiệp",
+      "link": "https://vneconomy.vn/ty-gia-yen-nhat-tang-manh-do-kha-nang-boj-tang-lai-suat-khong-co-dau-hieu-can-thiep.htm",
+      "published": "Fri, 04 Sep 2026 00:52:22 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng nhảy lên vùng 4.500 USD/oz sau phát biểu của một quan chức Fed",
+      "link": "https://vneconomy.vn/gia-vang-nhay-len-vung-4500-usdoz-sau-phat-bieu-cua-mot-quan-chuc-fed.htm",
+      "published": "Fri, 04 Sep 2026 00:23:59 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ tăng mạnh khi lợi suất trái phiếu tiếp tục giảm, giá dầu chững lại",
+      "link": "https://vneconomy.vn/chung-khoan-my-tang-manh-khi-loi-suat-trai-phieu-tiep-tuc-giam-gia-dau-chung-lai.htm",
+      "published": "Fri, 04 Sep 2026 00:23:50 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
       "title": "Khối ngoại xả ròng ồ ạt 1.600 tỷ chủ yếu ở nhóm VN30",
       "link": "https://vneconomy.vn/khoi-ngoai-xa-rong-o-at-1600-ty-chu-yeu-o-nhom-vn30.htm",
       "published": "Thu, 03 Sep 2026 14:23:03 GMT"
@@ -705,22 +723,10 @@
       "published": "Thu, 27 Aug 2026 12:14:52 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dự báo 5 cổ phiếu sắp vào FTSE Vietnam 30 Index, Fubon ETF mua hàng nghìn tỷ",
-      "link": "https://vneconomy.vn/du-bao-5-co-phieu-sap-vao-ftse-vietnam-30-index-fubon-etf-mua-hang-nghin-ty.htm",
-      "published": "Thu, 27 Aug 2026 12:13:36 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Những ngân hàng có lợi nhuận tốt nhất lại nằm trong nhóm có diễn biến giá cổ phiếu đáng thất vọng",
-      "link": "https://vneconomy.vn/nhung-ngan-hang-co-loi-nhuan-tot-nhat-lai-nam-trong-nhom-co-dien-bien-gia-co-phieu-dang-that-vong.htm",
-      "published": "Thu, 27 Aug 2026 08:45:41 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "“Bí ẩn” lập trường của Chủ tịch Fed về lạm phát trước sự kiện Jackson Hole",
-      "link": "https://vneconomy.vn/bi-an-lap-truong-cua-chu-tich-fed-ve-lam-phat-truoc-su-kien-jackson-hole.htm",
-      "published": "Thu, 27 Aug 2026 08:33:29 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Chứng khoán tháng 9: Nâng hạng tiếp lửa, VN-Index có thể chinh phục 1.900 điểm?",
+      "link": "https://vnbusiness.vn//chung-khoan-thang-9-nang-hang-tiep-lua-vn-index-co-the-chinh-phuc-1900-diem.html",
+      "published": "Fri, 04 Sep 2026 00:33:08 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "BSR có thể lập kỷ lục lợi nhuận 25.300 tỷ, cổ phiếu ra sao?",
       "link": "https://vnbusiness.vn//bsr-co-the-lap-ky-luc-loi-nhuan-25300-ty-co-phieu-ra-sao.html",
       "published": "Tue, 18 Aug 2026 04:29:26 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "PV Power lãi kỷ lục, Dragon Capital gom mạnh POW: Câu chuyện phía sau những con số",
-      "link": "https://vnbusiness.vn//pv-power-lai-ky-luc-dragon-capital-gom-manh-pow-cau-chuyen-phia-sau-nhung-con-so.html",
-      "published": "Tue, 18 Aug 2026 04:28:46 GMT"
     }
   ]
 }
