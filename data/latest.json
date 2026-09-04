@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-04T11:11:44.446168+00:00",
+  "collected_at": "2026-09-04T12:16:06.137002+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "VN-Index vượt 1.850 điểm, nhà đầu tư vẫn chưa thể thở phào",
+      "link": "https://cafef.vn/vn-index-vuot-1850-diem-nha-dau-tu-van-chua-the-tho-phao-188260904173001282.chn",
+      "published": "Fri, 04 Sep 26 18:16:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Vì sao PVIT bị xử phạt?",
@@ -297,10 +303,10 @@
       "published": "Thu, 03 Sep 26 08:23:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, một \"thế lực\" âm thầm gom loạt cổ phiếu",
-      "link": "https://cafef.vn/dong-tien-chuc-cho-do-vao-thi-truong-sau-nghi-le-mot-the-luc-am-tham-gom-loat-co-phieu-188260902232615915.chn",
-      "published": "Thu, 03 Sep 26 00:16:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Chứng khoán Tuần 03-04/09/2026: Dòng tiền phân hóa",
+      "link": "http://vietstock.vn/2026/09/chung-khoan-tuan-03-04092026-dong-tien-phan-hoa-1636-1488796.htm",
+      "published": "Fri, 04 Sep 2026 18:17:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -415,12 +421,6 @@
       "title": "Đông Tây Land sắp giao dịch 80 triệu cp trên UPCoM, kiểm toán lưu ý loạt khoản công nợ",
       "link": "http://vietstock.vn/2026/08/dong-tay-land-sap-giao-dich-80-trieu-cp-tren-upcom-kiem-toan-luu-y-loat-khoan-cong-no-830-1487023.htm",
       "published": "Mon, 31 Aug 2026 22:42:57 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Giá cổ phiếu biến động vì tin đồn",
-      "link": "http://vietstock.vn/2026/08/gia-co-phieu-bien-dong-vi-tin-don-830-1486926.htm",
-      "published": "Sat, 29 Aug 2026 21:02:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
