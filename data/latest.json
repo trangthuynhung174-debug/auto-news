@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-04T06:15:47.215027+00:00",
+  "collected_at": "2026-09-04T07:12:23.641037+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Phân tích kỹ thuật phiên chiều 04/09: Rung lắc tại ngưỡng Fibonacci Projection 100%",
+      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0409-rung-lac-tai-nguong-fibonacci-projection-100-585-1488519.htm",
+      "published": "Fri, 04 Sep 2026 12:54:19 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "CTCK đua tăng vốn, lên sàn: Dư cung có làm khó sóng IPO?",
       "link": "http://vietstock.vn/2026/09/ctck-dua-tang-von-len-san-du-cung-co-lam-kho-song-ipo-830-1488327.htm",
       "published": "Fri, 04 Sep 2026 09:57:30 +0700"
@@ -417,10 +423,16 @@
       "published": "Sat, 29 Aug 2026 21:02:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC “gánh” hơn 52 điểm",
-      "link": "http://vietstock.vn/2026/08/vn-index-tang-64-diem-tuan-qua-rieng-vic-ganh-hon-52-diem-830-1486908.htm",
-      "published": "Sat, 29 Aug 2026 20:30:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Sở giao dịch Chứng khoán Việt Nam giám sát các cổ phiếu chính thức vào rổ FTSE Russell",
+      "link": "https://vneconomy.vn/so-giao-dich-chung-khoan-viet-nam-giam-sat-cac-co-phieu-chinh-thuc-vao-ro-ftse-russell.htm",
+      "published": "Fri, 04 Sep 2026 07:06:45 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Fubon ETF sắp bán ra hàng chục triệu hai cổ phiếu chứng khoán",
+      "link": "https://vneconomy.vn/fubon-etf-sap-ban-ra-hang-chuc-trieu-hai-co-phieu-chung-khoan.htm",
+      "published": "Fri, 04 Sep 2026 07:06:32 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Chứng khoán Mỹ “xanh” nhờ cổ phiếu Nvidia, giá dầu tăng mạnh vì eo biển Hormuz vẫn bế tắc",
       "link": "https://vneconomy.vn/chung-khoan-my-xanh-nho-co-phieu-nvidia-gia-dau-tang-manh-vi-eo-bien-hormuz-van-be-tac.htm",
       "published": "Fri, 28 Aug 2026 01:18:51 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giá vàng nhích lên trong lúc chờ bài phát biểu của Chủ tịch Fed",
-      "link": "https://vneconomy.vn/gia-vang-nhich-len-trong-luc-cho-bai-phat-bieu-cua-chu-tich-fed.htm",
-      "published": "Fri, 28 Aug 2026 00:24:30 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thanh khoản sụt giảm, nhà đầu tư thận trọng trước kỳ nghỉ lễ",
-      "link": "https://vneconomy.vn/thanh-khoan-sut-giam-nha-dau-tu-than-trong-truoc-ky-nghi-le.htm",
-      "published": "Thu, 27 Aug 2026 15:34:00 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
