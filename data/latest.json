@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-09-04T08:13:30.053353+00:00",
+  "collected_at": "2026-09-04T09:12:26.110525+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Khối ngoại \"quay xe\" mua ròng phiên VN-Index bứt phá, gom mạnh VIC, VHM",
+      "link": "https://cafef.vn/khoi-ngoai-quay-xe-mua-rong-phien-vn-index-but-pha-gom-manh-vic-vhm-188260904153527046.chn",
+      "published": "Fri, 04 Sep 26 15:45:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Mục đích bán cổ phiếu của con gái Chủ tịch PNJ",
+      "link": "https://cafef.vn/muc-dich-ban-co-phieu-cua-con-gai-chu-tich-pnj-188260904153404477.chn",
+      "published": "Fri, 04 Sep 26 15:33:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ phiếu DGC của Hóa chất Đức Giang bị giữ nguyên diện cảnh báo",
+      "link": "https://cafef.vn/co-phieu-dgc-cua-hoa-chat-duc-giang-bi-giu-nguyen-dien-canh-bao-188260904144703246.chn",
+      "published": "Fri, 04 Sep 26 15:20:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Ông Đoàn Văn Hiểu Em muốn gom thêm cổ phiếu Điện Máy Xanh",
@@ -285,24 +303,6 @@
       "published": "Thu, 03 Sep 26 00:02:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một doanh nghiệp KCN sắp đưa 2 dự án mới vào khai thác, lợi nhuận ròng cả năm có thể đạt 2.000 tỷ đồng",
-      "link": "https://cafef.vn/mot-doanh-nghiep-kcn-sap-dua-2-du-an-moi-vao-khai-thac-loi-nhuan-rong-ca-nam-co-the-dat-2000-ty-dong-188260902222641382.chn",
-      "published": "Thu, 03 Sep 26 00:02:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chuyên gia đưa ra lời khuyên cho nhà đầu tư chứng khoán sau nghỉ lễ",
-      "link": "https://cafef.vn/chuyen-gia-dua-ra-loi-khuyen-cho-nha-dau-tu-chung-khoan-sau-nghi-le-188260902202110327.chn",
-      "published": "Wed, 02 Sep 26 20:21:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Khi nào thị trường tài sản mã hóa vận hành, loại tài sản nào được giao dịch?",
-      "link": "https://cafef.vn/khi-nao-thi-truong-tai-san-ma-hoa-van-hanh-loai-tai-san-nao-duoc-giao-dich-188260902170000627.chn",
-      "published": "Wed, 02 Sep 26 17:59:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật phiên chiều 04/09: Rung lắc tại ngưỡng Fibonacci Projection 100%",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0409-rung-lac-tai-nguong-fibonacci-projection-100-585-1488519.htm",
@@ -421,6 +421,12 @@
       "title": "Giá cổ phiếu biến động vì tin đồn",
       "link": "http://vietstock.vn/2026/08/gia-co-phieu-bien-dong-vi-tin-don-830-1486926.htm",
       "published": "Sat, 29 Aug 2026 21:02:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Tiền dồn vào cổ phiếu blue-chips, VN-Index vượt mốc 1850",
+      "link": "https://vneconomy.vn/tien-don-vao-co-phieu-blue-chips-vn-index-vuot-moc-1850.htm",
+      "published": "Fri, 04 Sep 2026 08:28:06 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -717,10 +723,16 @@
       "published": "Fri, 28 Aug 2026 02:27:55 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ “xanh” nhờ cổ phiếu Nvidia, giá dầu tăng mạnh vì eo biển Hormuz vẫn bế tắc",
-      "link": "https://vneconomy.vn/chung-khoan-my-xanh-nho-co-phieu-nvidia-gia-dau-tang-manh-vi-eo-bien-hormuz-van-be-tac.htm",
-      "published": "Fri, 28 Aug 2026 01:18:51 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Lợi nhuận PNJ giảm mạnh sau soát xét và kế hoạch chi viện nghìn tỷ từ gia đình Chủ tịch",
+      "link": "https://vnbusiness.vn//loi-nhuan-pnj-giam-manh-sau-soat-xet-va-ke-hoach-chi-vien-nghin-ty-tu-gia-dinh-chu-tich.html",
+      "published": "Fri, 04 Sep 2026 08:59:37 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
+      "title": "VN-Index vượt 1.850 điểm, VIC và VHM bứt phá, khối ngoại đảo chiều mua ròng",
+      "link": "https://vnbusiness.vn//vn-index-vuot-1850-diem-vic-va-vhm-but-pha-khoi-ngoai-dao-chieu-mua-rong.html",
+      "published": "Fri, 04 Sep 2026 08:56:41 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1009,18 +1021,6 @@
       "title": "'Soi' thu nhập của CEO ở công ty chứng khoán",
       "link": "https://vnbusiness.vn//soi-thu-nhap-cua-ceo-o-cong-ty-chung-khoan.html",
       "published": "Wed, 19 Aug 2026 03:34:13 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Codupha: Lãi quý II tăng 30%, nợ phải trả vượt 2.300 tỷ đồng, loạt nhân sự cấp cao biến động",
-      "link": "https://vnbusiness.vn//codupha-lai-quy-ii-tang-30-no-phai-tra-vuot-2300-ty-dong-loat-nhan-su-cap-cao-bien-dong.html",
-      "published": "Wed, 19 Aug 2026 03:33:44 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Trước ‘giờ G’, chứng khoán Việt thiếu tiền hay thiếu sức hút?",
-      "link": "https://vnbusiness.vn//truoc-gio-g-chung-khoan-viet-thieu-tien-hay-thieu-suc-hut.html",
-      "published": "Tue, 18 Aug 2026 23:58:57 GMT"
     }
   ]
 }
