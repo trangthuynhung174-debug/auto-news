@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-07T07:14:07.081295+00:00",
+  "collected_at": "2026-09-07T08:14:07.694228+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vừa nhận 800 tỷ, gia đình cựu Chủ tịch Hóa chất Đức Giang lại có thêm hơn chục tỷ từ một giao dịch đặc biệt",
+      "link": "https://cafef.vn/vua-nhan-800-ty-gia-dinh-cuu-chu-tich-hoa-chat-duc-giang-lai-co-them-hon-chuc-ty-tu-mot-giao-dich-dac-biet-188260907144446266.chn",
+      "published": "Mon, 07 Sep 26 14:45:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Rạng Đông (RAL) chốt tạm ứng cổ tức 25% sau khi hơn 66% kế hoạch lợi nhuận năm",
@@ -22,8 +28,8 @@
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Một công ty con của Vingroup chỉ có 1 nhân viên, báo lãi hơn 11.200 tỷ đồng sau nửa năm",
-      "link": "https://cafef.vn/mot-cong-ty-con-cua-vingroup-chi-co-1-nhan-vien-bao-lai-hon-11200-ty-dong-sau-nua-nam-188260907113337175.chn",
+      "title": "Xây dựng Thái Sơn báo lãi hơn 11.200 tỷ đồng sau nửa năm",
+      "link": "https://cafef.vn/xay-dung-thai-son-bao-lai-hon-11200-ty-dong-sau-nua-nam-188260907113337175.chn",
       "published": "Mon, 07 Sep 26 13:03:00 +0700"
     },
     {
@@ -295,12 +301,6 @@
       "title": "Dừng bán kem Tràng Tiền tại số 35 Tràng Tiền sau gần 70 năm",
       "link": "https://cafef.vn/dung-ban-kem-trang-tien-tai-so-35-trang-tien-sau-gan-70-nam-188260905154528454.chn",
       "published": "Sat, 05 Sep 26 15:45:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Ông Nguyễn Quốc Cường dùng Lamborghini làm giải thưởng cho khách mua căn hộ",
-      "link": "https://cafef.vn/ong-nguyen-quoc-cuong-dung-lamborghini-lam-giai-thuong-cho-khach-mua-can-ho-188260905130526508.chn",
-      "published": "Sat, 05 Sep 26 13:59:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Gilimex thoát lỗ nhưng cổ phiếu chưa thoát rủi ro, 800 tỷ đồng hàng tồn kho Amazon vẫn là điểm nghẽn",
+      "link": "https://vnbusiness.vn//gilimex-thoat-lo-nhung-co-phieu-chua-thoat-rui-ro-800-ty-dong-hang-ton-kho-amazon-van-la-diem-nghen.html",
+      "published": "Mon, 07 Sep 2026 07:45:42 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Vinasun đứt mạch có lãi: Một quý lỗ hay dấu hiệu mô hình taxi truyền thống hụt hơi?",
       "link": "https://vnbusiness.vn//vinasun-dut-mach-co-lai-mot-quy-lo-hay-dau-hieu-mo-hinh-taxi-truyen-thong-hut-hoi.html",
       "published": "Mon, 07 Sep 2026 02:48:47 GMT"
@@ -1015,12 +1021,6 @@
       "title": "Từ tăng 40% đến 4 phiên đỏ liên tiếp: Cổ phiếu PVcomBank đảo chiều ra sao?",
       "link": "https://vnbusiness.vn//tu-tang-40-den-4-phien-do-lien-tiep-co-phieu-pvcombank-dao-chieu-ra-sao.html",
       "published": "Wed, 19 Aug 2026 09:32:04 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Dòng tiền đi đâu khi thanh khoản chứng khoán tiếp tục “cạn”, VN-Index chìm trong sắc đỏ?",
-      "link": "https://vnbusiness.vn//dong-tien-di-dau-khi-thanh-khoan-chung-khoan-tiep-tuc-can-vn-index-chim-trong-sac-do.html",
-      "published": "Wed, 19 Aug 2026 09:21:34 GMT"
     }
   ]
 }
