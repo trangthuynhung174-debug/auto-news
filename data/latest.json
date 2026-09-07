@@ -1,7 +1,37 @@
 {
-  "collected_at": "2026-09-07T16:12:10.418904+00:00",
+  "collected_at": "2026-09-07T17:11:25.023975+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một cổ phiếu Bluechips có thể chịu áp lực bán ròng hơn 1.500 tỷ đồng ngay trong tháng 9 này",
+      "link": "https://cafef.vn/mot-co-phieu-bluechips-co-the-chiu-ap-luc-ban-rong-hon-1500-ty-dong-ngay-trong-thang-9-nay-188260907224142804.chn",
+      "published": "Tue, 08 Sep 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "CTCK dự báo Vinhomes có thể lãi kỷ lục gần 60.000 tỷ đồng trong năm nay",
+      "link": "https://cafef.vn/ctck-du-bao-vinhomes-co-the-lai-ky-luc-gan-60000-ty-dong-trong-nam-nay-188260907220427048.chn",
+      "published": "Tue, 08 Sep 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Việt Vương bị xử phạt do vi phạm công bố thông tin",
+      "link": "https://cafef.vn/viet-vuong-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260907195153075.chn",
+      "published": "Tue, 08 Sep 26 00:04:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Không phải nâng hạng, một sự kiện quan trọng có thể tác động mạnh đến chứng khoán",
+      "link": "https://cafef.vn/khong-phai-nang-hang-mot-su-kien-quan-trong-co-the-tac-dong-manh-den-chung-khoan-188260907220652283.chn",
+      "published": "Tue, 08 Sep 26 00:03:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Loạt sếp lớn một doanh nghiệp bất động sản liên tục \"bắt đáy\" lượng lớn cổ phiếu",
+      "link": "https://cafef.vn/loat-sep-lon-mot-doanh-nghiep-bat-dong-san-lien-tuc-bat-day-luong-lon-co-phieu-188260907220347851.chn",
+      "published": "Tue, 08 Sep 26 00:01:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "PvX Partners tài trợ 12 triệu USD cho Skylink Studio đưa Classic Games Việt ra thế giới",
@@ -273,36 +303,6 @@
       "published": "Sun, 06 Sep 26 12:47:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Từng đắt hơn thế giới 30 triệu đồng/lượng, vàng SJC có những phiên 'rẻ' hơn: Thị trường vàng đang đổi chiều?",
-      "link": "https://cafef.vn/tung-dat-hon-the-gioi-30-trieu-dong-luong-vang-sjc-co-nhung-phien-re-hon-thi-truong-vang-dang-doi-chieu-188260906101151907.chn",
-      "published": "Sun, 06 Sep 26 11:11:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một thế lực vừa \"tung tiền\" gom gần 10 tấn vàng chỉ trong 1 tuần",
-      "link": "https://cafef.vn/mot-the-luc-vua-tung-tien-gom-gan-10-tan-vang-chi-trong-1-tuan-18826090610252927.chn",
-      "published": "Sun, 06 Sep 26 10:28:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Ông Nguyễn Thanh Hải tiếp tục từ nhiệm thành viên HĐQT EVS",
-      "link": "https://cafef.vn/ong-nguyen-thanh-hai-tiep-tuc-tu-nhiem-thanh-vien-hdqt-evs-188260906085947057.chn",
-      "published": "Sun, 06 Sep 26 08:59:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá trị thực sự của vàng là gì?",
-      "link": "https://cafef.vn/gia-tri-thuc-su-cua-vang-la-gi-188260906085824869.chn",
-      "published": "Sun, 06 Sep 26 08:58:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Kem Tràng Tiền làm ăn ra sao trước khi rời cơ sở biểu tượng 70 năm?",
-      "link": "https://cafef.vn/kem-trang-tien-lam-an-ra-sao-truoc-khi-roi-co-so-bieu-tuong-70-nam-188260905232347422.chn",
-      "published": "Sun, 06 Sep 26 00:10:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "UBCKNN phạt Công ty Việt Vương vì chậm công bố thông tin",
       "link": "http://vietstock.vn/2026/09/ubcknn-phat-cong-ty-viet-vuong-vi-cham-cong-bo-thong-tin-830-1489737.htm",
@@ -421,6 +421,12 @@
       "title": "04/09: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/09/0409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1488288.htm",
       "published": "Fri, 04 Sep 2026 06:00:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VN-Index giảm mạnh, áp lực bán gia tăng trước kháng cự",
+      "link": "https://vneconomy.vn/vn-index-giam-manh-ap-luc-ban-gia-tang-truoc-khang-cu.htm",
+      "published": "Mon, 07 Sep 2026 16:25:36 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Thị trường trái phiếu chính phủ toàn cầu lại bán tháo",
       "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-lai-ban-thao.htm",
       "published": "Wed, 02 Sep 2026 05:50:05 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Mỹ cho biết Trung Quốc bất đồng với tuyên bố chung của G20 về “hàng xuất khẩu giá rẻ”",
-      "link": "https://vneconomy.vn/my-cho-biet-trung-quoc-bat-dong-voi-tuyen-bo-chung-cua-g20-ve-hang-xuat-khau-gia-re.htm",
-      "published": "Wed, 02 Sep 2026 03:28:53 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
