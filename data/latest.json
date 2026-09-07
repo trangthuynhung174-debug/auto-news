@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-09-07T11:12:35.992958+00:00",
+  "collected_at": "2026-09-07T12:16:24.464518+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Phiên đầu tuần, VN-Index 'bay' hơn 31 điểm",
+      "link": "https://cafef.vn/phien-dau-tuan-vn-index-bay-hon-31-diem-188260907191044922.chn",
+      "published": "Mon, 07 Sep 26 19:10:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Doanh thu bảo hiểm đi xuống, lợi nhuận vẫn tăng mạnh",
+      "link": "https://cafef.vn/doanh-thu-bao-hiem-di-xuong-loi-nhuan-van-tang-manh-188260907190937031.chn",
+      "published": "Mon, 07 Sep 26 19:09:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Khai trừ Đảng chủ tịch Tổng công ty Xây dựng Hà Nội",
+      "link": "https://cafef.vn/khai-tru-dang-chu-tich-tong-cong-ty-xay-dung-ha-noi-188260907190231153.chn",
+      "published": "Mon, 07 Sep 26 19:02:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Một mã chứng khoán bị tự doanh CTCK bán ròng gần trăm tỷ phiên đầu tuần",
@@ -285,22 +303,10 @@
       "published": "Sun, 06 Sep 26 00:08:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một doanh nghiệp HOSE bất ngờ hủy Đại hội bất thường, cổ phiếu lập tức \"tím lịm\"",
-      "link": "https://cafef.vn/mot-doanh-nghiep-hose-bat-ngo-huy-dai-hoi-bat-thuong-co-phieu-lap-tuc-tim-lim-188260905221612531.chn",
-      "published": "Sun, 06 Sep 26 00:07:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Lịch chốt quyền cổ tức tuần 7-11/9: Hơn 30 doanh nghiệp \"lăn chốt\", tổng tỷ lệ cao nhất 94%",
-      "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-7-11-9-hon-30-doanh-nghiep-lan-chot-tong-ty-le-cao-nhat-94-188260905221719956.chn",
-      "published": "Sun, 06 Sep 26 00:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Sau tháng 7 tệ nhất lịch sử, quỹ ngoại tỷ USD hồi phục mạnh trong tháng 8",
-      "link": "https://cafef.vn/sau-thang-7-te-nhat-lich-su-quy-ngoai-ty-usd-hoi-phuc-manh-trong-thang-8-188260905220357572.chn",
-      "published": "Sun, 06 Sep 26 00:04:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Vietstock Daily 08/09/2026: Áp lực trở lại",
+      "link": "http://vietstock.vn/2026/09/vietstock-daily-08092026-ap-luc-tro-lai-1636-1489600.htm",
+      "published": "Mon, 07 Sep 2026 18:06:24 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,16 @@
       "published": "Thu, 03 Sep 2026 19:41:47 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 04/09/2026: Tiếp tục giằng co",
-      "link": "http://vietstock.vn/2026/09/vietstock-daily-04092026-tiep-tuc-giang-co-1636-1487912.htm",
-      "published": "Thu, 03 Sep 2026 18:08:55 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Bitcoin giao dịch 24/7 nhưng lợi nhuận quyết định chỉ trong vài ngày",
+      "link": "https://vneconomy.vn/bitcoin-giao-dich-247-nhung-loi-nhuan-quyet-dinh-chi-trong-vai-ngay.htm",
+      "published": "Mon, 07 Sep 2026 11:54:44 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Dư nợ vay của doanh nghiệp bất động sản tăng mạnh đạt 360.000 tỷ",
+      "link": "https://vneconomy.vn/du-no-vay-cua-doanh-nghiep-bat-dong-san-tang-manh-dat-360000-ty.htm",
+      "published": "Mon, 07 Sep 2026 11:52:16 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Chứng khoán Mỹ giảm liền 3 phiên, giá dầu nhảy 5% vì căng thẳng Vùng Vịnh tăng nhiệt",
       "link": "https://vneconomy.vn/chung-khoan-my-giam-lien-3-phien-gia-dau-nhay-5-vi-cang-thang-vung-vinh-tang-nhiet.htm",
       "published": "Wed, 02 Sep 2026 01:49:12 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index tăng nhẹ, rủi ro rung lắc vẫn hiện hữu",
-      "link": "https://vneconomy.vn/vn-index-tang-nhe-rui-ro-rung-lac-van-hien-huu.htm",
-      "published": "Wed, 02 Sep 2026 00:57:46 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ mất điểm, giá dầu tăng mạnh vì Mỹ và Iran lại không kích lẫn nhau",
-      "link": "https://vneconomy.vn/chung-khoan-my-mat-diem-gia-dau-tang-manh-vi-my-va-iran-lai-khong-kich-lan-nhau.htm",
-      "published": "Tue, 01 Sep 2026 01:29:01 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
