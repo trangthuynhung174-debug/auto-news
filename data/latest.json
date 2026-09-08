@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-09-08T10:13:45.606201+00:00",
+  "collected_at": "2026-09-08T11:12:18.769733+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một công ty con của Novaland lỗ ròng hơn 49 tỷ đồng trong nửa đầu năm 2026",
+      "link": "https://cafef.vn/mot-cong-ty-con-cua-novaland-lo-rong-hon-49-ty-dong-trong-nua-dau-nam-2026-188260908165657713.chn",
+      "published": "Tue, 08 Sep 26 17:56:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Quyết định mới nhất của Vingroup với VinFast",
+      "link": "https://cafef.vn/quyet-dinh-moi-nhat-cua-vingroup-voi-vinfast-188260908175252399.chn",
+      "published": "Tue, 08 Sep 26 17:52:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "VN-Index ‘quay xe’ sau cú rơi đầu tuần",
+      "link": "https://cafef.vn/vn-index-quay-xe-sau-cu-roi-dau-tuan-18826090817053572.chn",
+      "published": "Tue, 08 Sep 26 17:17:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Phiên 8/9: Tự doanh CTCK bất ngờ \"xả\" mạnh hàng trăm tỷ đồng tại một cổ phiếu chứng khoán",
@@ -283,24 +301,6 @@
       "title": "Vừa nhận 800 tỷ, gia đình cựu Chủ tịch Hóa chất Đức Giang lại có thêm hơn chục tỷ từ một giao dịch đặc biệt",
       "link": "https://cafef.vn/vua-nhan-800-ty-gia-dinh-cuu-chu-tich-hoa-chat-duc-giang-lai-co-them-hon-chuc-ty-tu-mot-giao-dich-dac-biet-188260907144446266.chn",
       "published": "Mon, 07 Sep 26 14:45:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Rạng Đông (RAL) chốt tạm ứng cổ tức 25% sau khi hơn 66% kế hoạch lợi nhuận năm",
-      "link": "https://cafef.vn/rang-dong-ral-chot-tam-ung-co-tuc-25-sau-khi-hon-66-ke-hoach-loi-nhuan-nam-188260907135519006.chn",
-      "published": "Mon, 07 Sep 26 13:56:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Thêm 5 mã chứng khoán bị cắt margin, danh sách dài gồm 69 cái tên",
-      "link": "https://cafef.vn/them-5-ma-chung-khoan-bi-cat-margin-danh-sach-dai-gom-69-cai-ten-188260907135427154.chn",
-      "published": "Mon, 07 Sep 26 13:54:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Thị trường ngày 7/9: Dầu tiếp tục tăng mạnh khi Mỹ và Iran “ăn miếng trả miếng”, vàng lên xuống thất thường",
-      "link": "https://cafef.vn/thi-truong-ngay-7-9-dau-tiep-tuc-tang-manh-khi-my-va-iran-an-mieng-tra-mieng-vang-len-xuong-that-thuong-188260907135346556.chn",
-      "published": "Mon, 07 Sep 26 13:54:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "VN-Index tăng gần 9 điểm nhưng thị trường vẫn “xanh vỏ, đỏ lòng”",
+      "link": "https://vnbusiness.vn//vn-index-tang-gan-9-diem-nhung-thi-truong-van-xanh-vo-do-long.html",
+      "published": "Tue, 08 Sep 2026 10:37:13 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Lãi tăng nhưng chưa đủ khỏe, 27 bất động sản của 'trùm' nhà ở xã hội bị HDBank thu giữ",
       "link": "https://vnbusiness.vn//lai-tang-nhung-chua-du-khoe-27-bat-dong-san-cua-trum-nha-o-xa-hoi-bi-hdbank-thu-giu.html",
       "published": "Tue, 08 Sep 2026 08:00:47 GMT"
@@ -1015,12 +1021,6 @@
       "title": "PNJ bật trần sau ‘minh oan’: Rủi ro pháp lý được gỡ, nhưng bài toán lợi nhuận vẫn còn",
       "link": "https://vnbusiness.vn//pnj-bat-tran-sau-minh-oan-rui-ro-phap-ly-duoc-go-nhung-bai-toan-loi-nhuan-van-con.html",
       "published": "Fri, 21 Aug 2026 06:34:39 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Hàng chục nghìn tỷ đồng trái phiếu sắp được huy động: Ai vay để đầu tư, ai vay để trả nợ?",
-      "link": "https://vnbusiness.vn//hang-chuc-nghin-ty-dong-trai-phieu-sap-duoc-huy-dong-ai-vay-de-dau-tu-ai-vay-de-tra-no.html",
-      "published": "Fri, 21 Aug 2026 04:23:16 GMT"
     }
   ]
 }
