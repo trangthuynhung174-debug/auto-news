@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-08T05:11:43.339331+00:00",
+  "collected_at": "2026-09-08T06:15:53.099463+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Hơn 5.3 triệu cp RCD giao dịch cuối cùng trên UPCoM ngày 11/09",
+      "link": "http://vietstock.vn/2026/09/hon-53-trieu-cp-rcd-giao-dich-cuoi-cung-tren-upcom-ngay-1109-830-1489830.htm",
+      "published": "Tue, 08 Sep 2026 11:44:09 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Khi thị trường biến động, điều gì giữ chân nhà đầu tư?",
       "link": "http://vietstock.vn/2026/09/khi-thi-truong-bien-dong-dieu-gi-giu-chan-nha-dau-tu-830-1487024.htm",
       "published": "Tue, 08 Sep 2026 11:02:00 +0700"
@@ -415,12 +421,6 @@
       "title": "Chỉ 2 phiên giao dịch, VIC đưa VN-Index qua những cung bậc trái chiều",
       "link": "http://vietstock.vn/2026/09/chi-2-phien-giao-dich-vic-dua-vn-index-qua-nhung-cung-bac-trai-chieu-830-1489047.htm",
       "published": "Sat, 05 Sep 2026 20:32:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Gia đình Chủ tịch PNJ từ cổ đông thành chủ nợ, giảm bớt rủi ro trong khủng hoảng",
-      "link": "http://vietstock.vn/2026/09/gia-dinh-chu-tich-pnj-tu-co-dong-thanh-chu-no-giam-bot-rui-ro-trong-khung-hoang-830-1489051.htm",
-      "published": "Sat, 05 Sep 2026 11:17:26 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Lãi gần 3.900 tỷ đồng sau 6 tháng, vì sao cổ phiếu Vietnam Airlines vẫn chưa thoát diện cảnh báo?",
+      "link": "https://vnbusiness.vn//lai-gan-3900-ty-dong-sau-6-thang-vi-sao-co-phieu-vietnam-airlines-van-chua-thoat-dien-canh-bao.html",
+      "published": "Tue, 08 Sep 2026 05:22:51 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Vạn Phát Hưng bị HoSE ‘tuýt còi’, cổ phiếu VPH về sát đáy 52 tuần",
       "link": "https://vnbusiness.vn//van-phat-hung-bi-hose-tuyt-coi-co-phieu-vph-ve-sat-day-52-tuan.html",
       "published": "Tue, 08 Sep 2026 03:25:39 GMT"
@@ -1015,12 +1021,6 @@
       "title": "BSC hạ khuyến nghị PV Drilling, điều chỉnh giảm 9% dự báo lợi nhuận năm 2026",
       "link": "https://vnbusiness.vn//bsc-ha-khuyen-nghi-pv-drilling-dieu-chinh-giam-9-du-bao-loi-nhuan-nam-2026.html",
       "published": "Fri, 21 Aug 2026 03:42:43 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Cổ phiếu xây dựng sẽ bật tăng từ nền tốt?",
-      "link": "https://vnbusiness.vn//co-phieu-xay-dung-se-bat-tang-tu-nen-tot.html",
-      "published": "Fri, 21 Aug 2026 01:01:20 GMT"
     }
   ]
 }
