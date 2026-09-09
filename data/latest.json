@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-09T00:20:12.463168+00:00",
+  "collected_at": "2026-09-09T01:11:42.957003+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Hơn 2,4 triệu cổ phiếu MCH có thể được mua trong kỳ cơ cấu FTSE tháng 9",
+      "link": "https://cafef.vn/hon-24-trieu-co-phieu-mch-co-the-duoc-mua-trong-ky-co-cau-ftse-thang-9-188260908194604621.chn",
+      "published": "Wed, 09 Sep 26 08:00:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Đúng 9 giờ ngày 9/9, Vinhomes có một sự thay đổi lớn",
@@ -297,12 +303,6 @@
       "published": "Mon, 07 Sep 26 19:09:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Khai trừ Đảng chủ tịch Tổng công ty Xây dựng Hà Nội",
-      "link": "https://cafef.vn/khai-tru-dang-chu-tich-tong-cong-ty-xay-dung-ha-noi-188260907190231153.chn",
-      "published": "Mon, 07 Sep 26 19:02:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "09/09: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/09/0909-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1490191.htm",
@@ -421,6 +421,42 @@
       "title": "Phân tích kỹ thuật phiên chiều 07/09: Áp lực bán hiện hữu",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0709-ap-luc-ban-hien-huu-585-1489405.htm",
       "published": "Mon, 07 Sep 2026 13:03:13 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Lãnh đạo Tập đoàn BIG chuyển thoả thuận cổ phiếu, đón quỹ ngoại làm cổ đông chiến lược",
+      "link": "https://vneconomy.vn/lanh-dao-tap-doan-big-chuyen-thoa-thuan-co-phieu-don-quy-ngoai-lam-co-dong-chien-luoc.htm",
+      "published": "Wed, 09 Sep 2026 01:00:00 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Một cổ phiếu ngân hàng hưởng lợi kép từ dòng tiền mua theo nâng hạng và Fubon tái phân bổ",
+      "link": "https://vneconomy.vn/mot-co-phieu-ngan-hang-huong-loi-kep-tu-dong-tien-mua-theo-nang-hang-va-fubon-tai-phan-bo.htm",
+      "published": "Wed, 09 Sep 2026 00:33:51 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "253 nghìn tỷ đồng trái phiếu đáo hạn trong vòng một năm tới, áp lực vẫn rất lớn",
+      "link": "https://vneconomy.vn/253-nghin-ty-dong-trai-phieu-dao-han-trong-vong-mot-nam-toi-ap-luc-van-rat-lon.htm",
+      "published": "Wed, 09 Sep 2026 00:32:43 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Vàng sụt giá vì giá dầu leo thang mạnh, SPDR Gold Trust bán ròng",
+      "link": "https://vneconomy.vn/vang-sut-gia-vi-gia-dau-leo-thang-manh-spdr-gold-trust-ban-rong.htm",
+      "published": "Wed, 09 Sep 2026 00:31:28 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VN-Index tăng nhẹ, nhà đầu tư thận trọng chờ tín hiệu rõ ràng",
+      "link": "https://vneconomy.vn/vn-index-tang-nhe-nha-dau-tu-than-trong-cho-tin-hieu-ro-rang.htm",
+      "published": "Wed, 09 Sep 2026 00:31:04 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ mất điểm khi giá dầu tiếp cận mốc 100 USD/thùng",
+      "link": "https://vneconomy.vn/chung-khoan-my-mat-diem-khi-gia-dau-tiep-can-moc-100-usdthung.htm",
+      "published": "Wed, 09 Sep 2026 00:30:18 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -687,40 +723,10 @@
       "published": "Fri, 04 Sep 2026 09:16:58 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tiền dồn vào cổ phiếu blue-chips, VN-Index vượt mốc 1850",
-      "link": "https://vneconomy.vn/tien-don-vao-co-phieu-blue-chips-vn-index-vuot-moc-1850.htm",
-      "published": "Fri, 04 Sep 2026 08:28:06 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Sở giao dịch Chứng khoán Việt Nam giám sát các cổ phiếu chính thức vào rổ FTSE Russell",
-      "link": "https://vneconomy.vn/so-giao-dich-chung-khoan-viet-nam-giam-sat-cac-co-phieu-chinh-thuc-vao-ro-ftse-russell.htm",
-      "published": "Fri, 04 Sep 2026 07:06:45 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Fubon ETF sắp bán ra hàng chục triệu hai cổ phiếu chứng khoán",
-      "link": "https://vneconomy.vn/fubon-etf-sap-ban-ra-hang-chuc-trieu-hai-co-phieu-chung-khoan.htm",
-      "published": "Fri, 04 Sep 2026 07:06:32 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thị trường cân bằng trở lại, cổ phiếu trụ giúp VN-Index tăng mạnh",
-      "link": "https://vneconomy.vn/thi-truong-can-bang-tro-lai-co-phieu-tru-giup-vn-index-tang-manh.htm",
-      "published": "Fri, 04 Sep 2026 05:02:32 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Goldman Sachs dự báo giá vàng có thể đạt 4.900 USD/oz trước khi kết thúc năm 2026",
-      "link": "https://vneconomy.vn/goldman-sachs-du-bao-gia-vang-co-the-dat-4900-usdoz-truoc-khi-ket-thuc-nam-2026.htm",
-      "published": "Fri, 04 Sep 2026 02:20:07 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Một quan chức Fed phát tín hiệu muốn giữ nguyên lãi suất trong cuộc họp tới",
-      "link": "https://vneconomy.vn/mot-quan-chuc-fed-phat-tin-hieu-muon-giu-nguyen-lai-suat-trong-cuoc-hop-toi.htm",
-      "published": "Fri, 04 Sep 2026 02:08:36 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "VN-Index trước hai phép thử: Fed và cú hích nâng hạng FTSE",
+      "link": "https://vnbusiness.vn//vn-index-truoc-hai-phep-thu-fed-va-cu-hich-nang-hang-ftse.html",
+      "published": "Wed, 09 Sep 2026 01:02:13 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Doanh nghiệp lớn đồng loạt chốt cổ tức, hàng nghìn tỷ đồng sắp chảy về túi cổ đông",
       "link": "https://vnbusiness.vn//doanh-nghiep-lon-dong-loat-chot-co-tuc-hang-nghin-ty-dong-sap-chay-ve-tui-co-dong.html",
       "published": "Fri, 21 Aug 2026 08:03:53 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "PNJ bật trần sau ‘minh oan’: Rủi ro pháp lý được gỡ, nhưng bài toán lợi nhuận vẫn còn",
-      "link": "https://vnbusiness.vn//pnj-bat-tran-sau-minh-oan-rui-ro-phap-ly-duoc-go-nhung-bai-toan-loi-nhuan-van-con.html",
-      "published": "Fri, 21 Aug 2026 06:34:39 GMT"
     }
   ]
 }
