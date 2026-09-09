@@ -1,7 +1,37 @@
 {
-  "collected_at": "2026-09-09T08:13:26.446826+00:00",
+  "collected_at": "2026-09-09T09:12:47.679206+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Việt Nam có thêm 2 triệu tài khoản chứng khoán từ đầu năm 2026",
+      "link": "https://cafef.vn/viet-nam-co-them-2-trieu-tai-khoan-chung-khoan-tu-dau-nam-2026-188260909160515862.chn",
+      "published": "Wed, 09 Sep 26 16:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Phát hiện 15 nhẫn vàng, 2 dây chuyền cùng loạt nữ trang trong bao giấy, cụ bà 78 tuổi lập tức báo công an",
+      "link": "https://cafef.vn/phat-hien-15-nhan-vang-2-day-chuyen-cung-loat-nu-trang-trong-bao-giay-cu-ba-78-tuoi-lap-tuc-bao-cong-an-188260909160009466.chn",
+      "published": "Wed, 09 Sep 26 16:00:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ phiếu công ty chứng khoán giảm 14% ngày đầu chào sàn",
+      "link": "https://cafef.vn/co-phieu-cong-ty-chung-khoan-giam-14-ngay-dau-chao-san-18826090915535988.chn",
+      "published": "Wed, 09 Sep 26 15:53:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Phiên 9/9: Một cổ phiếu VN30 bị khối ngoại \"xả\" gần 300 tỷ đồng",
+      "link": "https://cafef.vn/phien-9-9-mot-co-phieu-vn30-bi-khoi-ngoai-xa-gan-300-ty-dong-188260909152141288.chn",
+      "published": "Wed, 09 Sep 26 15:45:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một đại gia dầu khí \"chơi lớn\" trả hơn 6.000 tỷ đồng tiền cổ tức",
+      "link": "https://cafef.vn/mot-dai-gia-dau-khi-choi-lon-tra-hon-6000-ty-dong-tien-co-tuc-188260909152106874.chn",
+      "published": "Wed, 09 Sep 26 15:26:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Baf Việt Nam thành lập công ty con chế biến thực phẩm tại Gia Lai",
@@ -273,36 +303,6 @@
       "published": "Tue, 08 Sep 26 08:44:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "VN-Index trước “gọng kìm” Fed - BOJ: Nội lực vĩ mô có đủ sức giữ nhịp thị trường?",
-      "link": "https://cafef.vn/vn-index-truoc-gong-kim-fed-boj-noi-luc-vi-mo-co-du-suc-giu-nhip-thi-truong-188260908084332149.chn",
-      "published": "Tue, 08 Sep 26 08:43:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chủ đầu tư Aqua City lỗ ròng hơn 120 tỷ đồng bán niên 2026",
-      "link": "https://cafef.vn/chu-dau-tu-aqua-city-lo-rong-hon-120-ty-dong-ban-nien-2026-188260908070820921.chn",
-      "published": "Tue, 08 Sep 26 08:07:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "BIG chính thức đón quỹ ngoại làm cổ đông chiến lược, mở đường lên HOSE",
-      "link": "https://cafef.vn/big-chinh-thuc-don-quy-ngoai-lam-co-dong-chien-luoc-mo-duong-len-hose-188260907211546169.chn",
-      "published": "Tue, 08 Sep 26 08:00:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một quốc gia nắm giữ hàng nghìn tấn vàng đang âm thầm bán ra",
-      "link": "https://cafef.vn/mot-quoc-gia-nam-giu-hang-nghin-tan-vang-dang-am-tham-ban-ra-188260907222038416.chn",
-      "published": "Tue, 08 Sep 26 00:07:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một cổ phiếu Bluechips có thể chịu áp lực bán ròng hơn 1.500 tỷ đồng ngay trong tháng 9 này",
-      "link": "https://cafef.vn/mot-co-phieu-bluechips-co-the-chiu-ap-luc-ban-rong-hon-1500-ty-dong-ngay-trong-thang-9-nay-188260907224142804.chn",
-      "published": "Tue, 08 Sep 26 00:05:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật phiên chiều 09/09: Hiện tượng phân hóa đang diễn ra",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0909-hien-tuong-phan-hoa-dang-dien-ra-585-1490315.htm",
@@ -421,6 +421,12 @@
       "title": "Theo dấu dòng tiền cá mập 07/09: Khối ngoại, tự doanh cùng xả trong phiên giảm hơn 31 điểm",
       "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0709-khoi-ngoai-tu-doanh-cung-xa-trong-phien-giam-hon-31-diem-830-1489704.htm",
       "published": "Mon, 07 Sep 2026 19:21:13 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Cổ phiếu trụ lại “ép” điểm số",
+      "link": "https://vneconomy.vn/co-phieu-tru-lai-ep-diem-so.htm",
+      "published": "Wed, 09 Sep 2026 08:46:42 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "VN-Index tăng 1,14%, nhà đầu tư thận trọng trước áp lực chốt lời",
       "link": "https://vneconomy.vn/vn-index-tang-114-nha-dau-tu-than-trong-truoc-ap-luc-chot-loi.htm",
       "published": "Sun, 06 Sep 2026 03:03:15 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "HOSE bổ sung thêm 5 mã vào danh sách cắt margin",
-      "link": "https://vneconomy.vn/hose-bo-sung-them-5-ma-vao-danh-sach-cat-margin.htm",
-      "published": "Sat, 05 Sep 2026 07:25:09 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
