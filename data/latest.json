@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-09T02:12:19.945620+00:00",
+  "collected_at": "2026-09-09T03:12:35.003706+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ phiếu phân hóa mạnh: Chuyên gia MBS hướng dẫn cách nhận diện \"cơ hội vàng\"",
+      "link": "https://cafef.vn/co-phieu-phan-hoa-manh-chuyen-gia-mbs-huong-dan-cach-nhan-dien-co-hoi-vang-188260909085944428.chn",
+      "published": "Wed, 09 Sep 26 10:00:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Hơn 2,4 triệu cổ phiếu MCH có thể được mua trong kỳ cơ cấu FTSE tháng 9",
@@ -297,12 +303,6 @@
       "published": "Mon, 07 Sep 26 19:10:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Doanh thu bảo hiểm đi xuống, lợi nhuận vẫn tăng mạnh",
-      "link": "https://cafef.vn/doanh-thu-bao-hiem-di-xuong-loi-nhuan-van-tang-manh-188260907190937031.chn",
-      "published": "Mon, 07 Sep 26 19:09:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "09/09: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/09/0909-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1490191.htm",
@@ -421,6 +421,30 @@
       "title": "Phân tích kỹ thuật phiên chiều 07/09: Áp lực bán hiện hữu",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0709-ap-luc-ban-hien-huu-585-1489405.htm",
       "published": "Mon, 07 Sep 2026 13:03:13 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Dòng vốn thụ động vào Việt Nam có thể lên tới 4,45 tỷ USD trong thời gian tới?",
+      "link": "https://vneconomy.vn/dong-von-thu-dong-vao-viet-nam-co-the-len-toi-445-ty-usd-trong-thoi-gian-toi.htm",
+      "published": "Wed, 09 Sep 2026 03:11:14 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Định giá rẻ nhưng thị trường sẽ tiếp tục tích lũy, nhịp tăng là để thực hiện hóa lợi nhuận?",
+      "link": "https://vneconomy.vn/dinh-gia-re-nhung-thi-truong-se-tiep-tuc-tich-luy-nhip-tang-la-de-thuc-hien-hoa-loi-nhuan.htm",
+      "published": "Wed, 09 Sep 2026 02:25:35 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Các nước giàu chi 2 nghìn tỷ USD trả lãi nợ công trong một năm",
+      "link": "https://vneconomy.vn/cac-nuoc-giau-chi-2-nghin-ty-usd-tra-lai-no-cong-trong-mot-nam.htm",
+      "published": "Wed, 09 Sep 2026 02:24:44 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Để thị trường chứng khoán quy mô lớn hơn, thanh khoản cao hơn và hút dòng vốn quốc tế nhiều hơn",
+      "link": "https://vneconomy.vn/de-thi-truong-chung-khoan-quy-mo-lon-hon-thanh-khoan-cao-hon-va-hut-dong-von-quoc-te-nhieu-hon.htm",
+      "published": "Wed, 09 Sep 2026 02:24:10 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -697,30 +721,6 @@
       "title": "Vàng trượt giá sau báo cáo việc làm Mỹ, SPDR Gold Trust tiếp tục bán ròng",
       "link": "https://vneconomy.vn/vang-truot-gia-sau-bao-cao-viec-lam-my-spdr-gold-trust-tiep-tuc-ban-rong.htm",
       "published": "Sat, 05 Sep 2026 01:31:09 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ tụt điểm vì mối lo lãi suất cao hơn, giá dầu tăng 8% cả tuần",
-      "link": "https://vneconomy.vn/chung-khoan-my-tut-diem-vi-moi-lo-lai-suat-cao-hon-gia-dau-tang-8-ca-tuan.htm",
-      "published": "Sat, 05 Sep 2026 01:27:50 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thế giới bước vào kỷ nguyên lãi suất cao: Ai thiệt hại?",
-      "link": "https://vneconomy.vn/the-gioi-buoc-vao-ky-nguyen-lai-suat-cao-ai-thiet-hai.htm",
-      "published": "Fri, 04 Sep 2026 12:32:09 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Blog chứng khoán: Blue-chips “bảo kê” xu thế tăng cho chỉ số",
-      "link": "https://vneconomy.vn/blog-chung-khoan-blue-chips-bao-ke-xu-the-tang-cho-chi-so.htm",
-      "published": "Fri, 04 Sep 2026 09:34:46 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "HTN đạt hơn 210 tỷ đồng doanh thu thuần trong 6 tháng đầu năm",
-      "link": "https://vneconomy.vn/htn-dat-hon-210-ty-dong-doanh-thu-thuan-trong-6-thang-dau-nam.htm",
-      "published": "Fri, 04 Sep 2026 09:16:58 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
