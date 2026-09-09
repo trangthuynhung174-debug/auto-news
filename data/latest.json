@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-09T03:12:35.003706+00:00",
+  "collected_at": "2026-09-09T04:12:26.269470+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng điều chỉnh, quỹ lớn nhất thế giới hành động gì?",
+      "link": "https://cafef.vn/gia-vang-dieu-chinh-quy-lon-nhat-the-gioi-hanh-dong-gi-188260909101659331.chn",
+      "published": "Wed, 09 Sep 26 10:17:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chuyện gì xảy ra với giá vàng sáng nay?",
+      "link": "https://cafef.vn/chuyen-gi-xay-ra-voi-gia-vang-sang-nay-188260909101611968.chn",
+      "published": "Wed, 09 Sep 26 10:17:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Cổ phiếu phân hóa mạnh: Chuyên gia MBS hướng dẫn cách nhận diện \"cơ hội vàng\"",
@@ -289,18 +301,6 @@
       "title": "Loạt sếp lớn một doanh nghiệp bất động sản liên tục \"bắt đáy\" lượng lớn cổ phiếu",
       "link": "https://cafef.vn/loat-sep-lon-mot-doanh-nghiep-bat-dong-san-lien-tuc-bat-day-luong-lon-co-phieu-188260907220347851.chn",
       "published": "Tue, 08 Sep 26 00:01:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "PvX Partners tài trợ 12 triệu USD cho Skylink Studio đưa Classic Games Việt ra thế giới",
-      "link": "https://cafef.vn/pvx-partners-tai-tro-12-trieu-usd-cho-skylink-studio-dua-classic-games-viet-ra-the-gioi-188260907120711724.chn",
-      "published": "Mon, 07 Sep 26 19:30:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Phiên đầu tuần, VN-Index 'bay' hơn 31 điểm",
-      "link": "https://cafef.vn/phien-dau-tuan-vn-index-bay-hon-31-diem-188260907191044922.chn",
-      "published": "Mon, 07 Sep 26 19:10:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Chủ tịch 'gom' nhưng thị giá cổ phiếu HAX vẫn giảm, đâu là điểm nghẽn của Haxaco?",
+      "link": "https://vnbusiness.vn//chu-tich-gom-nhung-thi-gia-co-phieu-hax-van-giam-dau-la-diem-nghen-cua-haxaco.html",
+      "published": "Wed, 09 Sep 2026 03:48:02 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "VN-Index trước hai phép thử: Fed và cú hích nâng hạng FTSE",
       "link": "https://vnbusiness.vn//vn-index-truoc-hai-phep-thu-fed-va-cu-hich-nang-hang-ftse.html",
       "published": "Wed, 09 Sep 2026 01:02:13 GMT"
@@ -1015,12 +1021,6 @@
       "title": "FTSE công bố 117 cổ phiếu Việt Nam: Ai sẽ hưởng lợi lớn trước ‘giờ G’ nâng hạng?",
       "link": "https://vnbusiness.vn//ftse-cong-bo-117-co-phieu-viet-nam-ai-se-huong-loi-lon-truoc-gio-g-nang-hang.html",
       "published": "Sat, 22 Aug 2026 04:38:14 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Doanh nghiệp lớn đồng loạt chốt cổ tức, hàng nghìn tỷ đồng sắp chảy về túi cổ đông",
-      "link": "https://vnbusiness.vn//doanh-nghiep-lon-dong-loat-chot-co-tuc-hang-nghin-ty-dong-sap-chay-ve-tui-co-dong.html",
-      "published": "Fri, 21 Aug 2026 08:03:53 GMT"
     }
   ]
 }
