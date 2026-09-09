@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-09T09:12:47.679206+00:00",
+  "collected_at": "2026-09-09T10:13:10.969153+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nhóm CII nâng sở hữu tại PC1 lên hơn 13% vốn",
+      "link": "https://cafef.vn/nhom-cii-nang-so-huu-tai-pc1-len-hon-13-von-188260909161447834.chn",
+      "published": "Wed, 09 Sep 26 16:14:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Việt Nam có thêm 2 triệu tài khoản chứng khoán từ đầu năm 2026",
@@ -295,12 +301,6 @@
       "title": "Ngân hàng dẫn sóng trái phiếu doanh nghiệp, Kho bạc Nhà nước tăng tốc huy động vốn",
       "link": "https://cafef.vn/ngan-hang-dan-song-trai-phieu-doanh-nghiep-kho-bac-nha-nuoc-tang-toc-huy-dong-von-188260908085306175.chn",
       "published": "Tue, 08 Sep 26 08:52:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Dòng tiền ETF dịch chuyển trước bước ngoặt nâng hạng",
-      "link": "https://cafef.vn/dong-tien-etf-dich-chuyen-truoc-buoc-ngoat-nang-hang-188260908084438335.chn",
-      "published": "Tue, 08 Sep 26 08:44:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,18 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Một cổ phiếu sắp thưởng tỷ lệ 300% bất ngờ bị bán mạnh, giảm phiên thứ 4 liên tiếp",
+      "link": "https://vnbusiness.vn//mot-co-phieu-sap-thuong-ty-le-300-bat-ngo-bi-ban-manh-giam-phien-thu-4-lien-tiep.html",
+      "published": "Wed, 09 Sep 2026 09:19:26 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Chủ Casino Corona Phú Quốc vẫn lỗ hơn 200 tỷ, nợ phải trả vượt 51.600 tỷ đồng",
+      "link": "https://vnbusiness.vn//chu-casino-corona-phu-quoc-van-lo-hon-200-ty-no-phai-tra-vuot-51600-ty-dong.html",
+      "published": "Wed, 09 Sep 2026 09:18:34 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Chủ tịch 'gom' nhưng thị giá cổ phiếu HAX vẫn giảm, đâu là điểm nghẽn của Haxaco?",
       "link": "https://vnbusiness.vn//chu-tich-gom-nhung-thi-gia-co-phieu-hax-van-giam-dau-la-diem-nghen-cua-haxaco.html",
       "published": "Wed, 09 Sep 2026 03:48:02 GMT"
@@ -1009,18 +1021,6 @@
       "title": "Bất động sản báo lãi lớn: “Nguồn thu khác” có đủ sức kéo cổ phiếu?",
       "link": "https://vnbusiness.vn//bat-dong-san-bao-lai-lon-nguon-thu-khac-co-du-suc-keo-co-phieu.html",
       "published": "Mon, 24 Aug 2026 00:35:32 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Viettel chi hơn ngàn tỷ giữ tỷ lệ sở hữu MBB giữa lúc nợ xấu tăng, dòng tiền âm 53.000 tỷ đồng",
-      "link": "https://vnbusiness.vn//viettel-chi-hon-ngan-ty-giu-ty-le-so-huu-mbb-giua-luc-no-xau-tang-dong-tien-am-53000-ty-dong.html",
-      "published": "Sat, 22 Aug 2026 10:56:13 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "FTSE công bố 117 cổ phiếu Việt Nam: Ai sẽ hưởng lợi lớn trước ‘giờ G’ nâng hạng?",
-      "link": "https://vnbusiness.vn//ftse-cong-bo-117-co-phieu-viet-nam-ai-se-huong-loi-lon-truoc-gio-g-nang-hang.html",
-      "published": "Sat, 22 Aug 2026 04:38:14 GMT"
     }
   ]
 }
