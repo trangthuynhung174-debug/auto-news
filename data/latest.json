@@ -1,7 +1,31 @@
 {
-  "collected_at": "2026-09-09T16:13:18.908001+00:00",
+  "collected_at": "2026-09-09T17:11:38.691595+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Dưới chân đèo Hải Vân, tỷ phú Phạm Nhật Vượng đang cho xây công trình lớn nhất Đông Nam Á, học mô hình đình đám của Mỹ và Nhật Bản",
+      "link": "https://cafef.vn/duoi-chan-deo-hai-van-ty-phu-pham-nhat-vuong-dang-cho-xay-cong-trinh-lon-nhat-dong-nam-a-hoc-mo-hinh-dinh-dam-cua-my-va-nhat-ban-18826090922214882.chn",
+      "published": "Thu, 10 Sep 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Ông Trần Đình Long đang xây nhà máy hơn 10.000 tỷ đồng để làm một thứ dài tới 100 mét: Phải “soi” bằng laser và siêu âm trước khi xuất xưởng",
+      "link": "https://cafef.vn/ong-tran-dinh-long-dang-xay-nha-may-hon-10000-ty-dong-de-lam-mot-thu-dai-toi-100-met-phai-soi-bang-laser-va-sieu-am-truoc-khi-xuat-xuong-188260909220159011.chn",
+      "published": "Thu, 10 Sep 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Đúng 11 ngày nữa, chứng khoán Việt Nam đón một thay đổi lớn",
+      "link": "https://cafef.vn/dung-11-ngay-nua-chung-khoan-viet-nam-don-mot-thay-doi-lon-188260909222408601.chn",
+      "published": "Thu, 10 Sep 26 00:03:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Trước thềm nâng hạng: Khối ngoại chỉ dừng bán 4 tháng trong suốt 3 năm rưỡi",
+      "link": "https://cafef.vn/truoc-them-nang-hang-khoi-ngoai-chi-dung-ban-4-thang-trong-suot-3-nam-ruoi-188260909224228856.chn",
+      "published": "Thu, 10 Sep 26 00:01:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Cổ phiếu TRC bị bán tháo trước thềm chia cổ tức bằng cổ phiếu tỷ lệ 300%, VN-Index giảm hơn 3 điểm",
@@ -279,30 +303,6 @@
       "published": "Tue, 08 Sep 26 11:15:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Vinhomes huy động lô trái phiếu 2.000 tỷ đồng, lãi suất 12%/năm",
-      "link": "https://cafef.vn/vinhomes-huy-dong-lo-trai-phieu-2000-ty-dong-lai-suat-12-nam-188260908110452833.chn",
-      "published": "Tue, 08 Sep 26 11:04:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Lãnh đạo Bệnh viện TNH đăng ký bán hơn 5,3 triệu cổ phiếu TNH",
-      "link": "https://cafef.vn/lanh-dao-benh-vien-tnh-dang-ky-ban-hon-53-trieu-co-phieu-tnh-188260908102148596.chn",
-      "published": "Tue, 08 Sep 26 10:57:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Vẫn lỗ lũy kế hơn 23.000 tỷ đồng, cổ phiếu một công ty bị giữ nguyên diện cảnh báo",
-      "link": "https://cafef.vn/van-lo-luy-ke-hon-23000-ty-dong-co-phieu-mot-cong-ty-bi-giu-nguyen-dien-canh-bao-188260908102120967.chn",
-      "published": "Tue, 08 Sep 26 10:55:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Thấy gì từ động thái rút ròng hơn 90.000 tỷ đồng của khối ngoại trước thời điểm nâng hạng?",
-      "link": "https://cafef.vn/thay-gi-tu-dong-thai-rut-rong-hon-90000-ty-dong-cua-khoi-ngoai-truoc-thoi-diem-nang-hang-188260908104642349.chn",
-      "published": "Tue, 08 Sep 26 10:47:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Theo dấu dòng tiền cá mập 09/09: Tự doanh, khối ngoại cùng nối dài chuỗi bán ròng",
       "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0909-tu-doanh-khoi-ngoai-cung-noi-dai-chuoi-ban-rong-830-1490612.htm",
@@ -421,6 +421,12 @@
       "title": "Top cổ phiếu đáng chú ý đầu phiên 08/09",
       "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-0809-830-1489626.htm",
       "published": "Tue, 08 Sep 2026 08:00:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VN-Index giảm nhẹ, rủi ro điều chỉnh gia tăng",
+      "link": "https://vneconomy.vn/vn-index-giam-nhe-rui-ro-dieu-chinh-gia-tang.htm",
+      "published": "Wed, 09 Sep 2026 16:17:30 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Chênh lệch lợi suất trái phiếu giữa Mỹ và Trung Quốc lớn nhất 20 năm",
       "link": "https://vneconomy.vn/chenh-lech-loi-suat-trai-phieu-giua-my-va-trung-quoc-lon-nhat-20-nam.htm",
       "published": "Mon, 07 Sep 2026 03:20:00 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tổng thống Trump gia tăng sức ép lên Fed trước cuộc họp vào tuần tới",
-      "link": "https://vneconomy.vn/tong-thong-trump-gia-tang-suc-ep-len-fed-truoc-cuoc-hop-vao-tuan-toi.htm",
-      "published": "Mon, 07 Sep 2026 03:06:32 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
