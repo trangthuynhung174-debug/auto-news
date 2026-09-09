@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-09T10:13:10.969153+00:00",
+  "collected_at": "2026-09-09T11:11:51.573342+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Tài khoản chứng khoán tiến sát mốc 14 triệu",
+      "link": "http://vietstock.vn/2026/09/tai-khoan-chung-khoan-tien-sat-moc-14-trieu-830-1490437.htm",
+      "published": "Wed, 09 Sep 2026 17:16:53 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật phiên chiều 09/09: Hiện tượng phân hóa đang diễn ra",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0909-hien-tuong-phan-hoa-dang-dien-ra-585-1490315.htm",
       "published": "Wed, 09 Sep 2026 13:07:18 +0700"
@@ -415,12 +421,6 @@
       "title": "UBCKNN phạt Công ty Việt Vương vì chậm công bố thông tin",
       "link": "http://vietstock.vn/2026/09/ubcknn-phat-cong-ty-viet-vuong-vi-cham-cong-bo-thong-tin-830-1489737.htm",
       "published": "Mon, 07 Sep 2026 22:32:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 07/09: Khối ngoại, tự doanh cùng xả trong phiên giảm hơn 31 điểm",
-      "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0709-khoi-ngoai-tu-doanh-cung-xa-trong-phien-giam-hon-31-diem-830-1489704.htm",
-      "published": "Mon, 07 Sep 2026 19:21:13 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
