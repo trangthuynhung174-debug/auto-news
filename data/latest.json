@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-10T07:13:34.445841+00:00",
+  "collected_at": "2026-09-10T08:13:42.688239+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "90 công nhân của tỷ phú Phạm Nhật Vượng vượt 120 km đường đèo, “chạy đua” giữa đại ngàn làm một việc đặc biệt cho trẻ em vùng cao",
+      "link": "https://cafef.vn/90-cong-nhan-cua-ty-phu-pham-nhat-vuong-vuot-120-km-duong-deo-chay-dua-giua-dai-ngan-lam-mot-viec-dac-biet-cho-tre-em-vung-cao-188260910150220567.chn",
+      "published": "Thu, 10 Sep 26 15:02:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Điều gì khiến SACOMBANK vượt đỉnh lịch sử?",
@@ -297,10 +303,16 @@
       "published": "Tue, 08 Sep 26 17:52:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "VN-Index ‘quay xe’ sau cú rơi đầu tuần",
-      "link": "https://cafef.vn/vn-index-quay-xe-sau-cu-roi-dau-tuan-18826090817053572.chn",
-      "published": "Tue, 08 Sep 26 17:17:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Ngân hàng “toan tính” giữa room cho đối tác chiến lược và dòng tiền nâng hạng",
+      "link": "http://vietstock.vn/2026/09/ngan-hang-toan-tinh-giua-room-cho-doi-tac-chien-luoc-va-dong-tien-nang-hang-830-1490863.htm",
+      "published": "Thu, 10 Sep 2026 14:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 10/09: Rung lắc mạnh trong nửa cuối phiên sáng",
+      "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-rung-lac-manh-trong-nua-cuoi-phien-sang-1636-1490787.htm",
+      "published": "Thu, 10 Sep 2026 13:57:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -409,18 +421,6 @@
       "title": "Khi thị trường biến động, điều gì giữ chân nhà đầu tư?",
       "link": "http://vietstock.vn/2026/09/khi-thi-truong-bien-dong-dieu-gi-giu-chan-nha-dau-tu-830-1487024.htm",
       "published": "Tue, 08 Sep 2026 11:02:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "“Soi” 27 cổ phiếu được vào FTSE GEIS: Mã nào phá đỉnh thời đại trong năm 2026?",
-      "link": "http://vietstock.vn/2026/09/soi-27-co-phieu-duoc-vao-ftse-geis-ma-nao-pha-dinh-thoi-dai-trong-nam-2026-830-1489815.htm",
-      "published": "Tue, 08 Sep 2026 10:47:47 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Ngày 08/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-      "link": "http://vietstock.vn/2026/09/ngay-08092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1489601.htm",
-      "published": "Tue, 08 Sep 2026 10:00:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
