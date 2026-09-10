@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-10T10:13:02.608250+00:00",
+  "collected_at": "2026-09-10T11:12:00.052930+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán có tín hiệu đáng chú ý trước thềm nâng hạng",
+      "link": "https://cafef.vn/chung-khoan-co-tin-hieu-dang-chu-y-truoc-them-nang-hang-188260910170516557.chn",
+      "published": "Thu, 10 Sep 26 17:57:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nhóm công ty chứng khoán có động thái bất ngờ ngay trước thềm nâng hạng",
+      "link": "https://cafef.vn/nhom-cong-ty-chung-khoan-co-dong-thai-bat-ngo-ngay-truoc-them-nang-hang-188260910163350873.chn",
+      "published": "Thu, 10 Sep 26 17:13:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Cổ phiếu DGW “tím lịm”, tân binh KAI “bốc hơi” gần 19% chỉ sau 2 phiên",
@@ -13,12 +25,6 @@
       "title": "Người thân sếp lớn Hòa Phát đăng ký bán cổ phiếu HPG",
       "link": "https://cafef.vn/nguoi-than-sep-lon-hoa-phat-dang-ky-ban-co-phieu-hpg-188260910164434455.chn",
       "published": "Thu, 10 Sep 26 16:45:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một thế lực vừa \"tung\" gần 300 tỷ đồng mua ròng cổ phiếu Việt Nam phiên 10/9, đâu là tâm điểm?",
-      "link": "https://cafef.vn/mot-the-luc-vua-tung-gan-300-ty-dong-mua-rong-co-phieu-viet-nam-phien-10-9-dau-la-tam-diem-188260910163350873.chn",
-      "published": "Thu, 10 Sep 26 16:33:00 +0700"
     },
     {
       "source": "CafeF - Chứng khoán",
@@ -297,10 +303,16 @@
       "published": "Wed, 09 Sep 26 08:00:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Đúng 9 giờ ngày 9/9, Vinhomes có một sự thay đổi lớn",
-      "link": "https://cafef.vn/dung-9-gio-ngay-9-9-vinhomes-co-mot-su-thay-doi-lon-188260908232101173.chn",
-      "published": "Wed, 09 Sep 26 00:10:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 10/09: Tiếp đà tăng điểm, VN-Index đóng cửa trong sắc xanh",
+      "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-tiep-da-tang-diem-vn-index-dong-cua-trong-sac-xanh-1636-1490787.htm",
+      "published": "Thu, 10 Sep 2026 16:47:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "FPT sắp phát hành 171 triệu cổ phiếu thưởng",
+      "link": "http://vietstock.vn/2026/09/fpt-sap-phat-hanh-171-trieu-co-phieu-thuong-830-1490904.htm",
+      "published": "Thu, 10 Sep 2026 16:43:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -409,18 +421,6 @@
       "title": "Phân tích kỹ thuật phiên chiều 08/09: Diễn biến giằng co",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0809-dien-bien-giang-co-585-1489870.htm",
       "published": "Tue, 08 Sep 2026 13:07:32 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Hơn 5.3 triệu cp RCD giao dịch cuối cùng trên UPCoM ngày 11/09",
-      "link": "http://vietstock.vn/2026/09/hon-53-trieu-cp-rcd-giao-dich-cuoi-cung-tren-upcom-ngay-1109-830-1489830.htm",
-      "published": "Tue, 08 Sep 2026 11:44:09 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Khi thị trường biến động, điều gì giữ chân nhà đầu tư?",
-      "link": "http://vietstock.vn/2026/09/khi-thi-truong-bien-dong-dieu-gi-giu-chan-nha-dau-tu-830-1487024.htm",
-      "published": "Tue, 08 Sep 2026 11:02:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
