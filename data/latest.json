@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-10T11:12:00.052930+00:00",
+  "collected_at": "2026-09-10T12:15:59.228058+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Vietstock Daily 11/09/2026: Phân hóa với thanh khoản thấp",
+      "link": "http://vietstock.vn/2026/09/vietstock-daily-11092026-phan-hoa-voi-thanh-khoan-thap-1636-1490984.htm",
+      "published": "Thu, 10 Sep 2026 18:11:15 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Nhịp đập Thị trường 10/09: Tiếp đà tăng điểm, VN-Index đóng cửa trong sắc xanh",
       "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-tiep-da-tang-diem-vn-index-dong-cua-trong-sac-xanh-1636-1490787.htm",
       "published": "Thu, 10 Sep 2026 16:47:00 +0700"
@@ -417,10 +423,10 @@
       "published": "Tue, 08 Sep 2026 16:02:40 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 08/09: Diễn biến giằng co",
-      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-0809-dien-bien-giang-co-585-1489870.htm",
-      "published": "Tue, 08 Sep 2026 13:07:32 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Những điều cần biết về giao dịch “carry trade” đồng yên",
+      "link": "https://vneconomy.vn/nhung-dieu-can-biet-ve-giao-dich-carry-trade-dong-yen.htm",
+      "published": "Thu, 10 Sep 2026 11:50:39 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Dự trữ ngoại hối của Nhật Bản giảm kỷ lục sau đợt can thiệp tỷ giá đồng yên tháng 8",
       "link": "https://vneconomy.vn/du-tru-ngoai-hoi-cua-nhat-ban-giam-ky-luc-sau-dot-can-thiep-ty-gia-dong-yen-thang-8.htm",
       "published": "Tue, 08 Sep 2026 00:21:59 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index giảm mạnh, áp lực bán gia tăng trước kháng cự",
-      "link": "https://vneconomy.vn/vn-index-giam-manh-ap-luc-ban-gia-tang-truoc-khang-cu.htm",
-      "published": "Mon, 07 Sep 2026 16:25:36 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
