@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-09-10T03:12:40.801048+00:00",
+  "collected_at": "2026-09-10T04:12:24.925975+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Ngân hàng vẫn gánh vốn dài hạn, cần sự “chia lửa” của thị trường vốn",
+      "link": "https://cafef.vn/ngan-hang-van-ganh-von-dai-han-can-su-chia-lua-cua-thi-truong-von-188260910100005512.chn",
+      "published": "Thu, 10 Sep 26 10:43:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "FPT công bố văn bản quan trọng, cổ phiếu lên cao nhất 3 tháng",
+      "link": "https://cafef.vn/fpt-cong-bo-van-ban-quan-trong-co-phieu-len-cao-nhat-3-thang-188260910103058955.chn",
+      "published": "Thu, 10 Sep 26 10:33:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Created Future gom thêm cổ phiếu của Digiworld",
+      "link": "https://cafef.vn/created-future-gom-them-co-phieu-cua-digiworld-18826091009210832.chn",
+      "published": "Thu, 10 Sep 26 10:10:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Thị trường hàng hóa ngày 10/9: Giá tiêu bật tăng mạnh, cao su bứt phá",
@@ -285,22 +303,10 @@
       "published": "Tue, 08 Sep 26 16:56:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chứng khoán An Bình sẽ phát hành 5 triệu cổ phiếu ESOP cho 163 cá nhân",
-      "link": "https://cafef.vn/chung-khoan-an-binh-se-phat-hanh-5-trieu-co-phieu-esop-cho-163-ca-nhan-1882609081655485.chn",
-      "published": "Tue, 08 Sep 26 16:55:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Phiên 8/9: Khối ngoại bán tiếp đà bán ròng, \"xả\" mạnh hai cổ phiếu ngân hàng",
-      "link": "https://cafef.vn/phien-8-9-khoi-ngoai-ban-tiep-da-ban-rong-xa-manh-hai-co-phieu-ngan-hang-188260908154734368.chn",
-      "published": "Tue, 08 Sep 26 15:48:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Ngày mai, hơn 4,1 tỷ cổ phiếu Vinhomes về tài khoản nhà đầu tư, được phép giao dịch",
-      "link": "https://cafef.vn/ngay-mai-hon-41-ty-co-phieu-vinhomes-ve-tai-khoan-nha-dau-tu-duoc-phep-giao-dich-18826090815103975.chn",
-      "published": "Tue, 08 Sep 26 15:10:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+      "link": "http://vietstock.vn/2026/09/ngay-10092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1490531.htm",
+      "published": "Thu, 10 Sep 2026 10:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,16 @@
       "published": "Tue, 08 Sep 2026 09:42:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Trước “giờ G” nâng hạng: Thị trường vốn Việt Nam cần nâng cấp kiến trúc, không chỉ tốc độ",
-      "link": "http://vietstock.vn/2026/09/truoc-gio-g-nang-hang-thi-truong-von-viet-nam-can-nang-cap-kien-truc-khong-chi-toc-do-830-1487758.htm",
-      "published": "Tue, 08 Sep 2026 09:13:04 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Các quỹ đầu tư lớn toàn cầu đang tập trung mua trái phiếu và lời khuyến nghị cho nhà đầu tư cá nhân",
+      "link": "https://vneconomy.vn/cac-quy-dau-tu-lon-toan-cau-dang-tap-trung-mua-trai-phieu-va-loi-khuyen-nghi-cho-nha-dau-tu-ca-nhan.htm",
+      "published": "Thu, 10 Sep 2026 03:43:26 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Cơ hội nào trên thị trường chứng khoán trong tháng 9?",
+      "link": "https://vneconomy.vn/co-hoi-nao-tren-thi-truong-chung-khoan-trong-thang-9.htm",
+      "published": "Thu, 10 Sep 2026 03:42:36 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Mon, 07 Sep 2026 08:45:01 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tháng 8, chỉ số UPCoM Index tăng nhẹ nhưng thanh khoản giảm mạnh",
-      "link": "https://vneconomy.vn/thang-8-chi-so-upcom-index-tang-nhe-nhung-thanh-khoan-giam-manh.htm",
-      "published": "Mon, 07 Sep 2026 08:44:41 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Loạt cổ phiếu lớn lao dốc, VN-Index giảm mạnh nhất 13 phiên",
-      "link": "https://vneconomy.vn/loat-co-phieu-lon-lao-doc-vn-index-giam-manh-nhat-13-phien.htm",
-      "published": "Mon, 07 Sep 2026 08:27:25 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Xây dựng Bình Dương hủy cổ tức giữa lúc lợi nhuận giảm sâu, dòng tiền kinh doanh âm",
+      "link": "https://vnbusiness.vn//xay-dung-binh-duong-huy-co-tuc-giua-luc-loi-nhuan-giam-sau-dong-tien-kinh-doanh-am.html",
+      "published": "Thu, 10 Sep 2026 03:39:26 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Chứng khoán 24/08: PNJ cháy hàng, LPS nằm sàn, VN-Index tăng hơn 20 điểm",
       "link": "https://vnbusiness.vn//chung-khoan-2408-pnj-chay-hang-lps-nam-san-vn-index-tang-hon-20-diem.html",
       "published": "Mon, 24 Aug 2026 09:31:12 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Một Phó Tổng Giám đốc Khang Điền chi hàng trăm tỷ đồng gom cổ phiếu giữa lúc nợ vay của doanh nghiệp tăng 64%",
-      "link": "https://vnbusiness.vn//mot-pho-tong-giam-doc-khang-dien-chi-hang-tram-ty-dong-gom-co-phieu-giua-luc-no-vay-cua-doanh-nghiep-tang-64.html",
-      "published": "Mon, 24 Aug 2026 09:11:02 GMT"
     }
   ]
 }
