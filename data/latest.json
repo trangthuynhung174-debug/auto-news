@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-10T05:11:32.999950+00:00",
+  "collected_at": "2026-09-10T06:16:45.561232+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Điều gì khiến Sacombank vượt đỉnh lịch sử?",
+      "link": "https://cafef.vn/dieu-gi-khien-sacombank-vuot-dinh-lich-su-188260910125721467.chn",
+      "published": "Thu, 10 Sep 26 12:57:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Tiền không còn rẻ, chuyên gia chỉ ra 4 nguyên tắc để tài sản không bị “bào mòn” trong chu kỳ mới",
@@ -295,12 +301,6 @@
       "title": "VN-Index ‘quay xe’ sau cú rơi đầu tuần",
       "link": "https://cafef.vn/vn-index-quay-xe-sau-cu-roi-dau-tuan-18826090817053572.chn",
       "published": "Tue, 08 Sep 26 17:17:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Phiên 8/9: Tự doanh CTCK bất ngờ \"xả\" mạnh hàng trăm tỷ đồng tại một cổ phiếu chứng khoán",
-      "link": "https://cafef.vn/phien-8-9-tu-doanh-ctck-bat-ngo-xa-manh-hang-tram-ty-dong-tai-mot-co-phieu-chung-khoan-188260908170739426.chn",
-      "published": "Tue, 08 Sep 26 17:07:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Xây dựng Hòa Bình bị phạt 92,5 triệu đồng giữa lúc tái cấu trúc nợ",
+      "link": "https://vnbusiness.vn//xay-dung-hoa-binh-bi-phat-925-trieu-dong-giua-luc-tai-cau-truc-no.html",
+      "published": "Thu, 10 Sep 2026 05:31:56 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Xây dựng Bình Dương hủy cổ tức giữa lúc lợi nhuận giảm sâu, dòng tiền kinh doanh âm",
       "link": "https://vnbusiness.vn//xay-dung-binh-duong-huy-co-tuc-giua-luc-loi-nhuan-giam-sau-dong-tien-kinh-doanh-am.html",
       "published": "Thu, 10 Sep 2026 03:39:26 GMT"
@@ -1015,12 +1021,6 @@
       "title": "Thấy gì từ việc khối ngoại bán ròng nhưng vẫn nắm ‘kho tài sản’ hơn 1 triệu tỷ?",
       "link": "https://vnbusiness.vn//thay-gi-tu-viec-khoi-ngoai-ban-rong-nhung-van-nam-kho-tai-san-hon-1-trieu-ty.html",
       "published": "Tue, 25 Aug 2026 00:43:58 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Chứng khoán 24/08: PNJ cháy hàng, LPS nằm sàn, VN-Index tăng hơn 20 điểm",
-      "link": "https://vnbusiness.vn//chung-khoan-2408-pnj-chay-hang-lps-nam-san-vn-index-tang-hon-20-diem.html",
-      "published": "Mon, 24 Aug 2026 09:31:12 GMT"
     }
   ]
 }
