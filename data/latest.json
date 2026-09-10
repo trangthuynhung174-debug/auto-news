@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-10T04:12:24.925975+00:00",
+  "collected_at": "2026-09-10T05:11:32.999950+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tiền không còn rẻ, chuyên gia chỉ ra 4 nguyên tắc để tài sản không bị “bào mòn” trong chu kỳ mới",
+      "link": "https://cafef.vn/tien-khong-con-re-chuyen-gia-chi-ra-4-nguyen-tac-de-tai-san-khong-bi-bao-mon-trong-chu-ky-moi-188260910110657401.chn",
+      "published": "Thu, 10 Sep 26 11:08:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Ngân hàng vẫn gánh vốn dài hạn, cần sự “chia lửa” của thị trường vốn",
@@ -297,12 +303,6 @@
       "published": "Tue, 08 Sep 26 17:07:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một thành viên HĐQT Nam Long từ nhiệm",
-      "link": "https://cafef.vn/mot-thanh-vien-hdqt-nam-long-tu-nhiem-188260908165623083.chn",
-      "published": "Tue, 08 Sep 26 16:56:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
       "link": "http://vietstock.vn/2026/09/ngay-10092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1490531.htm",
@@ -421,6 +421,12 @@
       "title": "Chứng khoán Shinhan ra mắt VINASTALK - Nền tảng thông tin và đầu tư chứng khoán All-in-one",
       "link": "http://vietstock.vn/2026/09/chung-khoan-shinhan-ra-mat-vinastalk-nen-tang-thong-tin-va-dau-tu-chung-khoan-all-in-one-830-1489768.htm",
       "published": "Tue, 08 Sep 2026 09:42:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Áp lực bán cạn kiệt, dòng tiền vẫn chưa “phản công”",
+      "link": "https://vneconomy.vn/ap-luc-ban-can-kiet-dong-tien-van-chua-phan-cong.htm",
+      "published": "Thu, 10 Sep 2026 05:03:54 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Hàng loạt doanh nghiệp bất động sản hưởng lợi rõ nét khi TP.HCM được trao nhiều thẩm quyền đất đai",
       "link": "https://vneconomy.vn/hang-loat-doanh-nghiep-bat-dong-san-huong-loi-ro-net-khi-tphcm-duoc-trao-nhieu-tham-quyen-dat-dai.htm",
       "published": "Mon, 07 Sep 2026 08:48:30 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Sau đợt giảm nhẹ, dự báo lãi suất sẽ duy trì ở mức cao trong thời gian tới",
-      "link": "https://vneconomy.vn/sau-dot-giam-nhe-du-bao-lai-suat-se-duy-tri-o-muc-cao-trong-thoi-gian-toi.htm",
-      "published": "Mon, 07 Sep 2026 08:45:01 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
