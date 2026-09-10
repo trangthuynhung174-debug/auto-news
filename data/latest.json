@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-10T00:16:49.872839+00:00",
+  "collected_at": "2026-09-10T01:11:42.801441+00:00",
   "count": 170,
   "items": [
     {
@@ -424,6 +424,18 @@
     },
     {
       "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ giảm phiên thứ ba liên tiếp khi lợi suất trái phiếu tăng mạnh, giá dầu vượt 101 USD/thùng",
+      "link": "https://vneconomy.vn/chung-khoan-my-giam-phien-thu-ba-lien-tiep-khi-loi-suat-trai-phieu-tang-manh-gia-dau-vuot-101-usdthung.htm",
+      "published": "Thu, 10 Sep 2026 00:27:40 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng hồi mốc 4.400 USD/oz trước thềm báo cáo lạm phát Mỹ",
+      "link": "https://vneconomy.vn/gia-vang-hoi-moc-4400-usdoz-truoc-them-bao-cao-lam-phat-my.htm",
+      "published": "Thu, 10 Sep 2026 00:24:36 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
       "title": "VN-Index giảm nhẹ, rủi ro điều chỉnh gia tăng",
       "link": "https://vneconomy.vn/vn-index-giam-nhe-rui-ro-dieu-chinh-gia-tang.htm",
       "published": "Wed, 09 Sep 2026 16:17:30 GMT"
@@ -711,16 +723,10 @@
       "published": "Mon, 07 Sep 2026 03:29:14 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Từ “soi bảng điện” đến tích sản: Cần thay đổi cách thức đầu tư cổ phiếu",
-      "link": "https://vneconomy.vn/tu-soi-bang-dien-den-tich-san-can-thay-doi-cach-thuc-dau-tu-co-phieu.htm",
-      "published": "Mon, 07 Sep 2026 03:27:53 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chênh lệch lợi suất trái phiếu giữa Mỹ và Trung Quốc lớn nhất 20 năm",
-      "link": "https://vneconomy.vn/chenh-lech-loi-suat-trai-phieu-giua-my-va-trung-quoc-lon-nhat-20-nam.htm",
-      "published": "Mon, 07 Sep 2026 03:20:00 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Dòng tiền chưa đồng thuận, nhà đầu tư chứng khoán nên làm gì?",
+      "link": "https://vnbusiness.vn//dong-tien-chua-dong-thuan-nha-dau-tu-chung-khoan-nen-lam-gi.html",
+      "published": "Thu, 10 Sep 2026 00:26:31 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Một Phó Tổng Giám đốc Khang Điền chi hàng trăm tỷ đồng gom cổ phiếu giữa lúc nợ vay của doanh nghiệp tăng 64%",
       "link": "https://vnbusiness.vn//mot-pho-tong-giam-doc-khang-dien-chi-hang-tram-ty-dong-gom-co-phieu-giua-luc-no-vay-cua-doanh-nghiep-tang-64.html",
       "published": "Mon, 24 Aug 2026 09:11:02 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "ST8 liên tiếp đính chính báo cáo tài chính, lỗ quý II tăng lên gần 23 tỷ đồng",
-      "link": "https://vnbusiness.vn//st8-lien-tiep-dinh-chinh-bao-cao-tai-chinh-lo-quy-ii-tang-len-gan-23-ty-dong.html",
-      "published": "Mon, 24 Aug 2026 04:28:51 GMT"
     }
   ]
 }
