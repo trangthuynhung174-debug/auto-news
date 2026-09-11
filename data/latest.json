@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-11T07:12:47.811156+00:00",
+  "collected_at": "2026-09-11T08:13:45.766072+00:00",
   "count": 170,
   "items": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Áp lực đáo hạn 253.000 tỷ đồng trái phiếu trong 12 tháng tới: Bất động sản tiếp tục là “điểm nóng”",
-      "link": "https://cafef.vn/ap-luc-dao-han-253000-ty-dong-trai-phieu-trong-12-thang-toi-bat-dong-san-tiep-tuc-la-diem-nong-188260911111814125.chn",
+      "title": "Áp lực đáo hạn 253.000 tỷ đồng trái phiếu trong 12 tháng tới",
+      "link": "https://cafef.vn/ap-luc-dao-han-253000-ty-dong-trai-phieu-trong-12-thang-toi-188260911111814125.chn",
       "published": "Fri, 11 Sep 26 11:31:00 +0700"
     },
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 11/09: Sức ép chưa hạ nhiệt",
+      "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1109-suc-ep-chua-ha-nhiet-1636-1491240.htm",
+      "published": "Fri, 11 Sep 2026 14:12:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật phiên chiều 11/09: Triển vọng ngắn hạn đang xấu đi",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1109-trien-vong-ngan-han-dang-xau-di-585-1491273.htm",
       "published": "Fri, 11 Sep 2026 13:04:00 +0700"
@@ -415,12 +421,6 @@
       "title": "750 triệu cp KAI chính thức lên UPCoM với giá 15,000 đồng/cp",
       "link": "http://vietstock.vn/2026/09/750-trieu-cp-kai-chinh-thuc-len-upcom-voi-gia-15000-dongcp-830-1490275.htm",
       "published": "Wed, 09 Sep 2026 11:47:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Chứng khoán Mirae Asset (Việt Nam) sắp chuyển 113.5 triệu cp ưu đãi thành phổ thông?",
-      "link": "http://vietstock.vn/2026/09/chung-khoan-mirae-asset-viet-nam-sap-chuyen-1135-trieu-cp-uu-dai-thanh-pho-thong-830-1490265.htm",
-      "published": "Wed, 09 Sep 2026 11:01:33 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Cổ phiếu Đầu tư BIG giảm 37% sau gần 5 tháng, một lãnh đạo đăng ký bán 1,34 triệu cổ phiếu",
+      "link": "https://vnbusiness.vn//co-phieu-dau-tu-big-giam-37-sau-gan-5-thang-mot-lanh-dao-dang-ky-ban-134-trieu-co-phieu.html",
+      "published": "Fri, 11 Sep 2026 07:47:23 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Vidipha bị phạt và truy thu hơn 800 triệu đồng, cổ phiếu VDP giảm sàn",
       "link": "https://vnbusiness.vn//vidipha-bi-phat-va-truy-thu-hon-800-trieu-dong-co-phieu-vdp-giam-san.html",
       "published": "Fri, 11 Sep 2026 04:16:54 GMT"
@@ -1015,12 +1021,6 @@
       "title": "Chủ tịch 9x của Fibo Invest và 11 tài khoản trong vụ thao túng cổ phiếu CAR",
       "link": "https://vnbusiness.vn//chu-tich-9x-cua-fibo-invest-va-11-tai-khoan-trong-vu-thao-tung-co-phieu-car.html",
       "published": "Wed, 26 Aug 2026 04:39:56 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "IPO đình đám, lợi nhuận nhà đầu tư cổ phiếu Điện Máy Xanh vẫn nhanh chóng ‘bốc hơi’",
-      "link": "https://vnbusiness.vn//ipo-dinh-dam-loi-nhuan-nha-dau-tu-co-phieu-dien-may-xanh-van-nhanh-chong-boc-hoi.html",
-      "published": "Wed, 26 Aug 2026 03:41:59 GMT"
     }
   ]
 }
