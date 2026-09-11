@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-11T00:17:42.604685+00:00",
+  "collected_at": "2026-09-11T01:10:55.215412+00:00",
   "count": 170,
   "items": [
     {
@@ -424,6 +424,12 @@
     },
     {
       "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ giảm một mạch 4 phiên, giá dầu nhảy hơn 6%",
+      "link": "https://vneconomy.vn/chung-khoan-my-giam-mot-mach-4-phien-gia-dau-nhay-hon-6.htm",
+      "published": "Fri, 11 Sep 2026 00:39:28 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
       "title": "Giá vàng lao dốc sau báo cáo PPI Mỹ",
       "link": "https://vneconomy.vn/gia-vang-lao-doc-sau-bao-cao-ppi-my.htm",
       "published": "Fri, 11 Sep 2026 00:10:43 GMT"
@@ -717,10 +723,10 @@
       "published": "Tue, 08 Sep 2026 03:57:11 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Nhiều nhà dự báo trở nên lạc quan hơn về triển vọng tăng giá của vàng",
-      "link": "https://vneconomy.vn/nhieu-nha-du-bao-tro-nen-lac-quan-hon-ve-trien-vong-tang-gia-cua-vang.htm",
-      "published": "Tue, 08 Sep 2026 00:55:28 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Tiền không còn rẻ, VN-Index đối mặt áp lực điều chỉnh trong nửa cuối tháng 9",
+      "link": "https://vnbusiness.vn//tien-khong-con-re-vn-index-doi-mat-ap-luc-dieu-chinh-trong-nua-cuoi-thang-9.html",
+      "published": "Fri, 11 Sep 2026 00:55:03 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "VN-Index áp sát mốc 1.800 điểm, nhưng dòng tiền chuyên nghiệp lại đang rút ra",
       "link": "https://vnbusiness.vn//vn-index-ap-sat-moc-1800-diem-nhung-dong-tien-chuyen-nghiep-lai-dang-rut-ra.html",
       "published": "Wed, 26 Aug 2026 00:47:08 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "TCM ‘nhấn ga’ sau khi lãnh đạo bị bán giải chấp",
-      "link": "https://vnbusiness.vn//tcm-nhan-ga-sau-khi-lanh-dao-bi-ban-giai-chap.html",
-      "published": "Tue, 25 Aug 2026 07:42:05 GMT"
     }
   ]
 }
