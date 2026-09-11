@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-11T03:12:14.831494+00:00",
+  "collected_at": "2026-09-11T04:13:27.898835+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Lời cảm ơn của ông Trịnh Văn Quyết",
+      "link": "https://cafef.vn/loi-cam-on-cua-ong-trinh-van-quyet-188260911110235554.chn",
+      "published": "Fri, 11 Sep 26 11:03:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Công ty Y tế Việt Mỹ cung cấp thiết bị gần 600 tỷ đồng cho Bệnh viện Ung bướu Nghệ An",
+      "link": "https://cafef.vn/cong-ty-y-te-viet-my-cung-cap-thiet-bi-gan-600-ty-dong-cho-benh-vien-ung-buou-nghe-an-188260911105809487.chn",
+      "published": "Fri, 11 Sep 26 10:58:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Cổ đông một doanh nghiệp thép sắp \"bỏ túi\" hơn 200 tỷ đồng",
@@ -289,18 +301,6 @@
       "title": "Cổ phiếu KAI “đảo chiều” hơn 50% ngay phiên đầu lên UPCoM",
       "link": "https://cafef.vn/co-phieu-kai-dao-chieu-hon-50-ngay-phien-dau-len-upcom-188260909195339928.chn",
       "published": "Wed, 09 Sep 26 19:53:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Báo lãi sai lệch, Tập đoàn Điện Quang (DQC) bị xử phạt 150 triệu đồng",
-      "link": "https://cafef.vn/bao-lai-sai-lech-tap-doan-dien-quang-dqc-bi-xu-phat-150-trieu-dong-188260909195208535.chn",
-      "published": "Wed, 09 Sep 26 19:51:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cổ phiếu DN sở hữu loạt công viên giải trí khổng lồ, rộng gấp 14 lần Disneyland Park tại Paris tăng \"bốc đầu\"",
-      "link": "https://cafef.vn/co-phieu-dn-so-huu-loat-cong-vien-giai-tri-khong-lo-rong-gap-14-lan-disneyland-park-tai-paris-tang-boc-dau-188260909195015851.chn",
-      "published": "Wed, 09 Sep 26 19:50:00 +0700"
     },
     {
       "source": "VietstockFinance",
