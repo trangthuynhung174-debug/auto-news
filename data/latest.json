@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-12T01:10:19.309210+00:00",
+  "collected_at": "2026-09-12T02:12:32.937841+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Con trai thứ của ông Phạm Nhật Vượng được bổ nhiệm làm Tổng giám đốc GSM toàn cầu kiêm Tổng giám đốc GSM Việt Nam",
+      "link": "https://cafef.vn/con-trai-thu-cua-ong-pham-nhat-vuong-duoc-bo-nhiem-lam-tong-giam-doc-gsm-toan-cau-kiem-tong-giam-doc-gsm-viet-nam-188260912090407814.chn",
+      "published": "Sat, 12 Sep 26 09:05:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Quỹ ETF quy mô hơn 500 triệu USD thêm mới cổ phiếu SSB, dự kiến bán mạnh VIC, SSI",
@@ -297,12 +303,6 @@
       "published": "Thu, 10 Sep 26 15:39:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Phạt nhiều doanh nghiệp vì thông tin trái phiếu",
-      "link": "https://cafef.vn/phat-nhieu-doanh-nghiep-vi-thong-tin-trai-phieu-188260910152326409.chn",
-      "published": "Thu, 10 Sep 26 15:23:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phạt hơn 340 triệu đồng ba doanh nghiệp do lỗi công bố thông tin",
       "link": "http://vietstock.vn/2026/09/phat-hon-340-trieu-dong-ba-doanh-nghiep-do-loi-cong-bo-thong-tin-830-1491516.htm",
@@ -421,6 +421,12 @@
       "title": "Vietstock Daily 10/09/2026: Giằng co tiếp diễn",
       "link": "http://vietstock.vn/2026/09/vietstock-daily-10092026-giang-co-tiep-dien-1636-1490525.htm",
       "published": "Wed, 09 Sep 2026 18:17:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ hồi điểm sau báo cáo CPI, giá dầu tăng 9% trong tuần này",
+      "link": "https://vneconomy.vn/chung-khoan-my-hoi-diem-sau-bao-cao-cpi-gia-dau-tang-9-trong-tuan-nay.htm",
+      "published": "Sat, 12 Sep 2026 01:45:17 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Thanh khoản lại \"tắt\", khối ngoại tiếp tục xả hàng",
       "link": "https://vneconomy.vn/thanh-khoan-lai-tat-khoi-ngoai-tiep-tuc-xa-hang.htm",
       "published": "Tue, 08 Sep 2026 11:45:18 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Blog chứng khoán: Tiền không chịu vào",
-      "link": "https://vneconomy.vn/blog-chung-khoan-tien-khong-chiu-vao.htm",
-      "published": "Tue, 08 Sep 2026 09:41:49 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
