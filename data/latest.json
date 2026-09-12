@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-12T10:11:41.213201+00:00",
+  "collected_at": "2026-09-12T11:11:00.619261+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Thành viên HĐQT SSI mua thành công 5 triệu cổ phiếu",
+      "link": "https://cafef.vn/thanh-vien-hdqt-ssi-mua-thanh-cong-5-trieu-co-phieu-188260912174803709.chn",
+      "published": "Sat, 12 Sep 26 17:47:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Con gái Chủ tịch PNJ bán xong 7 triệu cổ phiếu",
+      "link": "https://cafef.vn/con-gai-chu-tich-pnj-ban-xong-7-trieu-co-phieu-188260912171341719.chn",
+      "published": "Sat, 12 Sep 26 17:13:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Hoá chất Đức Giang đề cử 2 ứng viên vào HĐQT Ắc quy Tia Sáng",
@@ -291,18 +303,6 @@
       "published": "Thu, 10 Sep 26 20:12:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cổ phiếu KAI giảm gần 20% sau hai phiên lên UPCoM: Gần 2/3 lợi nhuận trước thuế của Kafi là chưa thực hiện",
-      "link": "https://cafef.vn/co-phieu-kai-giam-gan-20-sau-hai-phien-len-upcom-gan-2-3-loi-nhuan-truoc-thue-cua-kafi-la-chua-thuc-hien-188260910195325067.chn",
-      "published": "Thu, 10 Sep 26 19:53:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chứng khoán có tín hiệu đáng chú ý trước thềm nâng hạng",
-      "link": "https://cafef.vn/chung-khoan-co-tin-hieu-dang-chu-y-truoc-them-nang-hang-188260910170516557.chn",
-      "published": "Thu, 10 Sep 26 17:57:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Cổ phiếu Camimex rời diện cảnh báo",
       "link": "http://vietstock.vn/2026/09/co-phieu-camimex-roi-dien-canh-bao-830-1491278.htm",
@@ -421,6 +421,12 @@
       "title": "Theo dấu dòng tiền cá mập 09/09: Tự doanh, khối ngoại cùng nối dài chuỗi bán ròng",
       "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-0909-tu-doanh-khoi-ngoai-cung-noi-dai-chuoi-ban-rong-830-1490612.htm",
       "published": "Wed, 09 Sep 2026 19:17:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Công ty chứng khoán nhận định gì khi VN-Index thủng mốc 1800 điểm?",
+      "link": "https://vneconomy.vn/cong-ty-chung-khoan-nhan-dinh-gi-khi-vn-index-thung-moc-1800-diem.htm",
+      "published": "Sat, 12 Sep 2026 10:31:10 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Tháng 8, hợp đồng tương lai trái phiếu Chính phủ kỳ hạn 5 năm và 10 năm không có giao dịch",
       "link": "https://vneconomy.vn/thang-8-hop-dong-tuong-lai-trai-phieu-chinh-phu-ky-han-5-nam-va-10-nam-khong-co-giao-dich.htm",
       "published": "Tue, 08 Sep 2026 11:47:53 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Mức lợi suất trái phiếu kho bạc Mỹ có thể đe dọa các tài sản khác",
-      "link": "https://vneconomy.vn/muc-loi-suat-trai-phieu-kho-bac-my-co-the-de-doa-cac-tai-san-khac.htm",
-      "published": "Tue, 08 Sep 2026 11:45:29 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
