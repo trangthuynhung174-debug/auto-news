@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-13T02:12:19.693093+00:00",
+  "collected_at": "2026-09-13T03:12:22.800614+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán tuần qua: VN-Index mất 58 điểm, áp lực bán phủ bóng thị trường",
+      "link": "https://cafef.vn/chung-khoan-tuan-qua-vn-index-mat-58-diem-ap-luc-ban-phu-bong-thi-truong-188260913084852777.chn",
+      "published": "Sun, 13 Sep 26 09:18:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "FPTS muốn vay 2.300 tỷ đồng tại ACB",
@@ -297,12 +303,6 @@
       "published": "Fri, 11 Sep 26 09:03:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng chưa về đỉnh, các quỹ ETF đã tăng nắm giữ vàng lên cao nhất mọi thời đại",
-      "link": "https://cafef.vn/gia-vang-chua-ve-dinh-cac-quy-etf-da-tang-nam-giu-vang-len-cao-nhat-moi-thoi-dai-188260910224016274.chn",
-      "published": "Fri, 11 Sep 26 00:10:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 14-18/09/2026",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-14-18092026-585-1491686.htm",
@@ -424,8 +424,20 @@
     },
     {
       "source": "VnEconomy - Chứng khoán",
-      "title": "Danh sách 73cổ phiếu bị cắt margin trên HOSE",
-      "link": "https://vneconomy.vn/danh-sach-73co-phieu-bi-cat-margin-tren-hose.htm",
+      "title": "Dấu ấn kinh tế thế giới tuần 6-12/9/2026: Giá dầu leo thang mạnh, khả năng Fed tăng lãi suất ngày càng lớn",
+      "link": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-6-1292026-gia-dau-leo-thang-manh-kha-nang-fed-tang-lai-suat-ngay-cang-lon.htm",
+      "published": "Sun, 13 Sep 2026 03:06:31 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Xu thế dòng tiền: Thủng mốc tâm lý 1800 điểm, thị trường sẽ điều chỉnh đến đâu?",
+      "link": "https://vneconomy.vn/xu-the-dong-tien-thung-moc-tam-ly-1800-diem-thi-truong-se-dieu-chinh-den-dau.htm",
+      "published": "Sun, 13 Sep 2026 02:46:02 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Danh sách 73 cổ phiếu bị cắt margin trên HOSE",
+      "link": "https://vneconomy.vn/danh-sach-73-co-phieu-bi-cat-margin-tren-hose.htm",
       "published": "Sun, 13 Sep 2026 01:52:44 GMT"
     },
     {
@@ -709,18 +721,6 @@
       "title": "Vàng sụt giá vì giá dầu leo thang mạnh, SPDR Gold Trust bán ròng",
       "link": "https://vneconomy.vn/vang-sut-gia-vi-gia-dau-leo-thang-manh-spdr-gold-trust-ban-rong.htm",
       "published": "Wed, 09 Sep 2026 00:31:28 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index tăng nhẹ, nhà đầu tư thận trọng chờ tín hiệu rõ ràng",
-      "link": "https://vneconomy.vn/vn-index-tang-nhe-nha-dau-tu-than-trong-cho-tin-hieu-ro-rang.htm",
-      "published": "Wed, 09 Sep 2026 00:31:04 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ mất điểm khi giá dầu tiếp cận mốc 100 USD/thùng",
-      "link": "https://vneconomy.vn/chung-khoan-my-mat-diem-khi-gia-dau-tiep-can-moc-100-usdthung.htm",
-      "published": "Wed, 09 Sep 2026 00:30:18 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
