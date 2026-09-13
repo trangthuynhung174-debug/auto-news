@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-13T03:12:22.800614+00:00",
+  "collected_at": "2026-09-13T04:12:42.406308+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "EEMC công bố thông tin về ông Đặng Phan Tường",
+      "link": "https://cafef.vn/eemc-cong-bo-thong-tin-ve-ong-dang-phan-tuong-188260913103017077.chn",
+      "published": "Sun, 13 Sep 26 10:30:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Chứng khoán tuần qua: VN-Index mất 58 điểm, áp lực bán phủ bóng thị trường",
@@ -297,10 +303,10 @@
       "published": "Fri, 11 Sep 26 09:25:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Vidipha bị phạt và truy thu thuế hơn 800 triệu đồng",
-      "link": "https://cafef.vn/vidipha-bi-phat-va-truy-thu-thue-hon-800-trieu-dong-188260911090332927.chn",
-      "published": "Fri, 11 Sep 26 09:03:00 +0700"
+      "source": "VietstockFinance",
+      "title": "IR thực chất: Đừng lấy biến động giá ngắn hạn làm thước đo hiệu quả",
+      "link": "http://vietstock.vn/2026/09/ir-thuc-chat-dung-lay-bien-dong-gia-ngan-han-lam-thuoc-do-hieu-qua-830-1490068.htm",
+      "published": "Sun, 13 Sep 2026 10:02:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -415,12 +421,6 @@
       "title": "Phân tích kỹ thuật phiên chiều 10/09: Áp lực điều chỉnh vẫn hiện hữu",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1009-ap-luc-dieu-chinh-van-hien-huu-585-1490836.htm",
       "published": "Thu, 10 Sep 2026 13:05:49 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-      "link": "http://vietstock.vn/2026/09/ngay-10092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1490531.htm",
-      "published": "Thu, 10 Sep 2026 10:00:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
