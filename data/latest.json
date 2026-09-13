@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-13T01:10:33.824954+00:00",
+  "collected_at": "2026-09-13T02:12:19.693093+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "FPTS muốn vay 2.300 tỷ đồng tại ACB",
+      "link": "https://cafef.vn/fpts-muon-vay-2300-ty-dong-tai-acb-188260913084719091.chn",
+      "published": "Sun, 13 Sep 26 08:47:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng hôm nay 13/9: Đi ngang chờ động thái mới từ Fed",
+      "link": "https://cafef.vn/gia-vang-hom-nay-13-9-di-ngang-cho-dong-thai-moi-tu-fed-188260913084537911.chn",
+      "published": "Sun, 13 Sep 26 08:45:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Hai con trai ông Phạm Nhật Vượng đang nắm những vị trí nào trong hệ sinh thái Vingroup?",
@@ -291,18 +303,6 @@
       "published": "Fri, 11 Sep 26 00:10:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Dự báo rung lắc sắp xuất hiện, Vietcap chỉ tên 2 cổ phiếu phù hợp để \"lướt sóng\"",
-      "link": "https://cafef.vn/du-bao-rung-lac-sap-xuat-hien-vietcap-chi-ten-2-co-phieu-phu-hop-de-luot-song-188260910223743101.chn",
-      "published": "Fri, 11 Sep 26 00:07:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Công ty đại gia Đặng Thành Tâm được dự báo lãi nửa cuối năm tăng gần gấp đôi cùng kỳ",
-      "link": "https://cafef.vn/cong-ty-dai-gia-dang-thanh-tam-duoc-du-bao-lai-nua-cuoi-nam-tang-gan-gap-doi-cung-ky-188260910223638248.chn",
-      "published": "Fri, 11 Sep 26 00:05:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 14-18/09/2026",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-14-18092026-585-1491686.htm",
@@ -421,6 +421,18 @@
       "title": "Ngày 10/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
       "link": "http://vietstock.vn/2026/09/ngay-10092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1490531.htm",
       "published": "Thu, 10 Sep 2026 10:00:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Danh sách 73cổ phiếu bị cắt margin trên HOSE",
+      "link": "https://vneconomy.vn/danh-sach-73co-phieu-bi-cat-margin-tren-hose.htm",
+      "published": "Sun, 13 Sep 2026 01:52:44 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Một cổ phiếu trụ sắp bị các ETF cơ cấu bán ra 3,6 triệu cổ",
+      "link": "https://vneconomy.vn/mot-co-phieu-tru-sap-bi-cac-etf-co-cau-ban-ra-36-trieu-co.htm",
+      "published": "Sun, 13 Sep 2026 01:50:57 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Chứng khoán Mỹ mất điểm khi giá dầu tiếp cận mốc 100 USD/thùng",
       "link": "https://vneconomy.vn/chung-khoan-my-mat-diem-khi-gia-dau-tiep-can-moc-100-usdthung.htm",
       "published": "Wed, 09 Sep 2026 00:30:18 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Quỹ ngoại báo thắng lớn nhờ nắm giữ nhiều FPT",
-      "link": "https://vneconomy.vn/quy-ngoai-bao-thang-lon-nho-nam-giu-nhieu-fpt.htm",
-      "published": "Tue, 08 Sep 2026 11:49:02 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tháng 8, hợp đồng tương lai trái phiếu Chính phủ kỳ hạn 5 năm và 10 năm không có giao dịch",
-      "link": "https://vneconomy.vn/thang-8-hop-dong-tuong-lai-trai-phieu-chinh-phu-ky-han-5-nam-va-10-nam-khong-co-giao-dich.htm",
-      "published": "Tue, 08 Sep 2026 11:47:53 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
