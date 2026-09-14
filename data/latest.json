@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-14T02:12:39.117344+00:00",
+  "collected_at": "2026-09-14T03:12:46.883327+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Thiếu gia Bùi Cao Nhật Quân đứng ra bảo lãnh khoản vay 360 tỷ cho Novaland",
+      "link": "https://cafef.vn/thieu-gia-bui-cao-nhat-quan-dung-ra-bao-lanh-khoan-vay-360-ty-cho-novaland-188260914095007284.chn",
+      "published": "Mon, 14 Sep 26 09:49:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 14/9-18/9, tỷ lệ cao nhất 80%",
@@ -297,12 +303,6 @@
       "published": "Fri, 11 Sep 26 16:03:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một cổ phiếu \"bốc đầu\" tăng 40% giữa lúc VN-Index thủng 1.800 điểm, thị giá chỉ ngang cốc trà đá",
-      "link": "https://cafef.vn/mot-co-phieu-boc-dau-tang-40-giua-luc-vn-index-thung-1800-diem-thi-gia-chi-ngang-coc-tra-da-188260911155549893.chn",
-      "published": "Fri, 11 Sep 26 16:03:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Top cổ phiếu đáng chú ý đầu phiên 14/09",
       "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1409-830-1491477.htm",
@@ -421,6 +421,18 @@
       "title": "FPT sắp phát hành 171 triệu cổ phiếu thưởng",
       "link": "http://vietstock.vn/2026/09/fpt-sap-phat-hanh-171-trieu-co-phieu-thuong-830-1490904.htm",
       "published": "Thu, 10 Sep 2026 16:43:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Lực cầu trong nước vẫn yếu, khối ngoại tiếp tục bán ròng gần 1.600 tỷ tuần qua",
+      "link": "https://vneconomy.vn/luc-cau-trong-nuoc-van-yeu-khoi-ngoai-tiep-tuc-ban-rong-gan-1600-ty-tuan-qua.htm",
+      "published": "Mon, 14 Sep 2026 02:31:06 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Từ công bố thông tin sang quan hệ nhà đầu tư: Doanh nghiệp Việt Nam cần học cách nói chuyện với nhà đầu tư toàn cầu",
+      "link": "https://vneconomy.vn/tu-cong-bo-thong-tin-sang-quan-he-nha-dau-tu-doanh-nghiep-viet-nam-can-hoc-cach-noi-chuyen-voi-nha-dau-tu-toan-cau.htm",
+      "published": "Mon, 14 Sep 2026 02:13:01 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Wed, 09 Sep 2026 02:24:44 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Để thị trường chứng khoán quy mô lớn hơn, thanh khoản cao hơn và hút dòng vốn quốc tế nhiều hơn",
-      "link": "https://vneconomy.vn/de-thi-truong-chung-khoan-quy-mo-lon-hon-thanh-khoan-cao-hon-va-hut-dong-von-quoc-te-nhieu-hon.htm",
-      "published": "Wed, 09 Sep 2026 02:24:10 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Lãnh đạo Tập đoàn BIG chuyển thoả thuận cổ phiếu, đón quỹ ngoại làm cổ đông chiến lược",
-      "link": "https://vneconomy.vn/lanh-dao-tap-doan-big-chuyen-thoa-thuan-co-phieu-don-quy-ngoai-lam-co-dong-chien-luoc.htm",
-      "published": "Wed, 09 Sep 2026 01:00:00 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "HAGL Agrico lỗ thêm 152 tỷ đồng sau soát xét, chi phí lãi vay tăng mạnh",
+      "link": "https://vnbusiness.vn//hagl-agrico-lo-them-152-ty-dong-sau-soat-xet-chi-phi-lai-vay-tang-manh.html",
+      "published": "Mon, 14 Sep 2026 02:21:14 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "3,7 triệu tài khoản nhưng chỉ 6% dân số đầu tư: Vì sao chứng khoán Việt chưa giữ được nhà đầu tư?",
       "link": "https://vnbusiness.vn//37-trieu-tai-khoan-nhung-chi-6-dan-so-dau-tu-vi-sao-chung-khoan-viet-chua-giu-duoc-nha-dau-tu.html",
       "published": "Thu, 27 Aug 2026 00:43:06 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Cổ phiếu SSB của SeABank vào rổ FTSE Global All Cap",
-      "link": "https://vnbusiness.vn//co-phieu-ssb-cua-seabank-vao-ro-ftse-global-all-cap.html",
-      "published": "Thu, 27 Aug 2026 00:38:25 GMT"
     }
   ]
 }
