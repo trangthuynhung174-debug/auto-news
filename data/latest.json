@@ -1,7 +1,31 @@
 {
-  "collected_at": "2026-09-14T16:12:51.376581+00:00",
+  "collected_at": "2026-09-14T17:10:32.253446+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Các quỹ ngoại sẽ mua mạnh cổ phiếu nào trước thềm nâng hạng?",
+      "link": "https://cafef.vn/cac-quy-ngoai-se-mua-manh-co-phieu-nao-truoc-them-nang-hang-188260914195904956.chn",
+      "published": "Tue, 15 Sep 26 00:04:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Loạt tổ chức lớn đưa ra dự báo bất ngờ về giá vàng cuối năm",
+      "link": "https://cafef.vn/loat-to-chuc-lon-dua-ra-du-bao-bat-ngo-ve-gia-vang-cuoi-nam-188260914222530003.chn",
+      "published": "Tue, 15 Sep 26 00:03:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Hơn chục nghìn tỷ đổ dồn giao dịch vào 1 thời điểm, những cổ phiếu nào trong tầm ngắm?",
+      "link": "https://cafef.vn/hon-chuc-nghin-ty-do-don-giao-dich-vao-1-thoi-diem-nhung-co-phieu-nao-trong-tam-ngam-188260914222437425.chn",
+      "published": "Tue, 15 Sep 26 00:01:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một cổ phiếu thép bị tự doanh CTCK \"xả\" mạnh phiên đầu tuần, ngược chiều hai mã ngân hàng hút tiền",
+      "link": "https://cafef.vn/mot-co-phieu-thep-bi-tu-doanh-ctck-xa-manh-phien-dau-tuan-nguoc-chieu-hai-ma-ngan-hang-hut-tien-188260914232437925.chn",
+      "published": "Mon, 14 Sep 26 23:24:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Cựu HLV bóng đá nổi tiếng của Việt Nam được đề cử vào HĐQT một doanh nghiệp",
@@ -279,30 +303,6 @@
       "published": "Sun, 13 Sep 26 20:17:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chứng khoán trước giờ nâng hạng: Nhà đầu tư có nên xuống tiền?",
-      "link": "https://cafef.vn/chung-khoan-truoc-gio-nang-hang-nha-dau-tu-co-nen-xuong-tien-188260913174818998.chn",
-      "published": "Sun, 13 Sep 26 17:48:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Góc nhìn chuyên gia: Xác suất FED tăng lãi suất lên cao, chứng khoán sẽ phản ứng ra sao?",
-      "link": "https://cafef.vn/goc-nhin-chuyen-gia-xac-suat-fed-tang-lai-suat-len-cao-chung-khoan-se-phan-ung-ra-sao-188260913160231773.chn",
-      "published": "Sun, 13 Sep 26 16:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Lý do phiên đấu giá 79 triệu cổ phiếu Seaprodex gây chú ý",
-      "link": "https://cafef.vn/ly-do-phien-dau-gia-79-trieu-co-phieu-seaprodex-gay-chu-y-188260913153333054.chn",
-      "published": "Sun, 13 Sep 26 15:33:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "UBCKNN xử phạt loạt doanh nghiệp",
-      "link": "https://cafef.vn/ubcknn-xu-phat-loat-doanh-nghiep-188260913135037459.chn",
-      "published": "Sun, 13 Sep 26 13:50:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Cổ phiếu dầu khí, nhựa có tuần hút tiền",
       "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-nhua-co-tuan-hut-tien-830-1492048.htm",
@@ -433,6 +433,12 @@
       "title": "VN-Index tiếp tục giảm điểm, nhà đầu tư thận trọng trước áp lực bán",
       "link": "https://vneconomy.vn/vn-index-tiep-tuc-giam-diem-nha-dau-tu-than-trong-truoc-ap-luc-ban.htm",
       "published": "Mon, 14 Sep 2026 13:42:39 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Rủi ro đối với thị trường trái phiếu kho bạc Mỹ nếu Fed không tăng lãi suất",
+      "link": "https://vneconomy.vn/rui-ro-doi-voi-thi-truong-trai-phieu-kho-bac-my-neu-fed-khong-tang-lai-suat.htm",
+      "published": "Mon, 14 Sep 2026 13:20:44 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Cơ hội nào trên thị trường chứng khoán trong tháng 9?",
       "link": "https://vneconomy.vn/co-hoi-nao-tren-thi-truong-chung-khoan-trong-thang-9.htm",
       "published": "Thu, 10 Sep 2026 03:42:36 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "UOB: Dự báo kịch bản Fed giữ nguyên lãi suất đến hết 2026",
-      "link": "https://vneconomy.vn/uob-du-bao-kich-ban-fed-giu-nguyen-lai-suat-den-het-2026.htm",
-      "published": "Thu, 10 Sep 2026 02:04:40 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
