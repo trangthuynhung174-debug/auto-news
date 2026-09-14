@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-09-14T04:12:56.324709+00:00",
+  "collected_at": "2026-09-14T05:11:48.333475+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chủ tịch VSDC: Nâng hạng thị trường chứng khoán không phải đích đến cuối cùng, mà là động lực cải cách toàn diện",
+      "link": "https://cafef.vn/chu-tich-vsdc-nang-hang-thi-truong-chung-khoan-khong-phai-dich-den-cuoi-cung-ma-la-dong-luc-cai-cach-toan-dien-1882609141109512.chn",
+      "published": "Mon, 14 Sep 26 11:29:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Đón loạt tin vui, một cổ phiếu ngân hàng “bốc đầu” lên đỉnh 3 năm",
+      "link": "https://cafef.vn/don-loat-tin-vui-mot-co-phieu-ngan-hang-boc-dau-len-dinh-3-nam-188260914112643909.chn",
+      "published": "Mon, 14 Sep 26 11:27:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng vừa hồi phục đã quay đầu giảm",
+      "link": "https://cafef.vn/gia-vang-vua-hoi-phuc-da-quay-dau-giam-188260914112548257.chn",
+      "published": "Mon, 14 Sep 26 11:26:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Giá vàng bạc hôm nay 14/9: Phú Quý, SJC bứt phá, Bảo Tín Minh Châu niêm yết chênh lệch rất cao",
@@ -285,24 +303,6 @@
       "published": "Sat, 12 Sep 26 00:08:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một biến số từng gây sức ép lên thị trường có thể trở lại vào cuối năm",
-      "link": "https://cafef.vn/mot-bien-so-tung-gay-suc-ep-len-thi-truong-co-the-tro-lai-vao-cuoi-nam-188260911222217529.chn",
-      "published": "Sat, 12 Sep 26 00:06:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Ông Phạm Nhật Vượng đang xây công trình lớn nhất Đông Nam Á: Những thành phố giàu nhất thế giới cũng sở hữu",
-      "link": "https://cafef.vn/ong-pham-nhat-vuong-dang-xay-cong-trinh-lon-nhat-dong-nam-a-nhung-thanh-pho-giau-nhat-the-gioi-cung-so-huu-18826091122444297.chn",
-      "published": "Sat, 12 Sep 26 00:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cơ hội hiếm có trong nhiều năm sắp xuất hiện trên TTCK",
-      "link": "https://cafef.vn/co-hoi-hiem-co-trong-nhieu-nam-sap-xuat-hien-tren-ttck-188260911222313875.chn",
-      "published": "Sat, 12 Sep 26 00:05:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Tuần 14-18/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
       "link": "http://vietstock.vn/2026/09/tuan-14-18092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1491687.htm",
@@ -421,6 +421,18 @@
       "title": "Nhịp đập Thị trường 10/09: Tiếp đà tăng điểm, VN-Index đóng cửa trong sắc xanh",
       "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-tiep-da-tang-diem-vn-index-dong-cua-trong-sac-xanh-1636-1490787.htm",
       "published": "Thu, 10 Sep 2026 16:47:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Trụ cản bước phục hồi của VN-Index, khối ngoại mua ròng tích cực",
+      "link": "https://vneconomy.vn/tru-can-buoc-phuc-hoi-cua-vn-index-khoi-ngoai-mua-rong-tich-cuc.htm",
+      "published": "Mon, 14 Sep 2026 05:03:13 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Điểm danh 10 cổ phiếu đón tiền dòng nâng hạng, được các ETF mua nhiều nhất trong tuần này",
+      "link": "https://vneconomy.vn/diem-danh-10-co-phieu-don-tien-dong-nang-hang-duoc-cac-etf-mua-nhieu-nhat-trong-tuan-nay.htm",
+      "published": "Mon, 14 Sep 2026 04:29:12 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Toàn thị trường có khoảng hơn 200 cổ phiếu có định giá P/E “siêu rẻ”",
       "link": "https://vneconomy.vn/toan-thi-truong-co-khoang-hon-200-co-phieu-co-dinh-gia-pe-sieu-re.htm",
       "published": "Wed, 09 Sep 2026 07:16:33 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Blue-chips giữ nhịp tốt, cổ phiếu dầu khí nổi bật",
-      "link": "https://vneconomy.vn/blue-chips-giu-nhip-tot-co-phieu-dau-khi-noi-bat.htm",
-      "published": "Wed, 09 Sep 2026 05:03:14 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giới “carry trade” lung lay vì cú tăng giá mạnh bất ngờ của đồng yên",
-      "link": "https://vneconomy.vn/gioi-carry-trade-lung-lay-vi-cu-tang-gia-manh-bat-ngo-cua-dong-yen.htm",
-      "published": "Wed, 09 Sep 2026 04:43:41 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
