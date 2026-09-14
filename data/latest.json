@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-14T07:13:37.353724+00:00",
+  "collected_at": "2026-09-14T08:14:08.536183+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Doanh nghiệp của ông Trần Bá Dương bị nghi ngờ khả năng hoạt động liên tục",
+      "link": "https://cafef.vn/doanh-nghiep-cua-ong-tran-ba-duong-bi-nghi-ngo-kha-nang-hoat-dong-lien-tuc-188260914144255909.chn",
+      "published": "Mon, 14 Sep 26 14:44:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Công ty từng bán khóa học làm giàu, “tuyệt chiêu” bán bất động sản... báo doanh thu \"bốc hơi\" 90%, đầu tư chứng khoán tạm thua lỗ",
+      "link": "https://cafef.vn/cong-ty-tung-ban-khoa-hoc-lam-giau-tuyet-chieu-ban-bat-dong-san-bao-doanh-thu-boc-hoi-90-dau-tu-chung-khoan-tam-thua-lo-188260914143326878.chn",
+      "published": "Mon, 14 Sep 26 14:33:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Người thân Chủ tịch Hải Phát Invest đăng ký mua 15 triệu cổ phiếu HPX",
@@ -291,18 +303,6 @@
       "published": "Sat, 12 Sep 26 09:32:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Con trai thứ của ông Phạm Nhật Vượng được bổ nhiệm làm Tổng giám đốc GSM toàn cầu kiêm Tổng giám đốc GSM Việt Nam",
-      "link": "https://cafef.vn/con-trai-thu-cua-ong-pham-nhat-vuong-duoc-bo-nhiem-lam-tong-giam-doc-gsm-toan-cau-kiem-tong-giam-doc-gsm-viet-nam-188260912090407814.chn",
-      "published": "Sat, 12 Sep 26 09:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Quỹ ETF quy mô hơn 500 triệu USD thêm mới cổ phiếu SSB, dự kiến bán mạnh VIC, SSI",
-      "link": "https://cafef.vn/quy-etf-quy-mo-hon-500-trieu-usd-them-moi-co-phieu-ssb-du-kien-ban-manh-vic-ssi-188260912064322227.chn",
-      "published": "Sat, 12 Sep 26 06:43:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật phiên chiều 14/09: Áp lực điều chỉnh gia tăng",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1409-ap-luc-dieu-chinh-gia-tang-585-1491964.htm",
@@ -421,6 +421,18 @@
       "title": "11/09: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/09/1109-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491147.htm",
       "published": "Fri, 11 Sep 2026 06:00:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Thị trường dầu sẽ ra sao nếu chiến tranh Mỹ - Iran kéo dài?",
+      "link": "https://vneconomy.vn/thi-truong-dau-se-ra-sao-neu-chien-tranh-my-iran-keo-dai.htm",
+      "published": "Mon, 14 Sep 2026 07:46:06 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "IEA bi quan hơn cả về nguồn cung và nhu cầu dầu toàn cầu năm 2026",
+      "link": "https://vneconomy.vn/iea-bi-quan-hon-ca-ve-nguon-cung-va-nhu-cau-dau-toan-cau-nam-2026.htm",
+      "published": "Mon, 14 Sep 2026 07:45:47 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Wed, 09 Sep 2026 12:56:47 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Cổ phiếu trụ lại “ép” điểm số",
-      "link": "https://vneconomy.vn/co-phieu-tru-lai-ep-diem-so.htm",
-      "published": "Wed, 09 Sep 2026 08:46:42 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dòng tiền toàn cầu phòng thủ, đổ vào trái phiếu và hàng hóa, rút ròng mạnh khỏi cổ phiếu",
-      "link": "https://vneconomy.vn/dong-tien-toan-cau-phong-thu-do-vao-trai-phieu-va-hang-hoa-rut-rong-manh-khoi-co-phieu.htm",
-      "published": "Wed, 09 Sep 2026 07:18:01 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Halico: Từ ‘ông trùm’ ngành rượu đến chuỗi thua lỗ và cuộc ‘thay máu’ thượng tầng",
+      "link": "https://vnbusiness.vn//halico-tu-ong-trum-nganh-ruou-den-chuoi-thua-lo-va-cuoc-thay-mau-thuong-tang.html",
+      "published": "Mon, 14 Sep 2026 07:40:36 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Viconship bước vào cuộc đua thâm dụng vốn, cổ phiếu VSC kém sức hút?",
       "link": "https://vnbusiness.vn//viconship-buoc-vao-cuoc-dua-tham-dung-von-co-phieu-vsc-kem-suc-hut.html",
       "published": "Thu, 27 Aug 2026 02:42:13 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "3,7 triệu tài khoản nhưng chỉ 6% dân số đầu tư: Vì sao chứng khoán Việt chưa giữ được nhà đầu tư?",
-      "link": "https://vnbusiness.vn//37-trieu-tai-khoan-nhung-chi-6-dan-so-dau-tu-vi-sao-chung-khoan-viet-chua-giu-duoc-nha-dau-tu.html",
-      "published": "Thu, 27 Aug 2026 00:43:06 GMT"
     }
   ]
 }
