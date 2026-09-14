@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-14T11:12:39.801093+00:00",
+  "collected_at": "2026-09-14T12:17:05.108818+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nhóm Gelex đồng loạt giảm sàn, VN-Index rời xa mốc 1.800 điểm",
+      "link": "https://cafef.vn/nhom-gelex-dong-loat-giam-san-vn-index-roi-xa-moc-1800-diem-188260914175656997.chn",
+      "published": "Mon, 14 Sep 26 18:39:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "GELEX: Vụ việc ông Đặng Phan Tường không ảnh hưởng tới hoạt động của tập đoàn và các công ty con",
+      "link": "https://cafef.vn/gelex-vu-viec-ong-dang-phan-tuong-khong-anh-huong-toi-hoat-dong-cua-tap-doan-va-cac-cong-ty-con-18826091418341079.chn",
+      "published": "Mon, 14 Sep 26 18:34:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Cổ phiếu SSB tăng trần, “cháy hàng” trong phiên đầu tuần \"rực lửa\"",
@@ -291,16 +303,10 @@
       "published": "Sun, 13 Sep 26 08:47:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng hôm nay 13/9: Đi ngang chờ động thái mới từ Fed",
-      "link": "https://cafef.vn/gia-vang-hom-nay-13-9-di-ngang-cho-dong-thai-moi-tu-fed-188260913084537911.chn",
-      "published": "Sun, 13 Sep 26 08:45:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Hai con trai ông Phạm Nhật Vượng đang nắm những vị trí nào trong hệ sinh thái Vingroup?",
-      "link": "https://cafef.vn/hai-con-trai-ong-pham-nhat-vuong-dang-nam-nhung-vi-tri-nao-trong-he-sinh-thai-vingroup-188260912224520937.chn",
-      "published": "Sun, 13 Sep 26 00:06:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Vietstock Daily 15/09/2026: Áp lực gia tăng",
+      "link": "http://vietstock.vn/2026/09/vietstock-daily-15092026-ap-luc-gia-tang-1636-1492120.htm",
+      "published": "Mon, 14 Sep 2026 18:14:10 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,16 @@
       "published": "Fri, 11 Sep 2026 16:52:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 11/09: Triển vọng ngắn hạn đang xấu đi",
-      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1109-trien-vong-ngan-han-dang-xau-di-585-1491273.htm",
-      "published": "Fri, 11 Sep 2026 13:04:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Đằng sau xu hướng các ngân hàng trung ương châu Âu chuyển vàng khỏi Mỹ",
+      "link": "https://vneconomy.vn/dang-sau-xu-huong-cac-ngan-hang-trung-uong-chau-au-chuyen-vang-khoi-my.htm",
+      "published": "Mon, 14 Sep 2026 12:07:50 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chỉ nên giải ngân khi có áp lực bán giải chấp?",
+      "link": "https://vneconomy.vn/chi-nen-giai-ngan-khi-co-ap-luc-ban-giai-chap.htm",
+      "published": "Mon, 14 Sep 2026 12:07:23 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Chứng khoán Mỹ giảm phiên thứ ba liên tiếp khi lợi suất trái phiếu tăng mạnh, giá dầu vượt 101 USD/thùng",
       "link": "https://vneconomy.vn/chung-khoan-my-giam-phien-thu-ba-lien-tiep-khi-loi-suat-trai-phieu-tang-manh-gia-dau-vuot-101-usdthung.htm",
       "published": "Thu, 10 Sep 2026 00:27:40 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giá vàng hồi mốc 4.400 USD/oz trước thềm báo cáo lạm phát Mỹ",
-      "link": "https://vneconomy.vn/gia-vang-hoi-moc-4400-usdoz-truoc-them-bao-cao-lam-phat-my.htm",
-      "published": "Thu, 10 Sep 2026 00:24:36 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index giảm nhẹ, rủi ro điều chỉnh gia tăng",
-      "link": "https://vneconomy.vn/vn-index-giam-nhe-rui-ro-dieu-chinh-gia-tang.htm",
-      "published": "Wed, 09 Sep 2026 16:17:30 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
