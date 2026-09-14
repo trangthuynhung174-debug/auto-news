@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-14T05:11:48.333475+00:00",
+  "collected_at": "2026-09-14T06:17:53.845652+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Người thân Chủ tịch Hải Phát Invest đăng ký mua 15 triệu cổ phiếu HPX",
+      "link": "https://cafef.vn/nguoi-than-chu-tich-hai-phat-invest-dang-ky-mua-15-trieu-co-phieu-hpx-188260914124535628.chn",
+      "published": "Mon, 14 Sep 26 12:48:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Chủ tịch VSDC: Nâng hạng thị trường chứng khoán không phải đích đến cuối cùng, mà là động lực cải cách toàn diện",
@@ -297,10 +303,16 @@
       "published": "Sat, 12 Sep 26 06:43:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Khối ngoại thẳng tay bán ròng 1.600 tỷ đồng cổ phiếu Việt Nam tuần 7-11/9, cổ phiếu nào bị \"xả\" mạnh nhất?",
-      "link": "https://cafef.vn/khoi-ngoai-thang-tay-ban-rong-1600-ty-dong-co-phieu-viet-nam-tuan-7-11-9-co-phieu-nao-bi-xa-manh-nhat-188260911234916741.chn",
-      "published": "Sat, 12 Sep 26 00:08:00 +0700"
+      "source": "VietstockFinance",
+      "title": "VPG bị HOSE nhắc chậm công bố BCTC soát xét, loạt sức ép tài chính phía sau",
+      "link": "http://vietstock.vn/2026/09/vpg-bi-hose-nhac-cham-cong-bo-bctc-soat-xet-loat-suc-ep-tai-chinh-phia-sau-830-1491952.htm",
+      "published": "Mon, 14 Sep 2026 12:17:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 14/09: VIC đè chỉ số, VN-Index mắc kẹt trong sắc đỏ",
+      "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1409-vic-de-chi-so-vn-index-mac-ket-trong-sac-do-1636-1491878.htm",
+      "published": "Mon, 14 Sep 2026 11:47:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -409,18 +421,6 @@
       "title": "Góc nhìn 11/09: Giao dịch theo vùng hỗ trợ 1,820 - 1,830",
       "link": "http://vietstock.vn/2026/09/goc-nhin-1109-giao-dich-theo-vung-ho-tro-1820-1830-145-1491127.htm",
       "published": "Thu, 10 Sep 2026 19:26:14 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 11/09/2026: Phân hóa với thanh khoản thấp",
-      "link": "http://vietstock.vn/2026/09/vietstock-daily-11092026-phan-hoa-voi-thanh-khoan-thap-1636-1490984.htm",
-      "published": "Thu, 10 Sep 2026 18:11:15 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Nhịp đập Thị trường 10/09: Tiếp đà tăng điểm, VN-Index đóng cửa trong sắc xanh",
-      "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1009-tiep-da-tang-diem-vn-index-dong-cua-trong-sac-xanh-1636-1490787.htm",
-      "published": "Thu, 10 Sep 2026 16:47:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
