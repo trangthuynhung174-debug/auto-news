@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-14T00:18:11.956124+00:00",
+  "collected_at": "2026-09-14T01:12:08.777499+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "KIS khởi động “Bản Lĩnh Chứng Trường” mùa 7, giải thưởng 330 triệu đồng",
+      "link": "https://cafef.vn/kis-khoi-dong-ban-linh-chung-truong-mua-7-giai-thuong-330-trieu-dong-188260913111823749.chn",
+      "published": "Mon, 14 Sep 26 08:00:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Sau cột mốc nâng hạng, một \"hiệu ứng\" đặc biệt có thể xuất hiện trên TTCK Việt Nam",
@@ -297,12 +303,6 @@
       "published": "Fri, 11 Sep 26 15:29:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng bạc hôm nay 11/9: Vàng miếng lao dốc, Phú Quý, Bảo Tín Minh Châu, SJC đồng loạt hạ nhiệt",
-      "link": "https://cafef.vn/gia-vang-bac-hom-nay-11-9-vang-mieng-lao-doc-phu-quy-bao-tin-minh-chau-sjc-dong-loat-ha-nhiet-188260911112036957.chn",
-      "published": "Fri, 11 Sep 26 12:00:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "14/09: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/09/1409-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1491794.htm",
@@ -421,6 +421,12 @@
       "title": "Xây dựng Hòa Bình và Điện Quang bị xử phạt vi phạm công bố thông tin",
       "link": "http://vietstock.vn/2026/09/xay-dung-hoa-binh-va-dien-quang-bi-xu-phat-vi-pham-cong-bo-thong-tin-830-1490861.htm",
       "published": "Thu, 10 Sep 2026 15:30:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "KIS đưa “Bản lĩnh chứng trường” trở lại với mùa đầu tư thực chiến mới",
+      "link": "https://vneconomy.vn/kis-dua-ban-linh-chung-truong-tro-lai-voi-mua-dau-tu-thuc-chien-moi.htm",
+      "published": "Mon, 14 Sep 2026 01:00:00 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -717,10 +723,10 @@
       "published": "Wed, 09 Sep 2026 00:33:51 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "253 nghìn tỷ đồng trái phiếu đáo hạn trong vòng một năm tới, áp lực vẫn rất lớn",
-      "link": "https://vneconomy.vn/253-nghin-ty-dong-trai-phieu-dao-han-trong-vong-mot-nam-toi-ap-luc-van-rat-lon.htm",
-      "published": "Wed, 09 Sep 2026 00:32:43 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Nâng hạng cận kề, khối ngoại vẫn chưa thực sự trở lại",
+      "link": "https://vnbusiness.vn//nang-hang-can-ke-khoi-ngoai-van-chua-thuc-su-tro-lai.html",
+      "published": "Mon, 14 Sep 2026 00:31:40 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Cổ phiếu SSB của SeABank vào rổ FTSE Global All Cap",
       "link": "https://vnbusiness.vn//co-phieu-ssb-cua-seabank-vao-ro-ftse-global-all-cap.html",
       "published": "Thu, 27 Aug 2026 00:38:25 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Hai cổ phiếu bất ngờ “trắng bên bán”, VN-Index tăng gần 30 điểm",
-      "link": "https://vnbusiness.vn//hai-co-phieu-bat-ngo-trang-ben-ban-vn-index-tang-gan-30-diem.html",
-      "published": "Wed, 26 Aug 2026 09:38:55 GMT"
     }
   ]
 }
