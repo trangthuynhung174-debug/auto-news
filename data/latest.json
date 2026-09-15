@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-15T10:13:00.332035+00:00",
+  "collected_at": "2026-09-15T11:12:18.991360+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,18 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "VNT giải trình cổ phiếu tăng trần 5 phiên liên tiếp",
+      "link": "http://vietstock.vn/2026/09/vnt-giai-trinh-co-phieu-tang-tran-5-phien-lien-tiep-830-1492517.htm",
+      "published": "Tue, 15 Sep 2026 17:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 15/09: Khối ngoại tiếp tục mua ròng",
+      "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-1509-khoi-ngoai-tiep-tuc-mua-rong-1636-1492386.htm",
+      "published": "Tue, 15 Sep 2026 16:47:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật phiên chiều 15/09: MACD tiếp tục suy yếu",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1509-macd-tiep-tuc-suy-yeu-585-1492437.htm",
       "published": "Tue, 15 Sep 2026 13:04:13 +0700"
@@ -411,16 +423,10 @@
       "published": "Sun, 13 Sep 2026 10:02:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 14-18/09/2026",
-      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-14-18092026-585-1491686.htm",
-      "published": "Sun, 13 Sep 2026 07:30:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Fed đứng trước khả năng tăng lãi suất",
-      "link": "http://vietstock.vn/2026/09/fed-dung-truoc-kha-nang-tang-lai-suat-830-1491731.htm",
-      "published": "Sat, 12 Sep 2026 21:02:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Thứ trưởng Bộ Tài chính: Bảo đảm đối xử bình đẳng và bảo hộ đầy đủ quyền, lợi ích của nhà đầu tư",
+      "link": "https://vneconomy.vn/thu-truong-bo-tai-chinh-bao-dam-doi-xu-binh-dang-va-bao-ho-day-du-quyen-loi-ich-cua-nha-dau-tu.htm",
+      "published": "Tue, 15 Sep 2026 10:13:38 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "ECB tăng lãi suất, cảnh báo lạm phát cao kéo dài",
       "link": "https://vneconomy.vn/ecb-tang-lai-suat-canh-bao-lam-phat-cao-keo-dai.htm",
       "published": "Fri, 11 Sep 2026 01:18:42 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ giảm một mạch 4 phiên, giá dầu nhảy hơn 6%",
-      "link": "https://vneconomy.vn/chung-khoan-my-giam-mot-mach-4-phien-gia-dau-nhay-hon-6.htm",
-      "published": "Fri, 11 Sep 2026 00:39:28 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
