@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-15T11:12:18.991360+00:00",
+  "collected_at": "2026-09-15T12:15:37.456424+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nhóm Gelex 'thoát hiểm', cổ phiếu dầu khí đồng loạt bứt phá",
+      "link": "https://cafef.vn/nhom-gelex-thoat-hiem-co-phieu-dau-khi-dong-loat-but-pha-188260915183349637.chn",
+      "published": "Tue, 15 Sep 26 18:59:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Phó Tổng Giám đốc Chứng khoán Hòa Bình không bán cổ phiếu như đăng ký",
@@ -297,10 +303,10 @@
       "published": "Mon, 14 Sep 26 11:27:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng vừa hồi phục đã quay đầu giảm",
-      "link": "https://cafef.vn/gia-vang-vua-hoi-phuc-da-quay-dau-giam-188260914112548257.chn",
-      "published": "Mon, 14 Sep 26 11:26:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Vietstock Daily 16/09/2026: Phục hồi trở lại",
+      "link": "http://vietstock.vn/2026/09/vietstock-daily-16092026-phuc-hoi-tro-lai-1636-1492619.htm",
+      "published": "Tue, 15 Sep 2026 18:16:58 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,16 @@
       "published": "Sun, 13 Sep 2026 18:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "IR thực chất: Đừng lấy biến động giá ngắn hạn làm thước đo hiệu quả",
-      "link": "http://vietstock.vn/2026/09/ir-thuc-chat-dung-lay-bien-dong-gia-ngan-han-lam-thuoc-do-hieu-qua-830-1490068.htm",
-      "published": "Sun, 13 Sep 2026 10:02:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Venezuela và đề xuất đôla hóa để ổn định nền kinh tế",
+      "link": "https://vneconomy.vn/venezuela-va-de-xuat-dola-hoa-de-on-dinh-nen-kinh-te.htm",
+      "published": "Tue, 15 Sep 2026 12:00:38 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Mối quan hệ giữa Tổng thống Trump và Chủ tịch Fed liệu có xấu đi sau cuộc họp tuần này?",
+      "link": "https://vneconomy.vn/moi-quan-he-giua-tong-thong-trump-va-chu-tich-fed-lieu-co-xau-di-sau-cuoc-hop-tuan-nay.htm",
+      "published": "Tue, 15 Sep 2026 11:59:30 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "SGI Capital: Thị trường có thể kích hoạt xu hướng giảm và vòng xoáy hạ đòn bẩy trên diện rộng",
       "link": "https://vneconomy.vn/sgi-capital-thi-truong-co-the-kich-hoat-xu-huong-giam-va-vong-xoay-ha-don-bay-tren-dien-rong.htm",
       "published": "Fri, 11 Sep 2026 06:38:11 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Sắc đỏ loang rộng, VN-Index rơi về sát 1800 điểm, cổ phiếu trụ cũng “thất thủ”",
-      "link": "https://vneconomy.vn/sac-do-loang-rong-vn-index-roi-ve-sat-1800-diem-co-phieu-tru-cung-that-thu.htm",
-      "published": "Fri, 11 Sep 2026 05:06:49 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "ECB tăng lãi suất, cảnh báo lạm phát cao kéo dài",
-      "link": "https://vneconomy.vn/ecb-tang-lai-suat-canh-bao-lam-phat-cao-keo-dai.htm",
-      "published": "Fri, 11 Sep 2026 01:18:42 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
