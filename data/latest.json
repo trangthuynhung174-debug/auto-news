@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-16T04:12:19.413009+00:00",
+  "collected_at": "2026-09-16T05:11:40.820363+00:00",
   "count": 170,
   "items": [
     {
@@ -22,13 +22,19 @@
     },
     {
       "source": "CafeF - Chứng khoán",
+      "title": "Doanh nghiệp gần 100.000 tỷ triệu tập họp bất thường",
+      "link": "https://cafef.vn/doanh-nghiep-gan-100000-ty-trieu-tap-hop-bat-thuong-188260916110837366.chn",
+      "published": "Wed, 16 Sep 26 10:54:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
       "title": "Ông Đặng Phan Tường bị khởi tố, doanh nghiệp triệu tập họp bất thường",
       "link": "https://cafef.vn/ong-dang-phan-tuong-bi-khoi-to-doanh-nghiep-trieu-tap-hop-bat-thuong-188260916104326592.chn",
       "published": "Wed, 16 Sep 26 10:42:00 +0700"
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Tỷ phú Trần Đình Long đầu tư vào xe điện",
+      "title": "Tỷ phú Trần Đình Long mua lô xe, thiết bị sử dụng điện tại khu liên hợp thép Dung Quất 7 tỷ USD",
       "link": "https://cafef.vn/ty-phu-tran-dinh-long-dau-tu-vao-xe-dien-188260916102555498.chn",
       "published": "Wed, 16 Sep 26 10:25:00 +0700"
     },
@@ -297,12 +303,6 @@
       "published": "Mon, 14 Sep 26 18:34:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cổ phiếu SSB tăng trần, “cháy hàng” trong phiên đầu tuần \"rực lửa\"",
-      "link": "https://cafef.vn/co-phieu-ssb-tang-tran-chay-hang-trong-phien-dau-tuan-ruc-lua-188260914171556086.chn",
-      "published": "Mon, 14 Sep 26 17:43:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Sóng bank chạy mô hình chữ “K”, chất lượng tài sản đã phản ánh đủ?",
       "link": "http://vietstock.vn/2026/09/song-bank-chay-mo-hinh-chu-k-chat-luong-tai-san-da-phan-anh-du-830-1492743.htm",
@@ -421,6 +421,24 @@
       "title": "Quan hệ nhà đầu tư (IR) tại Việt Nam: Từ công bố thông tin đến năng lực thu hút vốn quốc tế",
       "link": "http://vietstock.vn/2026/09/quan-he-nha-dau-tu-ir-tai-viet-nam-tu-cong-bo-thong-tin-den-nang-luc-thu-hut-von-quoc-te-830-1489883.htm",
       "published": "Mon, 14 Sep 2026 13:02:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Nhà đầu tư cá nhân hạn chế mở tài khoản bất chấp VN-Index tăng gần 100 điểm trong tháng 8",
+      "link": "https://vneconomy.vn/nha-dau-tu-ca-nhan-han-che-mo-tai-khoan-bat-chap-vn-index-tang-gan-100-diem-trong-thang-8.htm",
+      "published": "Wed, 16 Sep 2026 05:03:36 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Thị trường chững lại chờ tin, thanh khoản xuống đáy 20 phiên",
+      "link": "https://vneconomy.vn/thi-truong-chung-lai-cho-tin-thanh-khoan-xuong-day-20-phien.htm",
+      "published": "Wed, 16 Sep 2026 05:02:27 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "DNSE - Khi tăng trưởng không chỉ được đo bằng doanh thu và lợi nhuận",
+      "link": "https://vneconomy.vn/dnse-khi-tang-truong-khong-chi-duoc-do-bang-doanh-thu-va-loi-nhuan.htm",
+      "published": "Wed, 16 Sep 2026 04:45:58 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -703,24 +721,6 @@
       "title": "Danh sách 73 cổ phiếu bị cắt margin trên HOSE",
       "link": "https://vneconomy.vn/danh-sach-73-co-phieu-bi-cat-margin-tren-hose.htm",
       "published": "Sun, 13 Sep 2026 01:52:44 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Một cổ phiếu trụ sắp bị các ETF cơ cấu bán ra 3,6 triệu cổ",
-      "link": "https://vneconomy.vn/mot-co-phieu-tru-sap-bi-cac-etf-co-cau-ban-ra-36-trieu-co.htm",
-      "published": "Sun, 13 Sep 2026 01:50:57 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Công ty chứng khoán nhận định gì khi VN-Index thủng mốc 1800 điểm?",
-      "link": "https://vneconomy.vn/cong-ty-chung-khoan-nhan-dinh-gi-khi-vn-index-thung-moc-1800-diem.htm",
-      "published": "Sat, 12 Sep 2026 10:31:10 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Một quỹ nội giữ nhiều tiền mặt, lo sợ rủi ro từ chứng khoán toàn cầu",
-      "link": "https://vneconomy.vn/mot-quy-noi-giu-nhieu-tien-mat-lo-so-rui-ro-tu-chung-khoan-toan-cau.htm",
-      "published": "Sat, 12 Sep 2026 04:31:15 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
