@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-16T06:16:09.564627+00:00",
+  "collected_at": "2026-09-16T07:13:08.296614+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "FLC lên tiếng trước nhiều áp lực, mong muốn các nhà đầu tư tiếp tục đồng hành, chia sẻ",
+      "link": "https://cafef.vn/flc-len-tieng-truoc-nhieu-ap-luc-mong-muon-cac-nha-dau-tu-tiep-tuc-dong-hanh-chia-se-188260916135844417.chn",
+      "published": "Wed, 16 Sep 26 13:59:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán Phú Hưng: Từ không gian xanh đến hành trình tăng trưởng mới",
+      "link": "https://cafef.vn/chung-khoan-phu-hung-tu-khong-gian-xanh-den-hanh-trinh-tang-truong-moi-188260916122727055.chn",
+      "published": "Wed, 16 Sep 26 13:30:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Biwase tiếp tục phân phối 6,6 triệu cổ phiếu cho 12 cá nhân",
@@ -22,7 +34,7 @@
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Doanh nghiệp gần 100.000 tỷ triệu tập họp bất thường",
+      "title": "Doanh nghiệp gần 100.000 tỷ triệu tập họp bất thường, dự kiến chào bán trái phiếu kèm chứng quyền",
       "link": "https://cafef.vn/doanh-nghiep-gan-100000-ty-trieu-tap-hop-bat-thuong-188260916110837366.chn",
       "published": "Wed, 16 Sep 26 10:54:00 +0700"
     },
@@ -291,16 +303,16 @@
       "published": "Mon, 14 Sep 26 19:48:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nhóm Gelex đồng loạt giảm sàn, VN-Index rời xa mốc 1.800 điểm",
-      "link": "https://cafef.vn/nhom-gelex-dong-loat-giam-san-vn-index-roi-xa-moc-1800-diem-188260914175656997.chn",
-      "published": "Mon, 14 Sep 26 18:39:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Phân tích kỹ thuật phiên chiều 16/09: Giằng co biên độ hẹp",
+      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1609-giang-co-bien-do-hep-585-1492865.htm",
+      "published": "Wed, 16 Sep 2026 13:08:46 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "GELEX: Vụ việc ông Đặng Phan Tường không ảnh hưởng tới hoạt động của tập đoàn và các công ty con",
-      "link": "https://cafef.vn/gelex-vu-viec-ong-dang-phan-tuong-khong-anh-huong-toi-hoat-dong-cua-tap-doan-va-cac-cong-ty-con-18826091418341079.chn",
-      "published": "Mon, 14 Sep 26 18:34:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Chứng khoán Phú Hưng: Từ không gian xanh đến hành trình tăng trưởng mới",
+      "link": "http://vietstock.vn/2026/09/chung-khoan-phu-hung-tu-khong-gian-xanh-den-hanh-trinh-tang-truong-moi-830-1492851.htm",
+      "published": "Wed, 16 Sep 2026 13:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -411,16 +423,22 @@
       "published": "Mon, 14 Sep 2026 16:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 14/09: Áp lực điều chỉnh gia tăng",
-      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1409-ap-luc-dieu-chinh-gia-tang-585-1491964.htm",
-      "published": "Mon, 14 Sep 2026 13:03:21 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Dòng tiền ngoại mua vào nâng hạng sẽ \"đỡ\" cho thông tin dự báo Fed tăng lãi suất?",
+      "link": "https://vneconomy.vn/dong-tien-ngoai-mua-vao-nang-hang-se-do-cho-thong-tin-du-bao-fed-tang-lai-suat.htm",
+      "published": "Wed, 16 Sep 2026 06:31:03 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Quan hệ nhà đầu tư (IR) tại Việt Nam: Từ công bố thông tin đến năng lực thu hút vốn quốc tế",
-      "link": "http://vietstock.vn/2026/09/quan-he-nha-dau-tu-ir-tai-viet-nam-tu-cong-bo-thong-tin-den-nang-luc-thu-hut-von-quoc-te-830-1489883.htm",
-      "published": "Mon, 14 Sep 2026 13:02:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Rủi ro tỷ giá đồng yên đảo chiều nếu BOJ gây thất vọng",
+      "link": "https://vneconomy.vn/rui-ro-ty-gia-dong-yen-dao-chieu-neu-boj-gay-that-vong.htm",
+      "published": "Wed, 16 Sep 2026 06:30:35 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Lợi nhuận tăng cao nhưng nhiều cổ phiếu ngân hàng vẫn giảm mạnh từ đầu năm, vì đâu?",
+      "link": "https://vneconomy.vn/loi-nhuan-tang-cao-nhung-nhieu-co-phieu-ngan-hang-van-giam-manh-tu-dau-nam-vi-dau.htm",
+      "published": "Wed, 16 Sep 2026 06:30:24 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -703,24 +721,6 @@
       "title": "Vàng tụt giá trước thềm cuộc họp Fed",
       "link": "https://vneconomy.vn/vang-tut-gia-truoc-them-cuoc-hop-fed.htm",
       "published": "Mon, 14 Sep 2026 00:04:42 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dấu ấn kinh tế thế giới tuần 6-12/9/2026: Giá dầu leo thang mạnh, khả năng Fed tăng lãi suất ngày càng lớn",
-      "link": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-6-1292026-gia-dau-leo-thang-manh-kha-nang-fed-tang-lai-suat-ngay-cang-lon.htm",
-      "published": "Sun, 13 Sep 2026 03:06:31 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Xu thế dòng tiền: Thủng mốc tâm lý 1800 điểm, thị trường sẽ điều chỉnh đến đâu?",
-      "link": "https://vneconomy.vn/xu-the-dong-tien-thung-moc-tam-ly-1800-diem-thi-truong-se-dieu-chinh-den-dau.htm",
-      "published": "Sun, 13 Sep 2026 02:46:02 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Danh sách 73 cổ phiếu bị cắt margin trên HOSE",
-      "link": "https://vneconomy.vn/danh-sach-73-co-phieu-bi-cat-margin-tren-hose.htm",
-      "published": "Sun, 13 Sep 2026 01:52:44 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
