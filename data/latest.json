@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-16T13:13:56.511612+00:00",
+  "collected_at": "2026-09-16T14:13:28.903581+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một công ty quản lý quỹ bị xử phạt do vi phạm công bố thông tin",
+      "link": "https://cafef.vn/mot-cong-ty-quan-ly-quy-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188260916203508002.chn",
+      "published": "Wed, 16 Sep 26 20:35:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "VPS năm thứ ba liên tiếp dẫn đầu ngành chứng khoán về nộp ngân sách Nhà nước",
@@ -61,6 +67,12 @@
       "title": "Áp lực nguồn vốn, nhiều ngân hàng đẩy mạnh phát hành giấy tờ có giá",
       "link": "https://cafef.vn/ap-luc-nguon-von-nhieu-ngan-hang-day-manh-phat-hanh-giay-to-co-gia-188260916154251385.chn",
       "published": "Wed, 16 Sep 26 15:42:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán Việt Nam sẽ ra sao nếu Fed tăng lãi suất?",
+      "link": "https://cafef.vn/chung-khoan-viet-nam-se-ra-sao-neu-fed-tang-lai-suat-188260916154044798.chn",
+      "published": "Wed, 16 Sep 26 15:39:00 +0700"
     },
     {
       "source": "CafeF - Chứng khoán",
@@ -289,18 +301,6 @@
       "title": "Vosco chốt ngày trả cổ tức bằng tiền mặt tỷ lệ 9%",
       "link": "https://cafef.vn/vosco-chot-ngay-tra-co-tuc-bang-tien-mat-ty-le-9-188260915095507149.chn",
       "published": "Tue, 15 Sep 26 10:54:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Tổng giám đốc ABS: 6-8 tỷ USD có thể chảy vào chứng khoán Việt Nam",
-      "link": "https://cafef.vn/tong-giam-doc-abs-6-8-ty-usd-co-the-chay-vao-chung-khoan-viet-nam-188260915102311266.chn",
-      "published": "Tue, 15 Sep 26 10:23:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Agriseco bổ nhiệm Quyền Tổng Giám đốc",
-      "link": "https://cafef.vn/agriseco-bo-nhiem-quyen-tong-giam-doc-188260915091631259.chn",
-      "published": "Tue, 15 Sep 26 10:15:00 +0700"
     },
     {
       "source": "VietstockFinance",
