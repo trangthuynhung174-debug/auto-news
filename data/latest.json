@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-09-17T02:12:23.593124+00:00",
+  "collected_at": "2026-09-17T03:12:18.515109+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Diễn biến lạ của giá vàng sáng nay",
+      "link": "https://cafef.vn/dien-bien-la-cua-gia-vang-sang-nay-188260917095211092.chn",
+      "published": "Thu, 17 Sep 26 09:56:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Quỹ vàng lớn nhất thế giới hành động gì sau quyết định tăng lãi suất của FED?",
+      "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-hanh-dong-gi-sau-quyet-dinh-tang-lai-suat-cua-fed-188260917094907319.chn",
+      "published": "Thu, 17 Sep 26 09:50:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "CEO SSI chỉ ra một nghịch lý trên thị trường chứng khoán: Khối FDI làm ra hơn 3/4 kim ngạch xuất khẩu nhưng chỉ chiếm 0,15% vốn hoá",
+      "link": "https://cafef.vn/ceo-ssi-chi-ra-mot-nghich-ly-tren-thi-truong-chung-khoan-khoi-fdi-lam-ra-hon-3-4-kim-ngach-xuat-khau-nhung-chi-chiem-015-von-hoa-188260917091634145.chn",
+      "published": "Thu, 17 Sep 26 09:16:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "TikToker Phạm Tuấn bị điều tra trong đường dây lừa đảo Bitcoin Defi",
@@ -91,12 +109,6 @@
       "title": "Meey Global Corp thông báo nộp hồ sơ đăng ký chứng khoán lên SEC",
       "link": "https://cafef.vn/meey-global-corp-thong-bao-nop-ho-so-dang-ky-chung-khoan-len-sec-188260916163930154.chn",
       "published": "Wed, 16 Sep 26 16:39:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Ông Trần Quí Thanh muốn làm dự án khu công nghiệp 800ha tại TP.HCM",
-      "link": "https://cafef.vn/ong-tran-qui-thanh-muon-lam-du-an-khu-cong-nghiep-800ha-tai-tphcm-188260916154137518.chn",
-      "published": "Wed, 16 Sep 26 16:38:00 +0700"
     },
     {
       "source": "CafeF - Chứng khoán",
@@ -291,16 +303,10 @@
       "published": "Tue, 15 Sep 26 16:35:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Đại gia dầu khí Việt Nam vừa trúng gói thầu tại Qatar, có thể lên đến 3 tỷ USD",
-      "link": "https://cafef.vn/dai-gia-dau-khi-viet-nam-vua-trung-goi-thau-tai-qatar-co-the-len-den-3-ty-usd-188260915162754519.chn",
-      "published": "Tue, 15 Sep 26 16:27:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cổ phiếu Chứng khoán Kafi (KAI) sau nhịp điều chỉnh: Cơ hội nào từ vùng định giá hiện tại?",
-      "link": "https://cafef.vn/co-phieu-chung-khoan-kafi-kai-sau-nhip-dieu-chinh-co-hoi-nao-tu-vung-dinh-gia-hien-tai-188260915154440233.chn",
-      "published": "Tue, 15 Sep 26 16:00:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Cuộc đua \"thị trường không ngủ\": Quốc tế nới giờ giao dịch, Việt Nam cân nhắc phiên xuyên trưa",
+      "link": "http://vietstock.vn/2026/09/cuoc-dua-thi-truong-khong-ngu-quoc-te-noi-gio-giao-dich-viet-nam-can-nhac-phien-xuyen-trua-830-1492898.htm",
+      "published": "Thu, 17 Sep 2026 08:57:48 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,10 @@
       "published": "Tue, 15 Sep 2026 06:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Cổ phiếu dầu khí, nhựa có tuần hút tiền",
-      "link": "http://vietstock.vn/2026/09/co-phieu-dau-khi-nhua-co-tuan-hut-tien-830-1492048.htm",
-      "published": "Mon, 14 Sep 2026 20:30:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá dầu tại Trung Quốc lập kỷ lục do gián đoạn đường ống dẫn dầu của Saudi Arabia",
+      "link": "https://vneconomy.vn/gia-dau-tai-trung-quoc-lap-ky-luc-do-gian-doan-duong-ong-dan-dau-cua-saudi-arabia.htm",
+      "published": "Thu, 17 Sep 2026 02:15:34 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Chỉ nên giải ngân khi có áp lực bán giải chấp?",
       "link": "https://vneconomy.vn/chi-nen-giai-ngan-khi-co-ap-luc-ban-giai-chap.htm",
       "published": "Mon, 14 Sep 2026 12:07:23 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Blog chứng khoán: Thị trường có thể mở biên độ nếu tin xấu",
-      "link": "https://vneconomy.vn/blog-chung-khoan-thi-truong-co-the-mo-bien-do-neu-tin-xau.htm",
-      "published": "Mon, 14 Sep 2026 09:26:48 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
