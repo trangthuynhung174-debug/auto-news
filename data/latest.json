@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-09-17T04:13:03.588143+00:00",
+  "collected_at": "2026-09-17T05:12:02.829667+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một \"đại gia\" Nhà nước thu gần 44.000 tỷ sau 8 tháng",
+      "link": "https://cafef.vn/mot-dai-gia-nha-nuoc-thu-gan-44000-ty-sau-8-thang-188260917115837879.chn",
+      "published": "Thu, 17 Sep 26 11:58:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một công ty chứng khoán sắp thay toàn bộ thành viên HĐQT và Ban kiểm soát",
+      "link": "https://cafef.vn/mot-cong-ty-chung-khoan-sap-thay-toan-bo-thanh-vien-hdqt-va-ban-kiem-soat-188260917114127982.chn",
+      "published": "Thu, 17 Sep 26 11:41:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nóng nhất giá vàng bạc 17/9: DOJI và Phú Quý đồng loạt điều chỉnh",
+      "link": "https://cafef.vn/nong-nhat-gia-vang-bac-17-9-doji-va-phu-quy-dong-loat-dieu-chinh-1882609171030255.chn",
+      "published": "Thu, 17 Sep 26 11:16:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Fed tăng lãi suất, chứng khoán Việt Nam hôm nay được dự báo thế nào?",
@@ -285,24 +303,6 @@
       "published": "Wed, 16 Sep 26 00:02:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nỗi buồn mang tên cổ phiếu IPO",
-      "link": "https://cafef.vn/noi-buon-mang-ten-co-phieu-ipo-188260915232452861.chn",
-      "published": "Wed, 16 Sep 26 00:01:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nóng: PNJ giảm thời gian thanh toán khi mua lại sản phẩm từ khách hàng",
-      "link": "https://cafef.vn/nong-pnj-giam-thoi-gian-thanh-toan-khi-mua-lai-san-pham-tu-khach-hang-188260915220945536.chn",
-      "published": "Tue, 15 Sep 26 22:09:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "5 tháng sau khi nhà sáng lập bị khởi tố, Tiệm vàng HanaGold có CEO mới, công bố lộ trình rút tiền cho khách hàng",
-      "link": "https://cafef.vn/5-thang-sau-khi-nha-sang-lap-bi-khoi-to-tiem-vang-hanagold-co-ceo-moi-cong-bo-lo-trinh-rut-tien-cho-khach-hang-188260915195350375.chn",
-      "published": "Tue, 15 Sep 26 19:55:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Ngày 17/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
       "link": "http://vietstock.vn/2026/09/ngay-17092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1493005.htm",
@@ -421,6 +421,12 @@
       "title": "Top cổ phiếu đáng chú ý đầu phiên 15/09",
       "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-1509-830-1492206.htm",
       "published": "Tue, 15 Sep 2026 08:00:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Phản ứng tích cực với tin lãi suất FED, thanh khoản tăng vọt 50%, cổ chứng khoán bùng nổ",
+      "link": "https://vneconomy.vn/phan-ung-tich-cuc-voi-tin-lai-suat-fed-thanh-khoan-tang-vot-50-co-chung-khoan-bung-no.htm",
+      "published": "Thu, 17 Sep 2026 05:05:37 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Rủi ro đối với thị trường trái phiếu kho bạc Mỹ nếu Fed không tăng lãi suất",
       "link": "https://vneconomy.vn/rui-ro-doi-voi-thi-truong-trai-phieu-kho-bac-my-neu-fed-khong-tang-lai-suat.htm",
       "published": "Mon, 14 Sep 2026 13:20:44 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Đằng sau xu hướng các ngân hàng trung ương châu Âu chuyển vàng khỏi Mỹ",
-      "link": "https://vneconomy.vn/dang-sau-xu-huong-cac-ngan-hang-trung-uong-chau-au-chuyen-vang-khoi-my.htm",
-      "published": "Mon, 14 Sep 2026 12:07:50 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
