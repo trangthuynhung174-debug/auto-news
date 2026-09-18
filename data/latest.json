@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-18T12:15:23.922717+00:00",
+  "collected_at": "2026-09-18T13:11:51.452786+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Đánh cồng ghi dấu chứng khoán Việt Nam vào nhóm thị trường mới nổi",
+      "link": "https://cafef.vn/danh-cong-ghi-dau-chung-khoan-viet-nam-vao-nhom-thi-truong-moi-noi-188260918201037525.chn",
+      "published": "Fri, 18 Sep 26 20:10:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tối nay đánh cồng chính thức nâng hạng chứng khoán Việt Nam",
+      "link": "https://cafef.vn/toi-nay-danh-cong-chinh-thuc-nang-hang-chung-khoan-viet-nam-188260918200640726.chn",
+      "published": "Fri, 18 Sep 26 20:06:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "VN-Index đảo chiều trước giờ nâng hạng",
@@ -291,16 +303,10 @@
       "published": "Thu, 17 Sep 26 11:41:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nóng nhất giá vàng bạc 17/9: DOJI và Phú Quý đồng loạt điều chỉnh",
-      "link": "https://cafef.vn/nong-nhat-gia-vang-bac-17-9-doji-va-phu-quy-dong-loat-dieu-chinh-1882609171030255.chn",
-      "published": "Thu, 17 Sep 26 11:16:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Fed tăng lãi suất, chứng khoán Việt Nam hôm nay được dự báo thế nào?",
-      "link": "https://cafef.vn/fed-tang-lai-suat-chung-khoan-viet-nam-hom-nay-duoc-du-bao-the-nao-188260917102220877.chn",
-      "published": "Thu, 17 Sep 26 11:02:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Theo dấu dòng tiền cá mập 18/09: Khối ngoại mua ròng gần ngàn tỷ, tự doanh bán ròng nhẹ",
+      "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1809-khoi-ngoai-mua-rong-gan-ngan-ty-tu-doanh-ban-rong-nhe-830-1493956.htm",
+      "published": "Fri, 18 Sep 2026 19:38:57 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,22 @@
       "published": "Thu, 17 Sep 2026 06:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 16/09: Khối ngoại và tự doanh cùng mua ròng",
-      "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1609-khoi-ngoai-va-tu-doanh-cung-mua-rong-830-1493102.htm",
-      "published": "Wed, 16 Sep 2026 19:27:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giám đốc của Vanguard: Sẽ đầu tư vào Việt Nam 2,5 tỷ USD và nắm giữ các khoản này trong nhiều thập kỷ",
+      "link": "https://vneconomy.vn/giam-doc-cua-vanguard-se-dau-tu-vao-viet-nam-25-ty-usd-va-nam-giu-cac-khoan-nay-trong-nhieu-thap-ky.htm",
+      "published": "Fri, 18 Sep 2026 13:02:03 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "World Bank: \"Nâng hạng là bước ngoặt, chúng tôi mong tiếp tục được đồng hành cùng Việt Nam\"",
+      "link": "https://vneconomy.vn/world-bank-nang-hang-la-buoc-ngoat-chung-toi-mong-tiep-tuc-duoc-dong-hanh-cung-viet-nam.htm",
+      "published": "Fri, 18 Sep 2026 12:58:34 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giám đốc FTSE Russell: Cam kết trở thành đối tác lâu dài của Việt Nam, tiếp tục hiện đại hóa thị trường vốn",
+      "link": "https://vneconomy.vn/giam-doc-ftse-russell-cam-ket-tro-thanh-doi-tac-lau-dai-cua-viet-nam-tiep-tuc-hien-dai-hoa-thi-truong-von.htm",
+      "published": "Fri, 18 Sep 2026 12:00:43 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -703,24 +721,6 @@
       "title": "Thị trường trái phiếu chính phủ toàn cầu bán tháo, lợi suất cao nhất từ khủng hoảng tài chính",
       "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-ban-thao-loi-suat-cao-nhat-tu-khung-hoang-tai-chinh.htm",
       "published": "Wed, 16 Sep 2026 03:09:33 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giá vật liệu xi măng và thép tăng, lợi nhuận doanh nghiệp xây dựng có ảnh hưởng?",
-      "link": "https://vneconomy.vn/gia-vat-lieu-xi-mang-va-thep-tang-loi-nhuan-doanh-nghiep-xay-dung-co-anh-huong.htm",
-      "published": "Wed, 16 Sep 2026 01:43:32 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "SSB là cổ phiếu duy nhất được thêm vào rổ MarketVector Vietnam Local Index",
-      "link": "https://vneconomy.vn/ssb-la-co-phieu-duy-nhat-duoc-them-vao-ro-marketvector-vietnam-local-index.htm",
-      "published": "Wed, 16 Sep 2026 01:00:03 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giá vàng tiếp tục giảm trong lúc chờ tin Fed, SPDR Gold Trust mua ròng",
-      "link": "https://vneconomy.vn/gia-vang-tiep-tuc-giam-trong-luc-cho-tin-fed-spdr-gold-trust-mua-rong.htm",
-      "published": "Wed, 16 Sep 2026 00:30:15 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
