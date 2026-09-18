@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-09-18T13:11:51.452786+00:00",
+  "collected_at": "2026-09-18T14:12:27.135533+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán Việt Nam chính thức gia nhập rổ chỉ số toàn cầu FTSE Russell",
+      "link": "https://cafef.vn/chung-khoan-viet-nam-chinh-thuc-gia-nhap-ro-chi-so-toan-cau-ftse-russell-18826091820182807.chn",
+      "published": "Fri, 18 Sep 26 20:47:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Bộ trưởng Bộ Tài chính tiếp Tổng Giám đốc điều hành FTSE Russell",
+      "link": "https://cafef.vn/bo-truong-bo-tai-chinh-tiep-tong-giam-doc-dieu-hanh-ftse-russell-188260918201516328.chn",
+      "published": "Fri, 18 Sep 26 20:15:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Đánh cồng ghi dấu chứng khoán Việt Nam vào nhóm thị trường mới nổi",
@@ -291,18 +303,6 @@
       "published": "Thu, 17 Sep 26 13:03:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một \"đại gia\" Nhà nước thu gần 44.000 tỷ sau 8 tháng",
-      "link": "https://cafef.vn/mot-dai-gia-nha-nuoc-thu-gan-44000-ty-sau-8-thang-188260917115837879.chn",
-      "published": "Thu, 17 Sep 26 11:58:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một công ty chứng khoán sắp thay toàn bộ thành viên HĐQT và Ban kiểm soát",
-      "link": "https://cafef.vn/mot-cong-ty-chung-khoan-sap-thay-toan-bo-thanh-vien-hdqt-va-ban-kiem-soat-188260917114127982.chn",
-      "published": "Thu, 17 Sep 26 11:41:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Theo dấu dòng tiền cá mập 18/09: Khối ngoại mua ròng gần ngàn tỷ, tự doanh bán ròng nhẹ",
       "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-1809-khoi-ngoai-mua-rong-gan-ngan-ty-tu-doanh-ban-rong-nhe-830-1493956.htm",
@@ -421,6 +421,12 @@
       "title": "17/09: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/09/1709-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1493128.htm",
       "published": "Thu, 17 Sep 2026 06:00:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Nối tiếp động thái của Fed, BOJ tăng lãi suất lên mức cao nhất 31 năm",
+      "link": "https://vneconomy.vn/noi-tiep-dong-thai-cua-fed-boj-tang-lai-suat-len-muc-cao-nhat-31-nam.htm",
+      "published": "Fri, 18 Sep 2026 13:52:30 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "DNSE - Khi tăng trưởng không chỉ được đo bằng doanh thu và lợi nhuận",
       "link": "https://vneconomy.vn/dnse-khi-tang-truong-khong-chi-duoc-do-bang-doanh-thu-va-loi-nhuan.htm",
       "published": "Wed, 16 Sep 2026 04:45:58 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thị trường trái phiếu chính phủ toàn cầu bán tháo, lợi suất cao nhất từ khủng hoảng tài chính",
-      "link": "https://vneconomy.vn/thi-truong-trai-phieu-chinh-phu-toan-cau-ban-thao-loi-suat-cao-nhat-tu-khung-hoang-tai-chinh.htm",
-      "published": "Wed, 16 Sep 2026 03:09:33 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
