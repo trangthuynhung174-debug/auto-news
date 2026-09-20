@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-20T02:12:14.780575+00:00",
+  "collected_at": "2026-09-20T03:12:31.336104+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vingroup vừa khởi công bệnh viện tiêu chuẩn hàng đầu thế giới tại thành phố giàu nhất Việt Nam",
+      "link": "https://cafef.vn/vingroup-vua-khoi-cong-benh-vien-tieu-chuan-hang-dau-the-gioi-tai-thanh-pho-giau-nhat-viet-nam-188260920093440297.chn",
+      "published": "Sun, 20 Sep 26 09:40:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Thị trường chứng khoán được nâng hạng, nên đầu tư cổ phiếu nào?",
@@ -297,12 +303,6 @@
       "published": "Fri, 18 Sep 26 09:59:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "TKV, Đất Xanh Miền Bắc và nhiều doanh nghiệp bị xử phạt",
-      "link": "https://cafef.vn/tkv-dat-xanh-mien-bac-va-nhieu-doanh-nghiep-bi-xu-phat-18826091809341264.chn",
-      "published": "Fri, 18 Sep 26 09:34:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 21-25/09/2026",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-21-25092026-585-1494000.htm",
@@ -421,6 +421,24 @@
       "title": "Phân tích kỹ thuật phiên chiều 17/09: Tiến về ngưỡng Fibonacci Projection 78.6%",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1709-tien-ve-nguong-fibonacci-projection-786-585-1493265.htm",
       "published": "Thu, 17 Sep 2026 13:07:55 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Fed tăng lãi suất, dòng tiền vào chứng khoán khó cải thiện trong ngắn hạn?",
+      "link": "https://vneconomy.vn/fed-tang-lai-suat-dong-tien-vao-chung-khoan-kho-cai-thien-trong-ngan-han.htm",
+      "published": "Sun, 20 Sep 2026 02:28:42 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Khối ngoại gom ròng mạnh 1.200 tỷ trong phiên đánh cồng đón thị trường Việt Nam nâng hạng",
+      "link": "https://vneconomy.vn/khoi-ngoai-gom-rong-manh-1200-ty-trong-phien-danh-cong-don-thi-truong-viet-nam-nang-hang.htm",
+      "published": "Sun, 20 Sep 2026 02:28:06 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VN-Index đang trong diễn biến kiểm tra động lực quanh vùng 1810-1820",
+      "link": "https://vneconomy.vn/vn-index-dang-trong-dien-bien-kiem-tra-dong-luc-quanh-vung-1810-1820.htm",
+      "published": "Sun, 20 Sep 2026 02:27:38 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -703,24 +721,6 @@
       "title": "Cổ phiếu vừa và nhỏ điều chỉnh mạnh, khối ngoại duy trì mua ròng",
       "link": "https://vneconomy.vn/co-phieu-vua-va-nho-dieu-chinh-manh-khoi-ngoai-duy-tri-mua-rong.htm",
       "published": "Wed, 16 Sep 2026 08:30:41 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Quỹ ngoại: Nâng hạng là chất xúc tác quan trọng cho thị trường trong ngắn hạn",
-      "link": "https://vneconomy.vn/quy-ngoai-nang-hang-la-chat-xuc-tac-quan-trong-cho-thi-truong-trong-ngan-han.htm",
-      "published": "Wed, 16 Sep 2026 07:44:01 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Một cổ phiếu dự báo được các ETF mua ròng hơn 1.000 tỷ trong tuần này",
-      "link": "https://vneconomy.vn/mot-co-phieu-du-bao-duoc-cac-etf-mua-rong-hon-1000-ty-trong-tuan-nay.htm",
-      "published": "Wed, 16 Sep 2026 07:42:23 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dòng tiền ngoại mua vào nâng hạng sẽ \"đỡ\" cho thông tin dự báo Fed tăng lãi suất?",
-      "link": "https://vneconomy.vn/dong-tien-ngoai-mua-vao-nang-hang-se-do-cho-thong-tin-du-bao-fed-tang-lai-suat.htm",
-      "published": "Wed, 16 Sep 2026 06:31:03 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
