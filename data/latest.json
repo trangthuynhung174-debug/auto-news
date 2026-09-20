@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-09-20T03:12:31.336104+00:00",
+  "collected_at": "2026-09-20T04:12:19.559590+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nâng hạng thị trường chứng khoán: ‘Sức ép’ tiếp tục cải cách?",
+      "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-suc-ep-tiep-tuc-cai-cach-188260920105322543.chn",
+      "published": "Sun, 20 Sep 26 10:53:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán tuần qua: Khối ngoại gom ngàn tỷ, cổ phiếu ‘vua’ dẫn sóng thị trường",
+      "link": "https://cafef.vn/chung-khoan-tuan-qua-khoi-ngoai-gom-ngan-ty-co-phieu-vua-dan-song-thi-truong-188260920105048294.chn",
+      "published": "Sun, 20 Sep 26 10:50:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nâng hạng thị trường chứng khoán: Mở \"cánh cửa\" đến dòng vốn tỷ USD",
+      "link": "https://cafef.vn/nang-hang-thi-truong-chung-khoan-mo-canh-cua-den-dong-von-ty-usd-188260920102345527.chn",
+      "published": "Sun, 20 Sep 26 10:23:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Vingroup vừa khởi công bệnh viện tiêu chuẩn hàng đầu thế giới tại thành phố giàu nhất Việt Nam",
@@ -285,24 +303,6 @@
       "published": "Fri, 18 Sep 26 10:12:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng bạc 18/9 tăng mạnh: Phú Quý, SJC lập đỉnh cao nhất tuần, bạc thỏi \"nổi sóng\"",
-      "link": "https://cafef.vn/gia-vang-bac-18-9-tang-manh-phu-quy-sjc-lap-dinh-cao-nhat-tuan-bac-thoi-noi-song-188260918100551874.chn",
-      "published": "Fri, 18 Sep 26 10:08:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Digiworld chia cổ tức năm 2026 bằng tiền mặt tỷ lệ 30%",
-      "link": "https://cafef.vn/digiworld-chia-co-tuc-nam-2026-bang-tien-mat-ty-le-30-188260918093646719.chn",
-      "published": "Fri, 18 Sep 26 09:59:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "'Biến động' nhân sự tại PVChem",
-      "link": "https://cafef.vn/bien-dong-nhan-su-tai-pvchem-18826091809352979.chn",
-      "published": "Fri, 18 Sep 26 09:59:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 21-25/09/2026",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-21-25092026-585-1494000.htm",
@@ -421,6 +421,12 @@
       "title": "Phân tích kỹ thuật phiên chiều 17/09: Tiến về ngưỡng Fibonacci Projection 78.6%",
       "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-1709-tien-ve-nguong-fibonacci-projection-786-585-1493265.htm",
       "published": "Thu, 17 Sep 2026 13:07:55 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Xu thế dòng tiền: Chính thức nâng hạng có tạo bước ngoặt cho thị trường?",
+      "link": "https://vneconomy.vn/xu-the-dong-tien-chinh-thuc-nang-hang-co-tao-buoc-ngoat-cho-thi-truong.htm",
+      "published": "Sun, 20 Sep 2026 03:21:59 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Blog chứng khoán: Dòng tiền “nín thở”",
       "link": "https://vneconomy.vn/blog-chung-khoan-dong-tien-nin-tho.htm",
       "published": "Wed, 16 Sep 2026 09:20:13 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Cổ phiếu vừa và nhỏ điều chỉnh mạnh, khối ngoại duy trì mua ròng",
-      "link": "https://vneconomy.vn/co-phieu-vua-va-nho-dieu-chinh-manh-khoi-ngoai-duy-tri-mua-rong.htm",
-      "published": "Wed, 16 Sep 2026 08:30:41 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
