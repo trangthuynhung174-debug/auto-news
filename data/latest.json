@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-09-26T07:10:09.705113+00:00",
+  "collected_at": "2026-09-26T12:43:20.481453+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán tuần qua: Thị trường rung lắc mạnh, người nhà lãnh đạo PNJ liên tục thoái vốn",
+      "link": "https://cafef.vn/chung-khoan-tuan-qua-thi-truong-rung-lac-manh-nguoi-nha-lanh-dao-pnj-lien-tuc-thoai-von-188260926152211807.chn",
+      "published": "Sat, 26 Sep 26 15:43:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "PNJ cần 8.000 tỷ đồng: Ai sẽ cứu?",
@@ -297,10 +303,22 @@
       "published": "Fri, 25 Sep 26 09:36:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Xử phạt hành chính 2 công ty chứng khoán",
-      "link": "https://cafef.vn/xu-phat-hanh-chinh-2-cong-ty-chung-khoan-188260925082142222.chn",
-      "published": "Fri, 25 Sep 26 08:30:00 +0700"
+      "source": "VietstockFinance",
+      "title": "DQC thoát cảnh báo và 1 diện kiểm soát",
+      "link": "http://vietstock.vn/2026/09/dqc-thoat-canh-bao-va-1-dien-kiem-soat-830-1495905.htm",
+      "published": "Sat, 26 Sep 2026 15:32:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "Cổ phiếu giảm sàn 5 phiên liên tiếp, KOS bị yêu cầu giải trình",
+      "link": "http://vietstock.vn/2026/09/co-phieu-giam-san-5-phien-lien-tiep-kos-bi-yeu-cau-giai-trinh-830-1496247.htm",
+      "published": "Sat, 26 Sep 2026 14:42:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "VAFE ký kết hợp tác cùng Hiệp hội Giám đốc IR Bulgaria (ABIRD)",
+      "link": "http://vietstock.vn/2026/09/vafe-ky-ket-hop-tac-cung-hiep-hoi-giam-doc-ir-bulgaria-abird-830-1496258.htm",
+      "published": "Sat, 26 Sep 2026 14:41:50 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -405,22 +423,22 @@
       "published": "Thu, 24 Sep 2026 10:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Doanh nghiệp niêm yết có hoạt động IR tốt nhất năm 2026",
-      "link": "http://vietstock.vn/2026/09/doanh-nghiep-niem-yet-co-hoat-dong-ir-tot-nhat-nam-2026-830-1495194.htm",
-      "published": "Thu, 24 Sep 2026 09:32:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Dấu ấn kinh tế thế giới tuần 20-26/9/2026: Thượng đỉnh Mỹ-Trung và biến động thị trường trái phiếu",
+      "link": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-20-2692026-thuong-dinh-my-trung-va-bien-dong-thi-truong-trai-phieu.htm",
+      "published": "Sat, 26 Sep 2026 12:04:08 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phá đỉnh 88 lần, ngân hàng vẫn chưa có sóng “đủ dài”",
-      "link": "http://vietstock.vn/2026/09/pha-dinh-88-lan-ngan-hang-van-chua-co-song-du-dai-757-1495349.htm",
-      "published": "Thu, 24 Sep 2026 09:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Năm vụ hack và trộm tiền mã hoá lớn nhất toàn cầu",
+      "link": "https://vneconomy.vn/nam-vu-hack-va-trom-tien-ma-hoa-lon-nhat-toan-cau.htm",
+      "published": "Sat, 26 Sep 2026 10:04:31 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Top cổ phiếu đáng chú ý đầu phiên 24/09",
-      "link": "http://vietstock.vn/2026/09/top-co-phieu-dang-chu-y-dau-phien-2409-830-1495180.htm",
-      "published": "Thu, 24 Sep 2026 08:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VN-Index giảm 1,68%, nhà đầu tư thận trọng trước áp lực bán",
+      "link": "https://vneconomy.vn/vn-index-giam-168-nha-dau-tu-than-trong-truoc-ap-luc-ban.htm",
+      "published": "Sat, 26 Sep 2026 10:04:13 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -703,24 +721,6 @@
       "title": "VN-Index tăng 17 điểm, nhà đầu tư thận trọng trước kháng cự 1830",
       "link": "https://vneconomy.vn/vn-index-tang-17-diem-nha-dau-tu-than-trong-truoc-khang-cu-1830.htm",
       "published": "Tue, 22 Sep 2026 14:13:00 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thanh khoản giảm mạnh, khối ngoại mua ròng nhỏ giọt",
-      "link": "https://vneconomy.vn/thanh-khoan-giam-manh-khoi-ngoai-mua-rong-nho-giot.htm",
-      "published": "Tue, 22 Sep 2026 13:37:47 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Các công ty quản lý quỹ đang quản lý 32,5 tỷ USD",
-      "link": "https://vneconomy.vn/cac-cong-ty-quan-ly-quy-dang-quan-ly-325-ty-usd.htm",
-      "published": "Tue, 22 Sep 2026 10:30:47 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Blog chứng khoán: Bán ít",
-      "link": "https://vneconomy.vn/blog-chung-khoan-ban-it.htm",
-      "published": "Tue, 22 Sep 2026 09:29:08 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
