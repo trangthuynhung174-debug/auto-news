@@ -1,7 +1,31 @@
 {
-  "collected_at": "2026-09-27T07:42:10.181998+00:00",
+  "collected_at": "2026-09-27T13:35:51.846366+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tuần tới VN-Index có lấy lại được ngưỡng 1.800 điểm?",
+      "link": "https://cafef.vn/tuan-toi-vn-index-co-lay-lai-duoc-nguong-1800-diem-188260927192308192.chn",
+      "published": "Sun, 27 Sep 26 19:49:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "IPO HGI đạt số lượng đặt mua 100%, công ty của Bầu Đức thu hút nhà đầu tư",
+      "link": "https://cafef.vn/ipo-hgi-dat-so-luong-dat-mua-100-cong-ty-cua-bau-duc-thu-hut-nha-dau-tu-188260927182923667.chn",
+      "published": "Sun, 27 Sep 26 18:30:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Mã KOS giảm sàn 5 phiên liên tiếp, Kosy Group giải trình gì?",
+      "link": "https://cafef.vn/ma-kos-giam-san-5-phien-lien-tiep-kosy-group-giai-trinh-gi-188260927154154705.chn",
+      "published": "Sun, 27 Sep 26 16:41:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Góc nhìn chuyên gia: Khả năng thị trường còn điều chỉnh, 4 nhóm cổ phiếu đáng chú ý mùa KQKD quý 3",
+      "link": "https://cafef.vn/goc-nhin-chuyen-gia-kha-nang-thi-truong-con-dieu-chinh-4-nhom-co-phieu-dang-chu-y-mua-kqkd-quy-3-188260927141129315.chn",
+      "published": "Sun, 27 Sep 26 14:56:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "CTCK dự báo KQKD quý 3 doanh nghiệp điện: Một \"ông lớn\" có thể lãi hơn 1.000 tỷ đồng, xuất hiện mức tăng trưởng 88%",
@@ -279,28 +303,10 @@
       "published": "Fri, 25 Sep 26 11:29:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Bán “hụt” 4 lần, VietinBank (CTG) tiếp tục đăng ký bán sạch cổ phiếu 19,3 triệu cổ phiếu Cảng Sài Gòn (SGP)",
-      "link": "https://cafef.vn/ban-hut-4-lan-vietinbank-ctg-tiep-tuc-dang-ky-ban-sach-co-phieu-193-trieu-co-phieu-cang-sai-gon-sgp-188260925112336459.chn",
-      "published": "Fri, 25 Sep 26 11:29:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Quang Hải tiếp tục gom cổ phiếu doanh nghiệp vốn hóa nghìn tỷ",
-      "link": "https://cafef.vn/quang-hai-tiep-tuc-gom-co-phieu-doanh-nghiep-von-hoa-nghin-ty-188260925112625829.chn",
-      "published": "Fri, 25 Sep 26 11:28:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Tỷ phú Nguyễn Đăng Quang “bật đèn xanh” cho tập đoàn Mỹ mua cổ phần đơn vị chủ quản “kho báu” Vonfram",
-      "link": "https://cafef.vn/ty-phu-nguyen-dang-quang-bat-den-xanh-cho-tap-doan-my-mua-co-phan-don-vi-chu-quan-kho-bau-vonfram-188260925112839671.chn",
-      "published": "Fri, 25 Sep 26 11:27:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "NÓNG: SMBC thảo luận phương án mua hơn 600 triệu cổ phiếu VPB trên sàn",
-      "link": "https://cafef.vn/nong-smbc-thao-luan-phuong-an-mua-hon-600-trieu-co-phieu-vpb-tren-san-188260925112640523.chn",
-      "published": "Fri, 25 Sep 26 11:26:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Vietstock Weekly 28/09-02/10/2026: Chưa hết rung lắc?",
+      "link": "http://vietstock.vn/2026/09/vietstock-weekly-2809-02102026-chua-het-rung-lac-1636-1496223.htm",
+      "published": "Sun, 27 Sep 2026 18:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -415,12 +421,6 @@
       "title": "Theo dấu dòng tiền cá mập 24/09: Khối ngoại và tự doanh trái chiều",
       "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-2409-khoi-ngoai-va-tu-doanh-trai-chieu-830-1495742.htm",
       "published": "Thu, 24 Sep 2026 19:32:25 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 25/09/2026: Sức ép lan rộng",
-      "link": "http://vietstock.vn/2026/09/vietstock-daily-25092026-suc-ep-lan-rong-1636-1495623.htm",
-      "published": "Thu, 24 Sep 2026 18:05:09 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
