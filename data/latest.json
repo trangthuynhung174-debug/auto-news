@@ -1,7 +1,31 @@
 {
-  "collected_at": "2026-10-01T16:04:14.711650+00:00",
+  "collected_at": "2026-10-01T21:36:14.001865+00:00",
   "count": 169,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một doanh nghiệp chốt trả cổ tức 2.000 đồng/cp, đều đặn chia tiền mặt suốt 13 năm",
+      "link": "https://cafef.vn/mot-doanh-nghiep-chot-tra-co-tuc-2000-dong-cp-deu-dan-chia-tien-mat-suot-13-nam-188261001232453463.chn",
+      "published": "Fri, 02 Oct 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tỷ phú Phạm Nhật Vượng tuyển hàng chục nghìn công nhân cho loạt “siêu dự án”, không cần kinh nghiệm, thu nhập tới 48 triệu đồng/tháng bao ăn ở",
+      "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tuyen-hang-chuc-nghin-cong-nhan-cho-loat-sieu-du-an-khong-can-kinh-nghiem-thu-nhap-toi-48-trieu-dong-thang-bao-an-o-188261001162946878.chn",
+      "published": "Fri, 02 Oct 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "CTCK điểm tên 6 cổ phiếu có định giá rẻ, lợi nhuận quý 3 dự kiến tăng mạnh",
+      "link": "https://cafef.vn/ctck-diem-ten-6-co-phieu-co-dinh-gia-re-loi-nhuan-quy-3-du-kien-tang-manh-188261001221245421.chn",
+      "published": "Fri, 02 Oct 26 00:03:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một dữ liệu cho thấy sự kiên cường của nhà đầu tư chứng khoán trong nước",
+      "link": "https://cafef.vn/mot-du-lieu-cho-thay-su-kien-cuong-cua-nha-dau-tu-chung-khoan-trong-nuoc-188261001232001596.chn",
+      "published": "Fri, 02 Oct 26 00:01:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Bộ Công an thông tin mới nhất vụ án liên quan loạt lãnh đạo công ty điện lực PC1, TV1, TV2, TV3 bị khởi tố",
@@ -279,30 +303,6 @@
       "published": "Wed, 30 Sep 26 11:17:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "CTCK gọi tên 6 cổ phiếu đáng chú ý tháng 10, hai ngân hàng góp mặt",
-      "link": "https://cafef.vn/ctck-goi-ten-6-co-phieu-dang-chu-y-thang-10-hai-ngan-hang-gop-mat-188260930101853644.chn",
-      "published": "Wed, 30 Sep 26 11:00:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một công ty chứng khoán sắp chi gần 500 tỷ đồng chia cổ tức tiền mặt",
-      "link": "https://cafef.vn/cong-ty-cua-chu-tich-do-quang-vinh-sap-doc-hau-bao-chi-gan-500-ty-dong-co-tuc-tien-mat-188260930104827778.chn",
-      "published": "Wed, 30 Sep 26 10:50:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Tỷ phú Phạm Nhật Vượng chốt lịch đưa một công trình quy mô lớn nhất Đông Nam Á đi vào hoạt động",
-      "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-chot-lich-dua-mot-cong-trinh-quy-mo-lon-nhat-dong-nam-a-di-vao-hoat-dong-188260930104120393.chn",
-      "published": "Wed, 30 Sep 26 10:46:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng bạc 30/9 tại Phú Quý, SJC, DOJI, BTMC tăng vọt sau một đêm!",
-      "link": "https://cafef.vn/gia-vang-bac-30-9-tai-phu-quy-sjc-doji-btmc-tang-vot-sau-mot-dem-188260930100003941.chn",
-      "published": "Wed, 30 Sep 26 10:44:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Theo dấu dòng tiền cá mập 01/10: Khối ngoại mua mạnh MSR",
       "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-0110-khoi-ngoai-mua-manh-msr-830-1498034.htm",
@@ -415,6 +415,12 @@
       "title": "6 Non-Financial Large Cap tỏa sáng tại IR Awards 2026: DCM, GMD, MSN, MWG, VIC, VNM",
       "link": "http://vietstock.vn/2026/09/6-non-financial-large-cap-toa-sang-tai-ir-awards-2026-dcm-gmd-msn-mwg-vic-vnm-830-1496863.htm",
       "published": "Wed, 30 Sep 2026 13:02:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Khối ngoại mua ròng hơn 3.100 tỷ nhờ thỏa thuận MSR",
+      "link": "https://vneconomy.vn/khoi-ngoai-mua-rong-hon-3100-ty-nho-thoa-thuan-msr.htm",
+      "published": "Thu, 01 Oct 2026 16:12:59 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,12 +715,6 @@
       "title": "VN-Index giảm nhẹ, nhà đầu tư thận trọng giữa áp lực bán",
       "link": "https://vneconomy.vn/vn-index-giam-nhe-nha-dau-tu-than-trong-giua-ap-luc-ban.htm",
       "published": "Mon, 28 Sep 2026 14:00:04 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Lợi suất trái phiếu chính phủ tăng cao đe dọa các công ty vay nợ nhiều để đầu tư AI",
-      "link": "https://vneconomy.vn/loi-suat-trai-phieu-chinh-phu-tang-cao-de-doa-cac-cong-ty-vay-no-nhieu-de-dau-tu-ai.htm",
-      "published": "Mon, 28 Sep 2026 12:11:55 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
