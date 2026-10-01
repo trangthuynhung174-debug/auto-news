@@ -1,11 +1,77 @@
 {
-  "collected_at": "2026-10-01T01:07:29.921212+00:00",
-  "count": 170,
+  "collected_at": "2026-10-01T08:27:01.481609+00:00",
+  "count": 119,
   "items": [
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Tỷ phú Phạm Nhật Vượng tuyển 2.000 người cho Vinfast, có vị trí chỉ cần \"biết đọc biết viết\", thu nhập tới 18 triệu đồng/tháng",
-      "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tuyen-2000-nguoi-cho-vinfast-co-vi-tri-chi-can-biet-doc-biet-viet-thu-nhap-toi-18-trieu-dong-thang-188260930225743362.chn",
+      "title": "Tập đoàn Mỹ vừa trở thành cổ đông chiến lược, Masan High-Tech Materials công bố lộ trình niêm yết HoSE",
+      "link": "https://cafef.vn/tap-doan-my-vua-tro-thanh-co-dong-chien-luoc-masan-high-tech-materials-cong-bo-lo-trinh-niem-yet-hose-18826100114504249.chn",
+      "published": "Thu, 01 Oct 26 14:56:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Bầu Đức có động thái đặc biệt tại Trung Quốc sau cú rót gần 800 tỷ vào loại cây tiêu thụ 29.000 tấn/ngày",
+      "link": "https://cafef.vn/bau-duc-co-dong-thai-dac-biet-tai-trung-quoc-sau-cu-rot-gan-800-ty-vao-loai-cay-tieu-thu-29000-tan-ngay-188261001145226172.chn",
+      "published": "Thu, 01 Oct 26 14:53:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Rồng Việt bàn giao vườn cây bằng lăng 3 ha, nhận bằng khen của tỉnh Lâm Đồng",
+      "link": "https://cafef.vn/rong-viet-ban-giao-vuon-cay-bang-lang-3-ha-nhan-bang-khen-cua-tinh-lam-dong-188261001124051366.chn",
+      "published": "Thu, 01 Oct 26 13:30:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Việt Nam hướng tới đáp ứng tiêu chí nâng hạng của MSCI, lên nhóm mới nổi bậc cao của FTSE",
+      "link": "https://cafef.vn/viet-nam-huong-toi-dap-ung-tieu-chi-nang-hang-cua-msci-len-nhom-moi-noi-bac-cao-cua-ftse-188261001130002818.chn",
+      "published": "Thu, 01 Oct 26 12:59:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vốn hóa PNJ giảm hơn 5.000 tỷ đồng chỉ vài ngày",
+      "link": "https://cafef.vn/von-hoa-pnj-giam-hon-5000-ty-dong-chi-vai-ngay-188261001104042645.chn",
+      "published": "Thu, 01 Oct 26 11:30:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Ông lớn Nhật Bản chuẩn bị rót hơn 4.400 tỷ đồng vào pháp nhân “1 đô la Singapore” đứng sau thương vụ thâu tóm Thiên Long",
+      "link": "https://cafef.vn/ong-lon-nhat-ban-chuan-bi-rot-hon-4400-ty-dong-vao-phap-nhan-1-do-la-singapore-dung-sau-thuong-vu-thau-tom-thien-long-188261001111735409.chn",
+      "published": "Thu, 01 Oct 26 11:20:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "PNJ giảm sàn 4 phiên liên tiếp, một cổ phiếu khác còn “thảm” hơn với chuỗi 9 phiên lau sàn",
+      "link": "https://cafef.vn/pnj-giam-san-4-phien-lien-tiep-mot-co-phieu-khac-con-tham-hon-voi-chuoi-9-phien-lau-san-188261001110329368.chn",
+      "published": "Thu, 01 Oct 26 11:10:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ phiếu “chất sàn” 9 phiên liên tiếp, thị giá bay hơn nửa: Chủ tịch vừa có động thái mới",
+      "link": "https://cafef.vn/co-phieu-chat-san-9-phien-lien-tiep-thi-gia-bay-hon-nua-chu-tich-vua-co-dong-thai-moi-188261001104246473.chn",
+      "published": "Thu, 01 Oct 26 10:45:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Quỹ vàng lớn nhất thế giới liên tục \"xả hàng\"",
+      "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-lien-tuc-xa-hang-188261001102503107.chn",
+      "published": "Thu, 01 Oct 26 10:27:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Bộ Tài chính hướng dẫn triển khai Chương trình đào tạo 10.000 CEO",
+      "link": "https://cafef.vn/bo-tai-chinh-huong-dan-trien-khai-chuong-trinh-dao-tao-10000-ceo-188261001101258245.chn",
+      "published": "Thu, 01 Oct 26 10:14:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán Phố Wall bị xử phạt do vi phạm công bố thông tin",
+      "link": "https://cafef.vn/chung-khoan-pho-wall-bi-xu-phat-do-vi-pham-cong-bo-thong-tin-188261001094347689.chn",
+      "published": "Thu, 01 Oct 26 09:43:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tỷ phú Phạm Nhật Vượng tuyển 2.000 người cho VinFast, thu nhập tới 18 triệu đồng/tháng",
+      "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tuyen-2000-nguoi-cho-vinfast-thu-nhap-toi-18-trieu-dong-thang-188260930225743362.chn",
       "published": "Thu, 01 Oct 26 00:10:00 +0700"
     },
     {
@@ -237,70 +303,64 @@
       "published": "Tue, 29 Sep 26 18:59:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Tin vui không cứu nổi NVL, KOS nằm sàn 7 phiên liên tiếp",
-      "link": "https://cafef.vn/tin-vui-khong-cuu-noi-nvl-kos-nam-san-7-phien-lien-tiep-1882609291714335.chn",
-      "published": "Tue, 29 Sep 26 17:54:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Phân tích kỹ thuật phiên chiều 01/10: VN-Index tiếp tục nằm dưới SMA 50 ngày",
+      "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-0110-vn-index-tiep-tuc-nam-duoi-sma-50-ngay-585-1497790.htm",
+      "published": "Thu, 01 Oct 2026 13:05:39 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Khởi tố nhân viên Điện Máy Xanh Nguyễn Hữu Phú SN 1995",
-      "link": "https://cafef.vn/khoi-to-nhan-vien-dien-may-xanh-nguyen-huu-phu-sn-1995-188260929173426925.chn",
-      "published": "Tue, 29 Sep 26 17:34:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 01/10: Nhịp hồi nhanh chóng kết thúc, VN-Index quay đầu giảm về 1,758 điểm",
+      "link": "http://vietstock.vn/2026/10/nhip-dap-thi-truong-0110-nhip-hoi-nhanh-chong-ket-thuc-vn-index-quay-dau-giam-ve-1758-diem-1636-1497731.htm",
+      "published": "Thu, 01 Oct 2026 13:02:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một cổ phiếu ngân hàng được mua ròng đột biến 400 tỷ đồng trong phiên 29/9",
-      "link": "https://cafef.vn/mot-co-phieu-ngan-hang-duoc-mua-rong-dot-bien-400-ty-dong-trong-phien-29-9-18826092917250572.chn",
-      "published": "Tue, 29 Sep 26 17:24:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Phân loại cổ phiếu niêm yết HOSE: Dự kiến chia hai bảng Prime Board và Standard Board",
+      "link": "http://vietstock.vn/2026/10/phan-loai-co-phieu-niem-yet-hose-du-kien-chia-hai-bang-prime-board-va-standard-board-741-1497792.htm",
+      "published": "Thu, 01 Oct 2026 12:43:14 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "F88 triển khai việc chuyển sàn sang HoSE",
-      "link": "https://cafef.vn/f88-trien-khai-viec-chuyen-san-sang-hose-18826092917150625.chn",
-      "published": "Tue, 29 Sep 26 17:15:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Phép thử với cổ đông tại PNJ",
+      "link": "http://vietstock.vn/2026/10/phep-thu-voi-co-dong-tai-pnj-830-1497788.htm",
+      "published": "Thu, 01 Oct 2026 12:35:53 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nhà đầu tư nội ngoại cùng tháo chạy khỏi PNJ, \"chồng chất\" bán sàn hơn 6% công ty",
-      "link": "https://cafef.vn/nha-dau-tu-noi-ngoai-cung-thao-chay-khoi-pnj-chong-chat-ban-san-hon-6-cong-ty-188260929171357885.chn",
-      "published": "Tue, 29 Sep 26 17:13:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Vì sao hàng trăm doanh nghiệp đồng loạt giảm room ngoại về 0%?",
+      "link": "http://vietstock.vn/2026/10/vi-sao-hang-tram-doanh-nghiep-dong-loat-giam-room-ngoai-ve-0-830-1497712.htm",
+      "published": "Thu, 01 Oct 2026 11:02:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Loạt cổ phiếu chứng khoán “thủng” đáy IPO, mất hàng chục nghìn tỷ đồng vốn hóa",
-      "link": "https://cafef.vn/loat-co-phieu-chung-khoan-thung-day-ipo-mat-hang-chuc-nghin-ty-dong-von-hoa-188260929163132606.chn",
-      "published": "Tue, 29 Sep 26 16:31:00 +0700"
+      "source": "VietstockFinance",
+      "title": "6 Mid Cap được nhà đầu tư và định chế tài chính lựa chọn tại IR Awards 2026",
+      "link": "http://vietstock.vn/2026/10/6-mid-cap-duoc-nha-dau-tu-va-dinh-che-tai-chinh-lua-chon-tai-ir-awards-2026-830-1496879.htm",
+      "published": "Thu, 01 Oct 2026 11:02:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Phiên 29/9: Khối ngoại liên tiếp bán ròng, \"xả\" gần 250 tỷ đồng tại một mã ngân hàng",
-      "link": "https://cafef.vn/phien-29-9-khoi-ngoai-lien-tiep-ban-rong-xa-gan-250-ty-dong-tai-mot-ma-ngan-hang-188260929154021657.chn",
-      "published": "Tue, 29 Sep 26 15:45:00 +0700"
+      "source": "VietstockFinance",
+      "title": "SAB - Lợi thế còn đủ lớn trong thị trường đang dịch chuyển? (Kỳ 2)",
+      "link": "http://vietstock.vn/2026/10/sab-loi-the-con-du-lon-trong-thi-truong-dang-dich-chuyen-ky-2-582-1496397.htm",
+      "published": "Thu, 01 Oct 2026 10:02:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "SSI dự báo bức tranh lợi nhuận quý 3: Bốn doanh nghiệp tăng bằng lần, một ngân hàng có thể sụt giảm",
-      "link": "https://cafef.vn/ssi-du-bao-buc-tranh-loi-nhuan-quy-3-bon-doanh-nghiep-tang-bang-lan-mot-ngan-hang-co-the-sut-giam-188260929144422502.chn",
-      "published": "Tue, 29 Sep 26 14:47:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Ngày 01/10/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+      "link": "http://vietstock.vn/2026/10/ngay-01102026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1497523.htm",
+      "published": "Thu, 01 Oct 2026 10:00:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "AgriS (SBT) vượt kế hoạch doanh thu, tăng tốc mở rộng hệ sinh thái nông nghiệp – thực phẩm",
-      "link": "https://cafef.vn/agris-sbt-vuot-ke-hoach-doanh-thu-tang-toc-mo-rong-he-sinh-thai-nong-nghiep-thuc-pham-188260929112518846.chn",
-      "published": "Tue, 29 Sep 26 13:30:00 +0700"
+      "source": "VietstockFinance",
+      "title": "[IR AWARDS] Lịch công bố thông tin tháng 10/2026 cần nhớ",
+      "link": "http://vietstock.vn/2026/10/ir-awards-lich-cong-bo-thong-tin-thang-102026-can-nho-830-1497385.htm",
+      "published": "Thu, 01 Oct 2026 09:02:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "DIG bổ nhiệm nhân sự thay ông Nguyễn Hùng Cường",
-      "link": "https://cafef.vn/dig-bo-nhiem-nhan-su-thay-ong-nguyen-hung-cuong-188260929130820181.chn",
-      "published": "Tue, 29 Sep 26 13:08:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Vì sao giá vàng 'bốc hơi' hơn 100 USD/ounce?",
-      "link": "https://cafef.vn/vi-sao-gia-vang-boc-hoi-hon-100-usd-ounce-188260929130427785.chn",
-      "published": "Tue, 29 Sep 26 13:04:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 01/10",
+      "link": "http://vietstock.vn/2026/10/top-co-phieu-dang-chu-y-dau-phien-0110-830-1497486.htm",
+      "published": "Thu, 01 Oct 2026 08:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -357,370 +417,16 @@
       "published": "Wed, 30 Sep 2026 08:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "30/09: Đọc gì trước giờ giao dịch chứng khoán?",
-      "link": "http://vietstock.vn/2026/09/3009-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1497172.htm",
-      "published": "Wed, 30 Sep 2026 06:00:00 +0700"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Thương vụ thâu tóm Tập đoàn Thiên Long tiến thêm bước mới",
+      "link": "https://vnbusiness.vn//thuong-vu-thau-tom-tap-doan-thien-long-tien-them-buoc-moi.html",
+      "published": "Thu, 01 Oct 2026 08:17:05 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 29/09: Khối ngoại và tự doanh giao dịch trái chiều",
-      "link": "http://vietstock.vn/2026/09/theo-dau-dong-tien-ca-map-2909-khoi-ngoai-va-tu-doanh-giao-dich-trai-chieu-830-1497156.htm",
-      "published": "Tue, 29 Sep 2026 19:45:20 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "HOSE xây dựng chỉ số mới VNPRIVGRO, quy tụ 30 mã cổ phiếu kinh tế tư nhân",
-      "link": "http://vietstock.vn/2026/09/hose-xay-dung-chi-so-moi-vnprivgro-quy-tu-30-ma-co-phieu-kinh-te-tu-nhan-830-1497149.htm",
-      "published": "Tue, 29 Sep 2026 19:19:31 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 30/09/2026: Giằng co trong thận trọng",
-      "link": "http://vietstock.vn/2026/09/vietstock-daily-30092026-giang-co-trong-than-trong-1636-1497002.htm",
-      "published": "Tue, 29 Sep 2026 18:03:24 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Nhịp đập Thị trường 29/09: Nhóm bất động sản và tài chính - ngân hàng rơi vào phân hóa",
-      "link": "http://vietstock.vn/2026/09/nhip-dap-thi-truong-2909-nhom-bat-dong-san-va-tai-chinh-ngan-hang-roi-vao-phan-hoa-1636-1496784.htm",
-      "published": "Tue, 29 Sep 2026 17:27:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "PHR bị nhắc nhở chậm công bố thông tin liên quan đợt phát hành 108 triệu cp thưởng",
-      "link": "http://vietstock.vn/2026/09/phr-bi-nhac-nho-cham-cong-bo-thong-tin-lien-quan-dot-phat-hanh-108-trieu-cp-thuong-830-1496860.htm",
-      "published": "Tue, 29 Sep 2026 16:00:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "IR Awards 2026: 6 ngân hàng được vinh danh nhóm Financial Large Cap",
-      "link": "http://vietstock.vn/2026/09/ir-awards-2026-6-ngan-hang-duoc-vinh-danh-nhom-financial-large-cap-830-1496865.htm",
-      "published": "Tue, 29 Sep 2026 14:54:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Cổ phiếu 7 phiên liên tiếp giảm sàn, KOS có ‘biến’?",
-      "link": "http://vietstock.vn/2026/09/co-phieu-7-phien-lien-tiep-giam-san-kos-co-8216bien8217-830-1496853.htm",
-      "published": "Tue, 29 Sep 2026 13:09:59 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 29/09: Tiếp tục thận trọng",
-      "link": "http://vietstock.vn/2026/09/phan-tich-ky-thuat-phien-chieu-2909-tiep-tuc-than-trong-585-1496855.htm",
-      "published": "Tue, 29 Sep 2026 13:08:24 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Một doanh nghiệp có 7 nhân sự cấp cao xin nghỉ, cổ phiếu bị siết giao dịch",
-      "link": "http://vietstock.vn/2026/09/mot-doanh-nghiep-co-7-nhan-su-cap-cao-xin-nghi-co-phieu-bi-siet-giao-dich-830-1496806.htm",
-      "published": "Tue, 29 Sep 2026 12:47:13 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Ngày 29/09/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-      "link": "http://vietstock.vn/2026/09/ngay-29092026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1496584.htm",
-      "published": "Tue, 29 Sep 2026 10:00:00 +0700"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Vàng trượt giá dù số liệu lạm phát Mỹ yếu hơn dự báo, SPDR Gold Trust bán ròng",
-      "link": "https://vneconomy.vn/vang-truot-gia-du-so-lieu-lam-phat-my-yeu-hon-du-bao-spdr-gold-trust-ban-rong.htm",
-      "published": "Thu, 01 Oct 2026 00:31:36 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Khối ngoại lại mạnh tay bán ròng gần 900 tỷ",
-      "link": "https://vneconomy.vn/khoi-ngoai-lai-manh-tay-ban-rong-gan-900-ty.htm",
-      "published": "Wed, 30 Sep 2026 13:36:20 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Đề xuất các công ty chứng khoán Việt Nam trở thành nhà tạo lập trên thị trường Singapore",
-      "link": "https://vneconomy.vn/de-xuat-cac-cong-ty-chung-khoan-viet-nam-tro-thanh-nha-tao-lap-tren-thi-truong-singapore.htm",
-      "published": "Wed, 30 Sep 2026 12:28:41 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chốt ngày toàn bộ cổ phiếu dừng giao dịch trên HNX, chuyển sang niêm yết trên HoSE ngày 28/12/2026",
-      "link": "https://vneconomy.vn/chot-ngay-toan-bo-co-phieu-dung-giao-dich-tren-hnx-chuyen-sang-niem-yet-tren-hose-ngay-28122026.htm",
-      "published": "Wed, 30 Sep 2026 11:37:43 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "10 cổ phiếu đầu tư trung và dài hạn, tiềm năng tăng giá lên tới 44%",
-      "link": "https://vneconomy.vn/10-co-phieu-dau-tu-trung-va-dai-han-tiem-nang-tang-gia-len-toi-44.htm",
-      "published": "Wed, 30 Sep 2026 09:56:05 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Blog chứng khoán: Nhu cầu cắt lỗ mạnh lên",
-      "link": "https://vneconomy.vn/blog-chung-khoan-nhu-cau-cat-lo-manh-len.htm",
-      "published": "Wed, 30 Sep 2026 09:20:56 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "HoSE ra mắt chỉ số mới, quy tụ 30 cổ phiếu lớn thanh khoản tốt, tăng trưởng cao",
-      "link": "https://vneconomy.vn/hose-ra-mat-chi-so-moi-quy-tu-30-co-phieu-lon-thanh-khoan-tot-tang-truong-cao.htm",
-      "published": "Wed, 30 Sep 2026 08:33:49 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dòng tiền tiếp tục đứng ngoài, thị trường từ từ “lịm” dần",
-      "link": "https://vneconomy.vn/dong-tien-tiep-tuc-dung-ngoai-thi-truong-tu-tu-lim-dan.htm",
-      "published": "Wed, 30 Sep 2026 08:27:22 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thanh khoản mất hút, chuyên gia chỉ ra một điểm tựa cho thị trường bật tăng trở lại",
-      "link": "https://vneconomy.vn/thanh-khoan-mat-hut-chuyen-gia-chi-ra-mot-diem-tua-cho-thi-truong-bat-tang-tro-lai.htm",
-      "published": "Wed, 30 Sep 2026 06:55:56 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Cổ phiếu dầu khí đồng loạt đỏ, PNJ thủng đáy 5 năm",
-      "link": "https://vneconomy.vn/co-phieu-dau-khi-dong-loat-do-pnj-thung-day-5-nam.htm",
-      "published": "Wed, 30 Sep 2026 05:06:40 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Hiệu suất tháng 10 thường không tốt, vẫn có cổ phiếu tiềm năng tăng giá tới 49%",
-      "link": "https://vneconomy.vn/hieu-suat-thang-10-thuong-khong-tot-van-co-co-phieu-tiem-nang-tang-gia-toi-49.htm",
-      "published": "Wed, 30 Sep 2026 03:21:34 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dòng tiền đổ mạnh vào thị trường Thái Lan và Singapore, Việt Nam hút ròng không đáng kể",
-      "link": "https://vneconomy.vn/dong-tien-do-manh-vao-thi-truong-thai-lan-va-singapore-viet-nam-hut-rong-khong-dang-ke.htm",
-      "published": "Wed, 30 Sep 2026 03:21:19 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giới chuyên gia: Xuất khẩu dầu từ Vùng Vịnh phục hồi mạnh trong tháng 9",
-      "link": "https://vneconomy.vn/gioi-chuyen-gia-xuat-khau-dau-tu-vung-vinh-phuc-hoi-manh-trong-thang-9.htm",
-      "published": "Wed, 30 Sep 2026 03:19:41 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Australia tăng lãi suất lên mức cao nhất 15 năm",
-      "link": "https://vneconomy.vn/australia-tang-lai-suat-len-muc-cao-nhat-15-nam.htm",
-      "published": "Wed, 30 Sep 2026 01:45:04 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dự báo phần lớn ngân hàng tăng trưởng lợi nhuận hai chữ số trong quý 3/2026",
-      "link": "https://vneconomy.vn/du-bao-phan-lon-ngan-hang-tang-truong-loi-nhuan-hai-chu-so-trong-quy-32026.htm",
-      "published": "Wed, 30 Sep 2026 01:44:26 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ mất điểm vì nỗi lo lãi suất tăng, giá dầu sụt giảm sau tin tốt từ Trung Đông",
-      "link": "https://vneconomy.vn/chung-khoan-my-mat-diem-vi-noi-lo-lai-suat-tang-gia-dau-sut-giam-sau-tin-tot-tu-trung-dong.htm",
-      "published": "Wed, 30 Sep 2026 01:12:17 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "SHS chi trả cổ tức tiền mặt 5%, chia sẻ giá trị cùng cổ đông trên hành trình tăng trưởng mới",
-      "link": "https://vneconomy.vn/shs-chi-tra-co-tuc-tien-mat-5-chia-se-gia-tri-cung-co-dong-tren-hanh-trinh-tang-truong-moi.htm",
-      "published": "Wed, 30 Sep 2026 01:00:00 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giá vàng phục hồi dù tỷ giá USD và lợi suất trái phiếu tiếp tục tăng",
-      "link": "https://vneconomy.vn/gia-vang-phuc-hoi-du-ty-gia-usd-va-loi-suat-trai-phieu-tiep-tuc-tang.htm",
-      "published": "Wed, 30 Sep 2026 00:21:28 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index giảm nhẹ, nhà đầu tư thận trọng trước kháng cự 1800 điểm",
-      "link": "https://vneconomy.vn/vn-index-giam-nhe-nha-dau-tu-than-trong-truoc-khang-cu-1800-diem.htm",
-      "published": "Tue, 29 Sep 2026 16:17:38 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dự báo top 10 doanh nghiệp lợi nhuận bùng nổ, tăng lên tới 183% trong quý 3/2026",
-      "link": "https://vneconomy.vn/du-bao-top-10-doanh-nghiep-loi-nhuan-bung-no-tang-len-toi-183-trong-quy-32026.htm",
-      "published": "Tue, 29 Sep 2026 13:29:38 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Khối ngoại tiếp tục bán ròng, nhưng bất ngờ mua mạnh một cổ phiếu dầu khí",
-      "link": "https://vneconomy.vn/khoi-ngoai-tiep-tuc-ban-rong-nhung-bat-ngo-mua-manh-mot-co-phieu-dau-khi.htm",
-      "published": "Tue, 29 Sep 2026 12:30:30 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Quỹ ngoại: Hiệu suất đầu tư kém do mức độ tập trung bất thường của diễn biến VN-Index",
-      "link": "https://vneconomy.vn/quy-ngoai-hieu-suat-dau-tu-kem-do-muc-do-tap-trung-bat-thuong-cua-dien-bien-vn-index.htm",
-      "published": "Tue, 29 Sep 2026 08:44:05 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Sàng lọc 5 cổ phiếu hưởng lợi lớn từ mặt bằng lãi suất cao",
-      "link": "https://vneconomy.vn/sang-loc-5-co-phieu-huong-loi-lon-tu-mat-bang-lai-suat-cao.htm",
-      "published": "Tue, 29 Sep 2026 08:41:40 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Cổ phiếu dầu khí, cao su tăng mạnh",
-      "link": "https://vneconomy.vn/co-phieu-dau-khi-cao-su-tang-manh.htm",
-      "published": "Tue, 29 Sep 2026 08:35:51 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Michael Burry cảnh báo bong bóng AI có thể vỡ sớm hơn so với dự kiến ban đầu",
-      "link": "https://vneconomy.vn/michael-burry-canh-bao-bong-bong-ai-co-the-vo-som-hon-so-voi-du-kien-ban-dau.htm",
-      "published": "Tue, 29 Sep 2026 08:02:30 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Biên lợi nhuận của 30 công ty có doanh thu lớn nhất thế giới",
-      "link": "https://vneconomy.vn/bien-loi-nhuan-cua-30-cong-ty-co-doanh-thu-lon-nhat-the-gioi.htm",
-      "published": "Tue, 29 Sep 2026 07:01:33 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Goldman Sachs giữ nguyên dự báo giá vàng đạt 4.900 USD/oz trước cuối năm 2026",
-      "link": "https://vneconomy.vn/goldman-sachs-giu-nguyen-du-bao-gia-vang-dat-4900-usdoz-truoc-cuoi-nam-2026.htm",
-      "published": "Tue, 29 Sep 2026 07:00:55 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dự báo lợi nhuận toàn thị trường quý 3/2026 tăng 25%, dầu khí, bán lẻ bùng nổ",
-      "link": "https://vneconomy.vn/du-bao-loi-nhuan-toan-thi-truong-quy-32026-tang-25-dau-khi-ban-le-bung-no.htm",
-      "published": "Tue, 29 Sep 2026 07:00:46 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thanh khoản sụt giảm nghiêm trọng",
-      "link": "https://vneconomy.vn/thanh-khoan-sut-giam-nghiem-trong.htm",
-      "published": "Tue, 29 Sep 2026 04:59:40 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Cổ phiếu dầu khí tiếp tục hưởng lợi nhờ giá dầu neo cao do căng thẳng Trung Đông",
-      "link": "https://vneconomy.vn/co-phieu-dau-khi-tiep-tuc-huong-loi-nho-gia-dau-neo-cao-do-cang-thang-trung-dong.htm",
-      "published": "Tue, 29 Sep 2026 04:22:21 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Đồng yên hồi giá mạnh sau cảnh báo mới từ Nhật Bản",
-      "link": "https://vneconomy.vn/dong-yen-hoi-gia-manh-sau-canh-bao-moi-tu-nhat-ban.htm",
-      "published": "Tue, 29 Sep 2026 03:16:30 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Sở Giao dịch chứng khoán Tp.HCM tiếp tục bị giả mạo",
-      "link": "https://vneconomy.vn/so-giao-dich-chung-khoan-tphcm-tiep-tuc-bi-gia-mao.htm",
-      "published": "Tue, 29 Sep 2026 01:47:59 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Đà bán tháo trên thị trường trái phiếu chính phủ quốc tế gia tăng theo giá dầu",
-      "link": "https://vneconomy.vn/da-ban-thao-tren-thi-truong-trai-phieu-chinh-phu-quoc-te-gia-tang-theo-gia-dau.htm",
-      "published": "Tue, 29 Sep 2026 01:47:09 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ “xả hàng” theo thị trường trái phiếu chính phủ, giá dầu giữ đà tăng",
-      "link": "https://vneconomy.vn/chung-khoan-my-xa-hang-theo-thi-truong-trai-phieu-chinh-phu-gia-dau-giu-da-tang.htm",
-      "published": "Tue, 29 Sep 2026 00:57:43 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giá vàng “bốc hơi” 170 USD/oz, SPDR Gold Trust mua ròng hơn 4 tấn",
-      "link": "https://vneconomy.vn/gia-vang-boc-hoi-170-usdoz-spdr-gold-trust-mua-rong-hon-4-tan.htm",
-      "published": "Tue, 29 Sep 2026 00:18:02 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index giảm nhẹ, nhà đầu tư thận trọng giữa áp lực bán",
-      "link": "https://vneconomy.vn/vn-index-giam-nhe-nha-dau-tu-than-trong-giua-ap-luc-ban.htm",
-      "published": "Mon, 28 Sep 2026 14:00:04 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Lợi suất trái phiếu chính phủ tăng cao đe dọa các công ty vay nợ nhiều để đầu tư AI",
-      "link": "https://vneconomy.vn/loi-suat-trai-phieu-chinh-phu-tang-cao-de-doa-cac-cong-ty-vay-no-nhieu-de-dau-tu-ai.htm",
-      "published": "Mon, 28 Sep 2026 12:11:55 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Pyn Elite Fund: Khó hiểu khi nhiều doanh nghiệp tốt giá cổ phiếu lại giảm, nhiều quỹ đã phải đóng cửa",
-      "link": "https://vneconomy.vn/pyn-elite-fund-kho-hieu-khi-nhieu-doanh-nghiep-tot-gia-co-phieu-lai-giam-nhieu-quy-da-phai-dong-cua.htm",
-      "published": "Mon, 28 Sep 2026 09:22:47 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Blog chứng khoán: Có cầu bắt đáy vùng giá sâu",
-      "link": "https://vneconomy.vn/blog-chung-khoan-co-cau-bat-day-vung-gia-sau.htm",
-      "published": "Mon, 28 Sep 2026 09:21:49 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Cổ phiếu lớn kéo VN-Index hồi điểm, dầu khí, bảo hiểm tăng bùng nổ",
-      "link": "https://vneconomy.vn/co-phieu-lon-keo-vn-index-hoi-diem-dau-khi-bao-hiem-tang-bung-no.htm",
-      "published": "Mon, 28 Sep 2026 08:37:28 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Cổ phiếu tiêu dùng Trung Quốc thất thế trong lúc cổ phiếu AI lên cơn sốt",
-      "link": "https://vneconomy.vn/co-phieu-tieu-dung-trung-quoc-that-the-trong-luc-co-phieu-ai-len-con-sot.htm",
-      "published": "Mon, 28 Sep 2026 06:46:24 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Nguy cơ VN-Index chuyển sang xu hướng điều chỉnh ngắn hạn sau nâng hạng",
-      "link": "https://vneconomy.vn/nguy-co-vn-index-chuyen-sang-xu-huong-dieu-chinh-ngan-han-sau-nang-hang.htm",
-      "published": "Mon, 28 Sep 2026 06:44:06 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tiền đang đổ vào nhóm ngân hàng, khối ngoại vẫn bán ròng 2.700 tỷ tuần qua",
-      "link": "https://vneconomy.vn/tien-dang-do-vao-nhom-ngan-hang-khoi-ngoai-van-ban-rong-2700-ty-tuan-qua.htm",
-      "published": "Mon, 28 Sep 2026 06:43:39 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chuyên gia: Dòng tiền lớn vẫn suy giảm, cần tập trung vào doanh nghiệp chất lượng",
-      "link": "https://vneconomy.vn/chuyen-gia-dong-tien-lon-van-suy-giam-can-tap-trung-vao-doanh-nghiep-chat-luong.htm",
-      "published": "Mon, 28 Sep 2026 06:43:32 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dự báo lợi nhuận nhóm ngân hàng tăng hơn 19% trong quý 3, áp lực nợ xấu chưa rõ nét",
-      "link": "https://vneconomy.vn/du-bao-loi-nhuan-nhom-ngan-hang-tang-hon-19-trong-quy-3-ap-luc-no-xau-chua-ro-net.htm",
-      "published": "Mon, 28 Sep 2026 06:43:24 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "47% tỷ trọng danh mục của quỹ đầu tư là ngân hàng và bất động sản",
-      "link": "https://vneconomy.vn/47-ty-trong-danh-muc-cua-quy-dau-tu-la-ngan-hang-va-bat-dong-san.htm",
-      "published": "Mon, 28 Sep 2026 06:42:54 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Đồng USD vững gần đỉnh 2 tháng, đồng yên giảm trở lại dù Nhật Bản cảnh báo can thiệp",
-      "link": "https://vneconomy.vn/dong-usd-vung-gan-dinh-2-thang-dong-yen-giam-tro-lai-du-nhat-ban-canh-bao-can-thiep.htm",
-      "published": "Mon, 28 Sep 2026 06:42:23 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giá vàng giảm chóng mặt sáng đầu tuần vì mối lo lạm phát và lãi suất",
-      "link": "https://vneconomy.vn/gia-vang-giam-chong-mat-sang-dau-tuan-vi-moi-lo-lam-phat-va-lai-suat.htm",
-      "published": "Mon, 28 Sep 2026 01:27:12 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tổng thống Trump từ chối đề xuất ngừng bắn của Iran, Tehran tuyên bố không nhượng bộ",
-      "link": "https://vneconomy.vn/tong-thong-trump-tu-choi-de-xuat-ngung-ban-cua-iran-tehran-tuyen-bo-khong-nhuong-bo.htm",
-      "published": "Mon, 28 Sep 2026 00:55:51 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Xu thế dòng tiền: Kỳ vọng gì ở số liệu vĩ mô quý 3?",
-      "link": "https://vneconomy.vn/xu-the-dong-tien-ky-vong-gi-o-so-lieu-vi-mo-quy-3.htm",
-      "published": "Sun, 27 Sep 2026 03:51:24 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Taseco Group muốn tăng sở hữu Taseco Land lên hơn 61%",
+      "link": "https://vnbusiness.vn//taseco-group-muon-tang-so-huu-taseco-land-len-hon-61.html",
+      "published": "Thu, 01 Oct 2026 04:31:19 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1009,18 +715,6 @@
       "title": "CEO Group lãi tăng 54%, nhưng hơn 1.600 tỷ đồng tiền kinh doanh đã ‘chảy ra’ trong 6 tháng",
       "link": "https://vnbusiness.vn//ceo-group-lai-tang-54-nhung-hon-1600-ty-dong-tien-kinh-doanh-da-chay-ra-trong-6-thang.html",
       "published": "Wed, 16 Sep 2026 08:49:42 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Thuduc House: Lợi nhuận giảm hơn 85% sau soát xét, lỗ lũy kế gần 1.000 tỷ đồng, cổ phiếu dưới mệnh giá",
-      "link": "https://vnbusiness.vn//thuduc-house-loi-nhuan-giam-hon-85-sau-soat-xet-lo-luy-ke-gan-1000-ty-dong-co-phieu-duoi-menh-gia.html",
-      "published": "Wed, 16 Sep 2026 05:41:38 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "‘Gã khổng lồ’ Nhật Bản Sojitz nâng cao hiện diện tại hệ sinh thái Taseco",
-      "link": "https://vnbusiness.vn//ga-khong-lo-nhat-ban-sojitz-nang-cao-hien-dien-tai-he-sinh-thai-taseco.html",
-      "published": "Wed, 16 Sep 2026 03:18:45 GMT"
     }
   ]
 }
