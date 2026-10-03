@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-03T12:17:00.629637+00:00",
+  "collected_at": "2026-10-03T17:01:35.105005+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Tuần cuối tháng 9, cổ phiếu vốn hóa lớn đè nặng VN-Index",
+      "link": "http://vietstock.vn/2026/10/tuan-cuoi-thang-9-co-phieu-von-hoa-lon-de-nang-vn-index-830-1498684.htm",
+      "published": "Sat, 03 Oct 2026 20:30:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "POS chốt quyền phát hành gần 7 triệu cp thưởng",
       "link": "http://vietstock.vn/2026/10/pos-chot-quyen-phat-hanh-gan-7-trieu-cp-thuong-830-1498666.htm",
       "published": "Sat, 03 Oct 2026 12:18:03 +0700"
@@ -417,10 +423,10 @@
       "published": "Thu, 01 Oct 2026 12:43:14 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phép thử với cổ đông tại PNJ",
-      "link": "http://vietstock.vn/2026/10/phep-thu-voi-co-dong-tai-pnj-830-1497788.htm",
-      "published": "Thu, 01 Oct 2026 12:35:53 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Bộ trưởng Tài chính: Kiên trì tất cả mục tiêu phát triển thị trường chứng khoán trong thời gian tới",
+      "link": "https://vneconomy.vn/bo-truong-tai-chinh-kien-tri-tat-ca-muc-tieu-phat-trien-thi-truong-chung-khoan-trong-thoi-gian-toi.htm",
+      "published": "Sat, 03 Oct 2026 15:19:55 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "VN-Index giảm nhẹ, nhà đầu tư thận trọng trước kháng cự 1800 điểm",
       "link": "https://vneconomy.vn/vn-index-giam-nhe-nha-dau-tu-than-trong-truoc-khang-cu-1800-diem.htm",
       "published": "Tue, 29 Sep 2026 16:17:38 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dự báo top 10 doanh nghiệp lợi nhuận bùng nổ, tăng lên tới 183% trong quý 3/2026",
-      "link": "https://vneconomy.vn/du-bao-top-10-doanh-nghiep-loi-nhuan-bung-no-tang-len-toi-183-trong-quy-32026.htm",
-      "published": "Tue, 29 Sep 2026 13:29:38 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
