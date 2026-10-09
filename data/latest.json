@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-10-09T08:34:26.503854+00:00",
+  "collected_at": "2026-10-09T15:52:15.196123+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một cổ phiếu bất ngờ bị khối ngoại \"xả\" đột biến hơn 9.600 tỷ đồng phiên cuối tuần",
+      "link": "https://cafef.vn/mot-co-phieu-bat-ngo-bi-khoi-ngoai-xa-dot-bien-hon-9600-ty-dong-phien-cuoi-tuan-188261009153241263.chn",
+      "published": "Fri, 09 Oct 26 15:45:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Bà Nguyễn Thị Như Loan từ án treo xuống cải tạo không giam giữ, đã chấp hành xong",
+      "link": "https://cafef.vn/ba-nguyen-thi-nhu-loan-tu-an-treo-xuong-cai-tao-khong-giam-giu-da-chap-hanh-xong-188261009145513445.chn",
+      "published": "Fri, 09 Oct 26 15:45:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Cổ phiếu Novaland bất ngờ \"có biến\"",
@@ -16,7 +28,7 @@
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Một tiến sĩ vừa bị miễn nhiệm",
+      "title": "CTCK miễn nhiệm một Phó tổng giám đốc",
       "link": "https://cafef.vn/mot-tien-si-vua-bi-mien-nhiem-188261009132407186.chn",
       "published": "Fri, 09 Oct 26 13:24:00 +0700"
     },
@@ -291,16 +303,22 @@
       "published": "Thu, 08 Oct 26 00:01:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một cổ phiếu trên HOSE tăng dựng đứng lên đỉnh lịch sử, sắp họp cổ đông bất thường",
-      "link": "https://cafef.vn/mot-co-phieu-tren-hose-tang-dung-dung-len-dinh-lich-su-sap-hop-co-dong-bat-thuong-188261007153931973.chn",
-      "published": "Wed, 07 Oct 26 19:00:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Đầu tư Phúc Hậu bị phạt lỗi công bố thông tin trong hoạt động trái phiếu",
+      "link": "http://vietstock.vn/2026/10/dau-tu-phuc-hau-bi-phat-loi-cong-bo-thong-tin-trong-hoat-dong-trai-phieu-830-1501136.htm",
+      "published": "Fri, 09 Oct 2026 19:33:51 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một cổ phiếu bốc đầu kịch trần trước ngày \"phát\" 900 tỷ đồng cho cổ đông",
-      "link": "https://cafef.vn/mot-co-phieu-boc-dau-kich-tran-truoc-ngay-phat-900-ty-dong-cho-co-dong-188261007135858168.chn",
-      "published": "Wed, 07 Oct 26 18:45:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Theo dấu dòng tiền cá mập 09/10: Khối ngoại bán ròng 185 tỷ đồng, Tự doanh mua ròng 266 tỷ đồng",
+      "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-0910-khoi-ngoai-ban-rong-185-ty-dong-tu-doanh-mua-rong-266-ty-dong-830-1501105.htm",
+      "published": "Fri, 09 Oct 2026 18:42:38 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "Chứng khoán Tuần 05-09/10/2026: Chưa thể khởi sắc",
+      "link": "http://vietstock.vn/2026/10/chung-khoan-tuan-05-09102026-chua-the-khoi-sac-1636-1501066.htm",
+      "published": "Fri, 09 Oct 2026 18:17:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -403,24 +421,6 @@
       "title": "08/10: Đọc gì trước giờ giao dịch chứng khoán?",
       "link": "http://vietstock.vn/2026/10/0810-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1499954.htm",
       "published": "Thu, 08 Oct 2026 06:02:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "SPC và PSH bị phạt do vi phạm công bố thông tin",
-      "link": "http://vietstock.vn/2026/10/spc-va-psh-bi-phat-do-vi-pham-cong-bo-thong-tin-830-1499937.htm",
-      "published": "Wed, 07 Oct 2026 19:47:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 07/10: Khối ngoại bán ròng phiên thứ 4 liên tiếp, tâm điểm PNJ",
-      "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-0710-khoi-ngoai-ban-rong-phien-thu-4-lien-tiep-tam-diem-pnj-830-1499934.htm",
-      "published": "Wed, 07 Oct 2026 19:33:36 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 08/10/2026: Nhịp hồi chưa đủ lực?",
-      "link": "http://vietstock.vn/2026/10/vietstock-daily-08102026-nhip-hoi-chua-du-luc-1636-1499804.htm",
-      "published": "Wed, 07 Oct 2026 18:17:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -724,6 +724,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Sát ngày bị đình chỉ giao dịch, cổ phiếu DRH tiếp tục giảm kịch sàn",
+      "link": "https://vnbusiness.vn//sat-ngay-bi-dinh-chi-giao-dich-co-phieu-drh-tiep-tuc-giam-kich-san.html",
+      "published": "Fri, 09 Oct 2026 08:46:05 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Công bố kết quả kiểm định độc lập, cổ phiếu PNJ đảo chiều tăng trần",
       "link": "https://vnbusiness.vn//cong-bo-ket-qua-kiem-dinh-doc-lap-co-phieu-pnj-dao-chieu-tang-tran.html",
       "published": "Fri, 09 Oct 2026 03:35:35 GMT"
@@ -1015,12 +1021,6 @@
       "title": "846.000 tỷ đồng AUM, 89% đến từ ủy thác: Ngành quỹ cần thêm vốn dài hạn",
       "link": "https://vnbusiness.vn//846000-ty-dong-aum-89-den-tu-uy-thac-nganh-quy-can-them-von-dai-han.html",
       "published": "Wed, 23 Sep 2026 00:06:44 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "KOS giảm sàn 2 phiên, lãnh đạo bị bán giải chấp giữa áp lực tồn kho, nợ vay",
-      "link": "https://vnbusiness.vn//kos-giam-san-2-phien-lanh-dao-bi-ban-giai-chap-giua-ap-luc-ton-kho-no-vay.html",
-      "published": "Tue, 22 Sep 2026 09:43:32 GMT"
     }
   ]
 }
