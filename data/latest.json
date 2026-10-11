@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-11T19:57:53.744682+00:00",
+  "collected_at": "2026-10-11T23:34:21.506495+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "12/10: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/10/1210-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1501226.htm",
+      "published": "Mon, 12 Oct 2026 06:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Hơn 60% cổ phiếu niêm yết giảm giá hoặc đứng yên trong tuần 05 - 09/10",
       "link": "http://vietstock.vn/2026/10/hon-60-co-phieu-niem-yet-giam-gia-hoac-dung-yen-trong-tuan-05-0910-830-1501218.htm",
       "published": "Sun, 11 Oct 2026 21:02:00 +0700"
@@ -415,12 +421,6 @@
       "title": "Phân tích kỹ thuật phiên chiều 08/10: Tín hiệu trái chiều hiện hữu",
       "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-0810-tin-hieu-trai-chieu-hien-huu-585-1500127.htm",
       "published": "Thu, 08 Oct 2026 13:03:18 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Thanh khoản HOSE sụt giảm, khối ngoại bán ròng hơn 4.7 ngàn tỷ đồng trong tháng 9",
-      "link": "http://vietstock.vn/2026/10/thanh-khoan-hose-sut-giam-khoi-ngoai-ban-rong-hon-47-ngan-ty-dong-trong-thang-9-830-1500131.htm",
-      "published": "Thu, 08 Oct 2026 12:59:34 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
