@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-10-13T22:36:55.647002+00:00",
+  "collected_at": "2026-10-14T01:39:54.706859+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Sau hơn một thập kỷ đầu tư, MSR bắt đầu đóng góp nguồn tiền lớn cho Masan",
+      "link": "https://cafef.vn/sau-hon-mot-thap-ky-dau-tu-msr-bat-dau-dong-gop-nguon-tien-lon-cho-masan-188261013151241142.chn",
+      "published": "Wed, 14 Oct 26 08:00:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Một gia đình Việt có hai chị em đều là tỷ phú USD",
@@ -16,8 +22,8 @@
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Một quỹ đầu tư bất ngờ bán sạch cổ phiếu Vingroup trong tháng 9",
-      "link": "https://cafef.vn/mot-quy-dau-tu-bat-ngo-ban-sach-co-phieu-vingroup-trong-thang-9-188261013224247368.chn",
+      "title": "Một quỹ đầu tư bất ngờ bán sạch cổ phiếu tỷ trọng lớn nhất danh mục trong tháng 9",
+      "link": "https://cafef.vn/mot-quy-dau-tu-bat-ngo-ban-sach-co-phieu-ty-trong-lon-nhat-danh-muc-trong-thang-9-188261013224247368.chn",
       "published": "Wed, 14 Oct 26 00:03:00 +0700"
     },
     {
@@ -297,10 +303,16 @@
       "published": "Mon, 12 Oct 26 17:33:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cổ phiếu doanh nghiệp đề xuất xây tòa tháp đôi cao nhất thế giới \"có biến\"",
-      "link": "https://cafef.vn/co-phieu-doanh-nghiep-de-xuat-xay-toa-thap-doi-cao-nhat-the-gioi-co-bien-188261012170434793.chn",
-      "published": "Mon, 12 Oct 26 17:32:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 14/10",
+      "link": "http://vietstock.vn/2026/10/top-co-phieu-dang-chu-y-dau-phien-1410-830-1502098.htm",
+      "published": "Wed, 14 Oct 2026 08:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "14/10: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/10/1410-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1502087.htm",
+      "published": "Wed, 14 Oct 2026 06:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -411,16 +423,16 @@
       "published": "Mon, 12 Oct 2026 12:15:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Masan Consumer qua góc nhìn các công ty chứng khoán: Lợi thế nào cho tăng trưởng dài hạn?",
-      "link": "http://vietstock.vn/2026/10/masan-consumer-qua-goc-nhin-cac-cong-ty-chung-khoan-loi-the-nao-cho-tang-truong-dai-han-830-1501362.htm",
-      "published": "Mon, 12 Oct 2026 12:02:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ mất điểm trong ngày đầu của mùa báo cáo tài chính, giá dầu thô giằng co",
+      "link": "https://vneconomy.vn/chung-khoan-my-mat-diem-trong-ngay-dau-cua-mua-bao-cao-tai-chinh-gia-dau-tho-giang-co.htm",
+      "published": "Wed, 14 Oct 2026 01:03:42 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Tuần 12-16/10/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-      "link": "http://vietstock.vn/2026/10/tuan-12-16102026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1501170.htm",
-      "published": "Mon, 12 Oct 2026 10:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng suy yếu trước thềm báo cáo CPI Mỹ và phát biểu của Chủ tịch Fed",
+      "link": "https://vneconomy.vn/gia-vang-suy-yeu-truoc-them-bao-cao-cpi-my-va-phat-bieu-cua-chu-tich-fed.htm",
+      "published": "Wed, 14 Oct 2026 00:23:56 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Fri, 09 Oct 2026 01:47:29 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ rung lắc vì tin về doanh thu của OpenAI, giá dầu tăng 4%",
-      "link": "https://vneconomy.vn/chung-khoan-my-rung-lac-vi-tin-ve-doanh-thu-cua-openai-gia-dau-tang-4.htm",
-      "published": "Fri, 09 Oct 2026 01:23:47 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "DNSE đạt kỷ lục 26,62% thị phần phái sinh, nối dài 8 quý liên tiếp giữ vị trí Top 2",
-      "link": "https://vneconomy.vn/dnse-dat-ky-luc-2662-thi-phan-phai-sinh-noi-dai-8-quy-lien-tiep-giu-vi-tri-top-2.htm",
-      "published": "Fri, 09 Oct 2026 01:00:00 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Cổ phiếu rẻ nhất 5 năm, vì sao dòng tiền vẫn thận trọng?",
+      "link": "https://vnbusiness.vn//co-phieu-re-nhat-5-nam-vi-sao-dong-tien-van-than-trong.html",
+      "published": "Wed, 14 Oct 2026 01:01:56 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "SMBC tính gom hơn 600 triệu cổ phiếu VPB trên sàn: Quy mô 13.800 tỷ đồng, cần gần 40 phiên nếu mua đều",
       "link": "https://vnbusiness.vn//smbc-tinh-gom-hon-600-trieu-co-phieu-vpb-tren-san-quy-mo-13800-ty-dong-can-gan-40-phien-neu-mua-deu.html",
       "published": "Fri, 25 Sep 2026 08:12:51 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "GELEX vừa thành cổ đông lớn đã bán sạch HAH: Hơn 9,7 triệu cổ phiếu sang tay, gần 500 tỷ đồng",
-      "link": "https://vnbusiness.vn//gelex-vua-thanh-co-dong-lon-da-ban-sach-hah-hon-97-trieu-co-phieu-sang-tay-gan-500-ty-dong.html",
-      "published": "Fri, 25 Sep 2026 04:02:47 GMT"
     }
   ]
 }
