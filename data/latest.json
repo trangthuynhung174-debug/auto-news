@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-15T21:58:58.076848+00:00",
+  "collected_at": "2026-10-16T00:15:59.433765+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "16/10: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/10/1610-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1502836.htm",
+      "published": "Fri, 16 Oct 2026 06:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Theo dấu dòng tiền cá mập 15/10: Khối ngoại và tự doanh bán ròng gần ngàn tỷ",
       "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-1510-khoi-ngoai-va-tu-doanh-ban-rong-gan-ngan-ty-830-1502820.htm",
       "published": "Thu, 15 Oct 2026 19:28:09 +0700"
@@ -415,12 +421,6 @@
       "title": "Nhịp đập Thị trường 13/10: Sắc đỏ chiếm ưu thế, VN-Index giảm nhẹ",
       "link": "http://vietstock.vn/2026/10/nhip-dap-thi-truong-1310-sac-do-chiem-uu-the-vn-index-giam-nhe-1636-1501763.htm",
       "published": "Tue, 13 Oct 2026 16:57:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 13/10: Áp lực bán vẫn hiện hữu",
-      "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-1310-ap-luc-ban-van-hien-huu-585-1501819.htm",
-      "published": "Tue, 13 Oct 2026 13:02:26 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
