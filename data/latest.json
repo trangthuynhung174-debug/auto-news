@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-10-18T08:38:30.852321+00:00",
+  "collected_at": "2026-10-18T13:01:55.725563+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Lãi suất cao tiếp tục 'thử thách' chứng khoán?",
+      "link": "https://cafef.vn/lai-suat-cao-tiep-tuc-thu-thach-chung-khoan-188261018171230793.chn",
+      "published": "Sun, 18 Oct 26 17:59:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Góc nhìn chuyên gia: VN-Index còn nguy cơ giảm, ba nhóm cổ phiếu kỳ vọng hút dòng tiền sau mùa KQKD quý 3",
+      "link": "https://cafef.vn/goc-nhin-chuyen-gia-vn-index-con-nguy-co-giam-sau-ba-nhom-co-phieu-ky-vong-hut-dong-tien-sau-mua-kqkd-quy-3-188261018161028566.chn",
+      "published": "Sun, 18 Oct 26 16:55:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ phiếu AGG rơi về vùng đáy lịch sử, chị gái Chủ tịch Nguyễn Bá Sáng đăng ký gom thêm 3 triệu cổ phiếu",
+      "link": "https://cafef.vn/co-phieu-agg-roi-ve-vung-day-lich-su-chi-gai-chu-tich-nguyen-ba-sang-dang-ky-gom-them-3-trieu-co-phieu-18826101815160176.chn",
+      "published": "Sun, 18 Oct 26 15:59:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Cổ phiếu VPG bị chuyển sang diện hạn chế giao dịch",
@@ -285,22 +303,10 @@
       "published": "Fri, 16 Oct 26 11:22:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Doanh nghiệp liên quan Chủ tịch Kosy Group tiếp tục bị bán giải chấp cổ phiếu KOS",
-      "link": "https://cafef.vn/doanh-nghiep-lien-quan-chu-tich-kosy-group-tiep-tuc-bi-ban-giai-chap-co-phieu-kos-188261016110821313.chn",
-      "published": "Fri, 16 Oct 26 11:08:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Samland và Dầu khí Nam Sông Hậu bị hủy tư cách công ty đại chúng",
-      "link": "https://cafef.vn/samland-va-dau-khi-nam-song-hau-bi-huy-tu-cach-cong-ty-dai-chung-188261016110702518.chn",
-      "published": "Fri, 16 Oct 26 11:06:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Dự báo VN-Index chạm 1.940 điểm năm 2027: Nhà đầu tư trước bài toán định giá mới",
-      "link": "https://cafef.vn/du-bao-vn-index-cham-1940-diem-nam-2027-nha-dau-tu-truoc-bai-toan-dinh-gia-moi-188261016110113117.chn",
-      "published": "Fri, 16 Oct 26 11:01:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Vietstock Weekly 19-23/10/2026: Nối dài chuỗi giảm",
+      "link": "http://vietstock.vn/2026/10/vietstock-weekly-19-23102026-noi-dai-chuoi-giam-1636-1503389.htm",
+      "published": "Sun, 18 Oct 2026 18:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,10 @@
       "published": "Wed, 14 Oct 2026 12:30:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "HTP bị phạt hơn 200 triệu, tiếp nối chuỗi ngày lận đận",
-      "link": "http://vietstock.vn/2026/10/htp-bi-phat-hon-200-trieu-tiep-noi-chuoi-ngay-lan-dan-830-1502150.htm",
-      "published": "Wed, 14 Oct 2026 11:30:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Ủy ban Mặt trận Tổ quốc Việt Nam và Sabeco công bố giải thưởng \"Vinh danh người truyền lửa\" năm 2026",
+      "link": "https://vneconomy.vn/uy-ban-mat-tran-to-quoc-viet-nam-va-sabeco-cong-bo-giai-thuong-vinh-danh-nguoi-truyen-lua-nam-2026.htm",
+      "published": "Sun, 18 Oct 2026 10:02:32 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Đồng USD xuống thang từ đỉnh 18 tháng",
       "link": "https://vneconomy.vn/dong-usd-xuong-thang-tu-dinh-18-thang.htm",
       "published": "Wed, 14 Oct 2026 06:54:04 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dòng tiền “buông tay”, VN-Index phá đáy ngắn hạn",
-      "link": "https://vneconomy.vn/dong-tien-buong-tay-vn-index-pha-day-ngan-han.htm",
-      "published": "Wed, 14 Oct 2026 05:03:25 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
