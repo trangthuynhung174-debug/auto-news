@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-10-18T13:01:55.725563+00:00",
+  "collected_at": "2026-10-18T17:07:03.992015+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một tháng từ khi nâng hạng: Khối ngoại bán ròng gần tỷ USD, VN-Index mất 110 điểm",
+      "link": "https://cafef.vn/mot-thang-tu-khi-nang-hang-khoi-ngoai-ban-rong-gan-ty-usd-vn-index-mat-110-diem-188261018235006667.chn",
+      "published": "Mon, 19 Oct 26 00:01:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chuyên gia: Chứng khoán tuần tới có thể xuất hiện nhịp hồi phục kỹ thuật",
+      "link": "https://cafef.vn/chuyen-gia-chung-khoan-tuan-toi-co-the-xuat-hien-nhip-hoi-phuc-ky-thuat-188261018221320642.chn",
+      "published": "Sun, 18 Oct 26 22:13:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Lãi suất cao tiếp tục 'thử thách' chứng khoán?",
@@ -291,16 +303,10 @@
       "published": "Fri, 16 Oct 26 14:42:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một doanh nghiệp báo lãi quý 3 tăng 136%, xuất hiện khoản phải thu bất ngờ",
-      "link": "https://cafef.vn/mot-doanh-nghiep-bao-lai-quy-3-tang-136-xuat-hien-khoan-phai-thu-bat-ngo-188261016134701303.chn",
-      "published": "Fri, 16 Oct 26 13:46:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng đi ngang ngày 3 liên tiếp",
-      "link": "https://cafef.vn/gia-vang-di-ngang-ngay-3-lien-tiep-188261016110717791.chn",
-      "published": "Fri, 16 Oct 26 11:22:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Tuần 12-16/10: Vingroup kéo lùi, ngân hàng đỡ VN-Index",
+      "link": "http://vietstock.vn/2026/10/tuan-12-1610-vingroup-keo-lui-ngan-hang-do-vn-index-830-1503404.htm",
+      "published": "Sun, 18 Oct 2026 22:50:35 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -415,18 +421,6 @@
       "title": "Phân tích kỹ thuật phiên chiều 14/10: Thị trường phân hóa",
       "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-1410-thi-truong-phan-hoa-585-1502234.htm",
       "published": "Wed, 14 Oct 2026 13:02:44 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "DVM giải trình lý do cổ phiếu bị đình chỉ giao dịch",
-      "link": "http://vietstock.vn/2026/10/dvm-giai-trinh-ly-do-co-phieu-bi-dinh-chi-giao-dich-830-1502194.htm",
-      "published": "Wed, 14 Oct 2026 12:30:00 +0700"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Ủy ban Mặt trận Tổ quốc Việt Nam và Sabeco công bố giải thưởng \"Vinh danh người truyền lửa\" năm 2026",
-      "link": "https://vneconomy.vn/uy-ban-mat-tran-to-quoc-viet-nam-va-sabeco-cong-bo-giai-thuong-vinh-danh-nguoi-truyen-lua-nam-2026.htm",
-      "published": "Sun, 18 Oct 2026 10:02:32 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -721,6 +715,12 @@
       "title": "Đồng USD xuống thang từ đỉnh 18 tháng",
       "link": "https://vneconomy.vn/dong-usd-xuong-thang-tu-dinh-18-thang.htm",
       "published": "Wed, 14 Oct 2026 06:54:04 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Dòng tiền “buông tay”, VN-Index phá đáy ngắn hạn",
+      "link": "https://vneconomy.vn/dong-tien-buong-tay-vn-index-pha-day-ngan-han.htm",
+      "published": "Wed, 14 Oct 2026 05:03:25 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
