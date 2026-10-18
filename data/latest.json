@@ -1,7 +1,31 @@
 {
-  "collected_at": "2026-10-18T03:28:48.335979+00:00",
+  "collected_at": "2026-10-18T08:38:30.852321+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ phiếu VPG bị chuyển sang diện hạn chế giao dịch",
+      "link": "https://cafef.vn/co-phieu-vpg-bi-chuyen-sang-dien-han-che-giao-dich-188261018151457076.chn",
+      "published": "Sun, 18 Oct 26 15:14:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vì sao chứng khoán Bảo Minh tạm dừng kế hoạch chuyển sàn từ UpCOM lên HOSE",
+      "link": "https://cafef.vn/vi-sao-chung-khoan-bao-minh-tam-dung-ke-hoach-chuyen-san-tu-upcom-len-hose-188261018123342541.chn",
+      "published": "Sun, 18 Oct 26 12:43:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "TPHCM sắp thoái vốn tại nhiều doanh nghiệp",
+      "link": "https://cafef.vn/tphcm-sap-thoai-von-tai-nhieu-doanh-nghiep-188261018105319475.chn",
+      "published": "Sun, 18 Oct 26 11:52:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Viconship muốn cho công ty con vay 120 tỷ đồng",
+      "link": "https://cafef.vn/viconship-muon-cho-cong-ty-con-vay-120-ty-dong-188261018100237454.chn",
+      "published": "Sun, 18 Oct 26 10:42:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "SSI mua lại hơn 800.000 cổ phiếu ESOP làm cổ phiếu quỹ",
@@ -279,30 +303,6 @@
       "published": "Fri, 16 Oct 26 11:01:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Xây dựng thị trường chứng khoán thành kênh hình thành vốn dài hạn",
-      "link": "https://cafef.vn/xay-dung-thi-truong-chung-khoan-thanh-kenh-hinh-thanh-von-dai-han-188261016105714981.chn",
-      "published": "Fri, 16 Oct 26 10:57:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nâng hạng chứng khoán, vì sao cổ phiếu định giá rẻ vẫn chưa đủ hấp dẫn?",
-      "link": "https://cafef.vn/nang-hang-chung-khoan-vi-sao-co-phieu-dinh-gia-re-van-chua-du-hap-dan-188261016105530325.chn",
-      "published": "Fri, 16 Oct 26 10:55:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Người mua vàng bạc lỗ nặng thế nào?",
-      "link": "https://cafef.vn/nguoi-mua-vang-bac-lo-nang-the-nao-188261016105207992.chn",
-      "published": "Fri, 16 Oct 26 10:51:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Quỹ bạc lớn nhất thế giới bất ngờ gom thêm hơn 136 tấn chỉ trong một phiên, điều gì đang xảy ra?",
-      "link": "https://cafef.vn/quy-bac-lon-nhat-the-gioi-bat-ngo-gom-them-hon-136-tan-chi-trong-mot-phien-dieu-gi-dang-xay-ra-188261016101508109.chn",
-      "published": "Fri, 16 Oct 26 10:20:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 19-23/10/2026",
       "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-19-23102026-585-1503390.htm",
@@ -421,6 +421,18 @@
       "title": "HTP bị phạt hơn 200 triệu, tiếp nối chuỗi ngày lận đận",
       "link": "http://vietstock.vn/2026/10/htp-bi-phat-hon-200-trieu-tiep-noi-chuoi-ngay-lan-dan-830-1502150.htm",
       "published": "Wed, 14 Oct 2026 11:30:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Thanh khoản suy yếu, khối ngoại bán ròng thêm 3.100 tỷ đồng tuần qua",
+      "link": "https://vneconomy.vn/thanh-khoan-suy-yeu-khoi-ngoai-ban-rong-them-3100-ty-dong-tuan-qua.htm",
+      "published": "Sun, 18 Oct 2026 07:41:51 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Xu thế dòng tiền: Sức ép từ nhóm trụ có thể đẩy VN-Index về 1650 điểm?",
+      "link": "https://vneconomy.vn/xu-the-dong-tien-suc-ep-tu-nhom-tru-co-the-day-vn-index-ve-1650-diem.htm",
+      "published": "Sun, 18 Oct 2026 07:39:33 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Dòng tiền “buông tay”, VN-Index phá đáy ngắn hạn",
       "link": "https://vneconomy.vn/dong-tien-buong-tay-vn-index-pha-day-ngan-han.htm",
       "published": "Wed, 14 Oct 2026 05:03:25 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Lợi suất trái phiếu Mỹ tăng cao, các ETF hút ròng mạnh 16,8 tỷ USD trong một tuần",
-      "link": "https://vneconomy.vn/loi-suat-trai-phieu-my-tang-cao-cac-etf-hut-rong-manh-168-ty-usd-trong-mot-tuan.htm",
-      "published": "Wed, 14 Oct 2026 04:10:24 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "HNX bổ nhiệm ông Khương Xuân Thảo làm Trưởng Ban Kiểm soát",
-      "link": "https://vneconomy.vn/hnx-bo-nhiem-ong-khuong-xuan-thao-lam-truong-ban-kiem-soat.htm",
-      "published": "Wed, 14 Oct 2026 04:10:10 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
