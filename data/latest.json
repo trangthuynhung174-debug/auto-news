@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-18T22:50:18.074815+00:00",
+  "collected_at": "2026-10-19T00:53:33.703464+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "19/10: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/10/1910-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1503459.htm",
+      "published": "Mon, 19 Oct 2026 06:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Tuần 12-16/10: Vingroup kéo lùi, ngân hàng đỡ VN-Index",
       "link": "http://vietstock.vn/2026/10/tuan-12-1610-vingroup-keo-lui-ngan-hang-do-vn-index-830-1503404.htm",
       "published": "Sun, 18 Oct 2026 22:50:35 +0700"
@@ -415,12 +421,6 @@
       "title": "Nhịp đập Thị trường 14/10: Sắc đỏ bao phủ",
       "link": "http://vietstock.vn/2026/10/nhip-dap-thi-truong-1410-sac-do-bao-phu-1636-1502160.htm",
       "published": "Wed, 14 Oct 2026 14:07:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 14/10: Thị trường phân hóa",
-      "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-1410-thi-truong-phan-hoa-585-1502234.htm",
-      "published": "Wed, 14 Oct 2026 13:02:44 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
