@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-10-20T14:45:44.569682+00:00",
+  "collected_at": "2026-10-20T18:59:22.693723+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vietcap điều chỉnh loạt dự báo về FPT",
+      "link": "https://cafef.vn/vietcap-dieu-chinh-loat-du-bao-ve-fpt-188261020145848592.chn",
+      "published": "Wed, 21 Oct 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Loạt doanh nghiệp lại “khất” cổ tức tiền mặt, cổ đông chờ hơn 10 năm vẫn chưa nhận được tiền",
+      "link": "https://cafef.vn/loat-doanh-nghiep-lai-khat-co-tuc-tien-mat-co-dong-cho-hon-10-nam-van-chua-nhan-duoc-tien-188261020111740904.chn",
+      "published": "Wed, 21 Oct 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Dư nợ margin lập kỷ lục gần nửa triệu tỷ, nhóm CTCK có ngân hàng hậu thuẫn bứt phá mạnh",
+      "link": "https://cafef.vn/du-no-margin-lap-ky-luc-gan-nua-trieu-ty-nhom-ctck-co-ngan-hang-hau-thuan-but-pha-manh-188261020224610491.chn",
+      "published": "Wed, 21 Oct 26 00:01:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "9 tháng đầu năm, DNSE đạt hơn 1.300 tỷ đồng doanh thu hoạt động, tăng hơn 27%",
@@ -285,24 +303,6 @@
       "published": "Mon, 19 Oct 26 14:50:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "VN-Index giảm 4 tuần, dòng tiền tìm cơ hội ở đâu?",
-      "link": "https://cafef.vn/vn-index-giam-4-tuan-dong-tien-tim-co-hoi-o-dau-188261019140031316.chn",
-      "published": "Mon, 19 Oct 26 14:00:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Thị trường chứng khoán chờ cú hích từ hạ tầng giao dịch",
-      "link": "https://cafef.vn/thi-truong-chung-khoan-cho-cu-hich-tu-ha-tang-giao-dich-188261019135857125.chn",
-      "published": "Mon, 19 Oct 26 13:58:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Maybank: Lãi suất cho vay có thể đã đạt đỉnh, Việt Nam có thể giảm chi phí vay nước ngoài",
-      "link": "https://cafef.vn/maybank-lai-suat-cho-vay-co-the-da-dat-dinh-viet-nam-co-the-giam-chi-phi-vay-nuoc-ngoai-18826101911155157.chn",
-      "published": "Mon, 19 Oct 26 11:40:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "UBCKNN đồng loạt phạt TID, STS và GCF",
       "link": "http://vietstock.vn/2026/10/ubcknn-dong-loat-phat-tid-sts-va-gcf-830-1504801.htm",
@@ -328,14 +328,14 @@
     },
     {
       "source": "VietstockFinance",
-      "title": "Chứng khoán An Bình hoàn thành kế hoạch lợi nhuận năm 2026 sau 9 tháng",
-      "link": "http://vietstock.vn/2026/10/chung-khoan-an-binh-hoan-thanh-ke-hoach-loi-nhuan-nam-2026-sau-9-thang-830-1504435.htm",
+      "title": "Chứng khoán HSC: Lợi nhuận trước thuế quý 3/2026 đạt 371 tỷ đồng, lũy kế 9 tháng tương đương cùng kỳ",
+      "link": "http://vietstock.vn/2026/10/chung-khoan-hsc-loi-nhuan-truoc-thue-quy-32026-dat-371-ty-dong-luy-ke-9-thang-tuong-duong-cung-ky-830-1504154.htm",
       "published": "Tue, 20 Oct 2026 15:59:00 +0700"
     },
     {
       "source": "VietstockFinance",
-      "title": "Chứng khoán HSC: Lợi nhuận trước thuế quý 3/2026 đạt 371 tỷ đồng, lũy kế 9 tháng tương đương cùng kỳ",
-      "link": "http://vietstock.vn/2026/10/chung-khoan-hsc-loi-nhuan-truoc-thue-quy-32026-dat-371-ty-dong-luy-ke-9-thang-tuong-duong-cung-ky-830-1504154.htm",
+      "title": "Chứng khoán An Bình hoàn thành kế hoạch lợi nhuận năm 2026 sau 9 tháng",
+      "link": "http://vietstock.vn/2026/10/chung-khoan-an-binh-hoan-thanh-ke-hoach-loi-nhuan-nam-2026-sau-9-thang-830-1504435.htm",
       "published": "Tue, 20 Oct 2026 15:59:00 +0700"
     },
     {
@@ -421,6 +421,12 @@
       "title": "TCBS báo lãi quý 3 cao kỷ lục hơn 2,100 tỷ đồng",
       "link": "http://vietstock.vn/2026/10/tcbs-bao-lai-quy-3-cao-ky-luc-hon-2100-ty-dong-830-1503468.htm",
       "published": "Mon, 19 Oct 2026 09:02:00 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VN-Index hồi phục nhẹ, thận trọng trước ngưỡng 1700 điểm",
+      "link": "https://vneconomy.vn/vn-index-hoi-phuc-nhe-than-trong-truoc-nguong-1700-diem.htm",
+      "published": "Tue, 20 Oct 2026 15:02:27 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "IMF: Các chính phủ không nên dựa vào việc vay nợ ngắn hạn",
       "link": "https://vneconomy.vn/imf-cac-chinh-phu-khong-nen-dua-vao-viec-vay-no-ngan-han.htm",
       "published": "Fri, 16 Oct 2026 03:26:56 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "IMF cảnh báo kinh tế châu Á đang chậm lại, lợi suất trái phiếu tăng là rủi ro lớn",
-      "link": "https://vneconomy.vn/imf-canh-bao-kinh-te-chau-a-dang-cham-lai-loi-suat-trai-phieu-tang-la-rui-ro-lon.htm",
-      "published": "Fri, 16 Oct 2026 02:11:41 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
