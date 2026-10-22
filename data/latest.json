@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-10-21T22:10:09.256277+00:00",
+  "collected_at": "2026-10-22T01:18:42.962000+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "CII gia hạn thời gian phân phối trái phiếu chuyển đổi",
+      "link": "https://cafef.vn/cii-gia-han-thoi-gian-phan-phoi-trai-phieu-chuyen-doi-188261022072657052.chn",
+      "published": "Thu, 22 Oct 26 07:26:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Một hiện tượng lạ vừa xảy ra trên thị trường chứng khoán Việt Nam",
@@ -297,10 +303,10 @@
       "published": "Wed, 21 Oct 26 07:46:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Vietcap điều chỉnh loạt dự báo về FPT",
-      "link": "https://cafef.vn/vietcap-dieu-chinh-loat-du-bao-ve-fpt-188261020145848592.chn",
-      "published": "Wed, 21 Oct 26 00:05:00 +0700"
+      "source": "VietstockFinance",
+      "title": "22/10: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/10/2210-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1505346.htm",
+      "published": "Thu, 22 Oct 2026 06:02:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,16 @@
       "published": "Mon, 19 Oct 2026 19:23:22 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 20/10/2026: Sóng gió chưa qua",
-      "link": "http://vietstock.vn/2026/10/vietstock-daily-20102026-song-gio-chua-qua-1636-1503823.htm",
-      "published": "Mon, 19 Oct 2026 18:07:07 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "S&P 500 tăng phiên thứ ba liên tiếp nhờ tin tốt từ SpaceX và Tesla, giá dầu chững lại",
+      "link": "https://vneconomy.vn/sp-500-tang-phien-thu-ba-lien-tiep-nho-tin-tot-tu-spacex-va-tesla-gia-dau-chung-lai.htm",
+      "published": "Thu, 22 Oct 2026 01:15:48 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng trồi sụt trên ngưỡng 4.100 USD/oz, SPDR Gold Trust bán ròng",
+      "link": "https://vneconomy.vn/gia-vang-troi-sut-tren-nguong-4100-usdoz-spdr-gold-trust-ban-rong.htm",
+      "published": "Thu, 22 Oct 2026 00:28:56 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Mon, 19 Oct 2026 01:01:26 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thanh khoản suy yếu, khối ngoại bán ròng thêm 3.100 tỷ đồng tuần qua",
-      "link": "https://vneconomy.vn/thanh-khoan-suy-yeu-khoi-ngoai-ban-rong-them-3100-ty-dong-tuan-qua.htm",
-      "published": "Sun, 18 Oct 2026 07:41:51 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Xu thế dòng tiền: Sức ép từ nhóm trụ có thể đẩy VN-Index về 1650 điểm?",
-      "link": "https://vneconomy.vn/xu-the-dong-tien-suc-ep-tu-nhom-tru-co-the-day-vn-index-ve-1650-diem.htm",
-      "published": "Sun, 18 Oct 2026 07:39:33 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Vì sao dòng vốn ngoại vẫn rút mạnh sau nâng hạng?",
+      "link": "https://vnbusiness.vn//vi-sao-dong-von-ngoai-van-rut-manh-sau-nang-hang.html",
+      "published": "Thu, 22 Oct 2026 00:38:24 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "‘Cú ngã ngựa’ của một cổ phiếu vốn hoá lớn",
       "link": "https://vnbusiness.vn//cu-nga-ngua-cua-mot-co-phieu-von-hoa-lon.html",
       "published": "Tue, 06 Oct 2026 09:11:26 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "HVN tiếp tục bị cắt margin, cổ phiếu giảm gần 10% trong một tháng",
-      "link": "https://vnbusiness.vn//hvn-tiep-tuc-bi-cat-margin-co-phieu-giam-gan-10-trong-mot-thang.html",
-      "published": "Tue, 06 Oct 2026 04:18:46 GMT"
     }
   ]
 }
