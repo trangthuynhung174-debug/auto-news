@@ -1,7 +1,37 @@
 {
-  "collected_at": "2026-10-23T13:09:14.701832+00:00",
+  "collected_at": "2026-10-23T18:08:23.495251+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Ông Lê Hoàng Khánh Nhựt bị khởi tố, doanh nghiệp công bố tài liệu quan trọng",
+      "link": "https://cafef.vn/ong-le-hoang-khanh-nhut-bi-khoi-to-doanh-nghiep-cong-bo-tai-lieu-quan-trong-188261023145645061.chn",
+      "published": "Sat, 24 Oct 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một tiến sĩ liên tục bị bán giải chấp cổ phiếu",
+      "link": "https://cafef.vn/mot-tien-si-lien-tuc-bi-ban-giai-chap-co-phieu-188261023223123903.chn",
+      "published": "Sat, 24 Oct 26 00:04:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Khối ngoại bán ròng gần 1.000 tỷ đồng tuần 19-23/10, ngược chiều tung tiền \"gom\" mạnh một cổ phiếu mạnh",
+      "link": "https://cafef.vn/khoi-ngoai-ban-rong-gan-1000-ty-dong-tuan-19-23-10-nguoc-chieu-tung-tien-gom-manh-mot-co-phieu-manh-188261023232333074.chn",
+      "published": "Sat, 24 Oct 26 00:02:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tiến sĩ Nguyễn Thị Phương Thảo vừa có thêm 57 triệu USD, nhưng không còn là người giàu thứ 2 Việt Nam",
+      "link": "https://cafef.vn/tien-si-nguyen-thi-phuong-thao-vua-co-them-57-trieu-usd-nhung-khong-con-la-nguoi-giau-thu-2-viet-nam-188261023171006045.chn",
+      "published": "Sat, 24 Oct 26 00:01:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Bắt tạm giam Đỗ Minh Quang vì tung tin sai sự thật về Novaland",
+      "link": "https://cafef.vn/bat-tam-giam-do-minh-quang-vi-tung-tin-sai-su-that-ve-novaland-188261023215132522.chn",
+      "published": "Fri, 23 Oct 26 22:08:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "SeABank điều chỉnh giảm kế hoạch kinh doanh 2026 và bầu Chủ tịch HĐQT mới",
@@ -273,34 +303,10 @@
       "published": "Thu, 22 Oct 26 15:51:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Đề xuất sửa đổi, bổ sung nhiều quy định về chứng chỉ hành nghề chứng khoán",
-      "link": "https://cafef.vn/de-xuat-sua-doi-bo-sung-nhieu-quy-dinh-ve-chung-chi-hanh-nghe-chung-khoan-188261022145853535.chn",
-      "published": "Thu, 22 Oct 26 14:58:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "CII phát hành 200 tỷ đồng trái phiếu để làm gì?",
-      "link": "https://cafef.vn/cii-phat-hanh-200-ty-dong-trai-phieu-de-lam-gi-188261022145725102.chn",
-      "published": "Thu, 22 Oct 26 14:57:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Công bố quyết định thanh tra tại công ty phân bón lớn",
-      "link": "https://cafef.vn/nong-thanh-tra-chinh-phu-cong-bo-quyet-dinh-thanh-tra-dam-phu-my-188261022142632321.chn",
-      "published": "Thu, 22 Oct 26 14:53:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một công ty chứng khoán thua lỗ 17 quý liên tiếp, nâng lỗ lũy kế lên hơn 183 tỷ đồng",
-      "link": "https://cafef.vn/mot-cong-ty-chung-khoan-thua-lo-17-quy-lien-tiep-nang-lo-luy-ke-len-hon-183-ty-dong-188261022134243898.chn",
-      "published": "Thu, 22 Oct 26 13:42:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng bất động, chênh lệch mua - bán mỗi nơi một kiểu",
-      "link": "https://cafef.vn/gia-vang-bat-dong-chenh-lech-mua-ban-moi-noi-mot-kieu-188261022105213641.chn",
-      "published": "Thu, 22 Oct 26 11:11:00 +0700"
+      "source": "VietstockFinance",
+      "title": "UBCKNN liên tiếp xử phạt AAS, DAG, TST và một doanh nghiệp điện gió",
+      "link": "http://vietstock.vn/2026/10/ubcknn-lien-tiep-xu-phat-aas-dag-tst-va-mot-doanh-nghiep-dien-gio-830-1506466.htm",
+      "published": "Fri, 23 Oct 2026 19:52:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -415,12 +421,6 @@
       "title": "Phân tích kỹ thuật phiên chiều 21/10: Sắc xanh lan tỏa",
       "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-2110-sac-xanh-lan-toa-585-1504967.htm",
       "published": "Wed, 21 Oct 2026 13:02:44 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Dư nợ cho vay công ty chứng khoán lập đỉnh mới 463 ngàn tỷ đồng",
-      "link": "http://vietstock.vn/2026/10/du-no-cho-vay-cong-ty-chung-khoan-lap-dinh-moi-463-ngan-ty-dong-830-1504926.htm",
-      "published": "Wed, 21 Oct 2026 13:02:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
