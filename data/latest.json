@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-24T10:27:21.384187+00:00",
+  "collected_at": "2026-10-24T14:18:21.169566+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "VN-Index tăng hơn 68 điểm tuần qua, riêng VIC đóng góp gần 37 điểm",
+      "link": "http://vietstock.vn/2026/10/vn-index-tang-hon-68-diem-tuan-qua-rieng-vic-dong-gop-gan-37-diem-830-1506552.htm",
+      "published": "Sat, 24 Oct 2026 20:30:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Phạt hai lãnh đạo CMS vì dùng tài khoản người khác giao dịch cổ phiếu, có trường hợp vi phạm gần 14 năm",
       "link": "http://vietstock.vn/2026/10/phat-hai-lanh-dao-cms-vi-dung-tai-khoan-nguoi-khac-giao-dich-co-phieu-co-truong-hop-vi-pham-gan-14-nam-830-1506536.htm",
       "published": "Sat, 24 Oct 2026 11:00:05 +0700"
@@ -417,10 +423,10 @@
       "published": "Wed, 21 Oct 2026 18:17:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Nhịp đập Thị trường 21/10: Khối ngoại quay lại mua ròng trong phiên VN-Index tăng hơn 46 điểm",
-      "link": "http://vietstock.vn/2026/10/nhip-dap-thi-truong-2110-khoi-ngoai-quay-lai-mua-rong-trong-phien-vn-index-tang-hon-46-diem-1636-1504913.htm",
-      "published": "Wed, 21 Oct 2026 16:47:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Dấu ấn kinh tế thế giới tuần 18-24/10/2026: Vàng và cổ phiếu AI bị bán tháo, giá dầu tăng mạnh, kỳ vọng lãi suất Fed dịch chuyển",
+      "link": "https://vneconomy.vn/dau-an-kinh-te-the-gioi-tuan-18-24102026-vang-va-co-phieu-ai-bi-ban-thao-gia-dau-tang-manh-ky-vong-lai-suat-fed-dich-chuyen.htm",
+      "published": "Sat, 24 Oct 2026 10:50:01 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Thủ tướng Nhật Bản bác bỏ sự chỉ trích về đồng yên yếu và lãi suất cao",
       "link": "https://vneconomy.vn/thu-tuong-nhat-ban-bac-bo-su-chi-trich-ve-dong-yen-yeu-va-lai-suat-cao.htm",
       "published": "Tue, 20 Oct 2026 03:44:09 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dự báo kết quả bầu cử giữa nhiệm kỳ Mỹ khiến cổ phiếu quốc phòng sụt giá mạnh",
-      "link": "https://vneconomy.vn/du-bao-ket-qua-bau-cu-giua-nhiem-ky-my-khien-co-phieu-quoc-phong-sut-gia-manh.htm",
-      "published": "Tue, 20 Oct 2026 02:42:48 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
