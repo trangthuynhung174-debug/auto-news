@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-10-25T23:53:44.198257+00:00",
+  "collected_at": "2026-10-26T03:40:12.354022+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán tuần qua: Thanh khoản bùng nổ, nhóm ngân hàng dẫn sóng hồi phục",
+      "link": "https://cafef.vn/chung-khoan-tuan-qua-thanh-khoan-bung-no-nhom-ngan-hang-dan-song-hoi-phuc-188261026092106356.chn",
+      "published": "Mon, 26 Oct 26 09:20:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 26/10-30/10, tỷ lệ cao nhất 60%",
+      "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-26-10-30-10-ty-le-cao-nhat-60-188261026083903562.chn",
+      "published": "Mon, 26 Oct 26 08:38:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Chuyên gia chỉ ra loạt nhóm ngành có thể hút dòng tiền trong quý 4",
@@ -79,12 +91,6 @@
       "title": "Thương vụ đặc biệt và khoản cược lớn nhất cuộc đời của nữ ca sĩ Việt Nam đầu tiên trở thành General Partner tại quỹ đầu tư mạo hiểm Mỹ",
       "link": "https://cafef.vn/thuong-vu-dac-biet-va-khoan-cuoc-lon-nhat-cuoc-doi-cua-nu-ca-si-viet-nam-dau-tien-tro-thanh-general-partner-tai-quy-dau-tu-mao-hiem-my-188261022160511089.chn",
       "published": "Sun, 25 Oct 26 00:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một rủi ro tiềm ẩn đằng sau con số margin kỷ lục",
-      "link": "https://cafef.vn/mot-rui-ro-tiem-an-dang-sau-con-so-margin-ky-luc-188261024221523556.chn",
-      "published": "Sun, 25 Oct 26 00:03:00 +0700"
     },
     {
       "source": "CafeF - Chứng khoán",
@@ -297,10 +303,16 @@
       "published": "Fri, 23 Oct 26 11:05:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Quỹ vàng lớn nhất thế giới \"xả\" hơn chục tấn vàng khi giá tuột dốc",
-      "link": "https://cafef.vn/quy-vang-lon-nhat-the-gioi-xa-hon-chuc-tan-vang-khi-gia-tuot-doc-18826102310561877.chn",
-      "published": "Fri, 23 Oct 26 10:57:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Tuần 26-30/10/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+      "link": "http://vietstock.vn/2026/10/tuan-26-30102026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1506537.htm",
+      "published": "Mon, 26 Oct 2026 10:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 26/10",
+      "link": "http://vietstock.vn/2026/10/top-co-phieu-dang-chu-y-dau-phien-2610-830-1506294.htm",
+      "published": "Mon, 26 Oct 2026 08:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -411,16 +423,28 @@
       "published": "Thu, 22 Oct 2026 14:07:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 22/10: Sắc xanh đỏ đan xen",
-      "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-2210-sac-xanh-do-dan-xen-585-1505584.htm",
-      "published": "Thu, 22 Oct 2026 13:05:45 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Pháp “thoát hiểm” về định hạng tín nhiệm nhưng rủi ro nợ công còn lớn",
+      "link": "https://vneconomy.vn/phap-thoat-hiem-ve-dinh-hang-tin-nhiem-nhung-rui-ro-no-cong-con-lon.htm",
+      "published": "Mon, 26 Oct 2026 03:18:02 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Tăng tốc chuẩn bị CCP, cổ phiếu chứng khoán nhen nhóm ấm lên",
-      "link": "http://vietstock.vn/2026/10/tang-toc-chuan-bi-ccp-co-phieu-chung-khoan-nhen-nhom-am-len-830-1505408.htm",
-      "published": "Thu, 22 Oct 2026 11:02:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chênh lệch tín dụng và huy động lớn khiến mặt bằng lãi suất khó giảm sâu?",
+      "link": "https://vneconomy.vn/chenh-lech-tin-dung-va-huy-dong-lon-khien-mat-bang-lai-suat-kho-giam-sau.htm",
+      "published": "Mon, 26 Oct 2026 01:57:28 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Tiền đổ vào nhóm Xây dựng, khối ngoại vẫn bán ròng hơn 1.000 tỷ trong tuần qua",
+      "link": "https://vneconomy.vn/tien-do-vao-nhom-xay-dung-khoi-ngoai-van-ban-rong-hon-1000-ty-trong-tuan-qua.htm",
+      "published": "Mon, 26 Oct 2026 01:23:20 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Tín hiệu từ Fed có thể gây biến động giá vàng trong tuần này",
+      "link": "https://vneconomy.vn/tin-hieu-tu-fed-co-the-gay-bien-dong-gia-vang-trong-tuan-nay.htm",
+      "published": "Mon, 26 Oct 2026 01:03:59 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -699,28 +723,10 @@
       "published": "Tue, 20 Oct 2026 07:51:08 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Quỹ hưu trí quốc gia Hàn Quốc lỗ 137 tỷ USD vì cổ phiếu Samsung, SK Hynix lao dốc",
-      "link": "https://vneconomy.vn/quy-huu-tri-quoc-gia-han-quoc-lo-137-ty-usd-vi-co-phieu-samsung-sk-hynix-lao-doc.htm",
-      "published": "Tue, 20 Oct 2026 07:23:19 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Rủi ro từ mô hình kho tiền điện tử khiến giới chức Mỹ và châu Âu lo ngại",
-      "link": "https://vneconomy.vn/rui-ro-tu-mo-hinh-kho-tien-dien-tu-khien-gioi-chuc-my-va-chau-au-lo-ngai.htm",
-      "published": "Tue, 20 Oct 2026 07:23:02 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Áp lực đáo hạn trái phiếu tăng đáng kể trong quý 4, giá trị 93.000 tỷ chủ yếu bất động sản",
-      "link": "https://vneconomy.vn/ap-luc-dao-han-trai-phieu-tang-dang-ke-trong-quy-4-gia-tri-93000-ty-chu-yeu-bat-dong-san.htm",
-      "published": "Tue, 20 Oct 2026 06:58:11 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Hơn 100 doanh nghiệp công bố lợi nhuận quý 3, Dầu khí, Ngân hàng tăng mạnh",
-      "link": "https://vneconomy.vn/hon-100-doanh-nghiep-cong-bo-loi-nhuan-quy-3-dau-khi-ngan-hang-tang-manh.htm",
-      "published": "Tue, 20 Oct 2026 06:57:23 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Chứng khoán ra sao khi tiền chờ đầu tư xuống đáy 3 năm?",
+      "link": "https://vnbusiness.vn//chung-khoan-ra-sao-khi-tien-cho-dau-tu-xuong-day-3-nam.html",
+      "published": "Mon, 26 Oct 2026 00:53:33 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Traphaco bị phạt 160 triệu đồng, nhiều lần bị truy thu và xử phạt thuế",
       "link": "https://vnbusiness.vn//traphaco-bi-phat-160-trieu-dong-nhieu-lan-bi-truy-thu-va-xu-phat-thue.html",
       "published": "Mon, 12 Oct 2026 02:02:31 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Thị trường chứng khoán đối mặt áp lực hấp thụ cổ phiếu mới",
-      "link": "https://vnbusiness.vn//thi-truong-chung-khoan-doi-mat-ap-luc-hap-thu-co-phieu-moi.html",
-      "published": "Mon, 12 Oct 2026 00:49:48 GMT"
     }
   ]
 }
