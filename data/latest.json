@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26T21:25:57.412516+00:00",
+  "collected_at": "2026-10-27T01:14:28.118713+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "27/10: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/10/2710-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1507205.htm",
+      "published": "Tue, 27 Oct 2026 06:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Cổ phiếu bất động sản có tuần hút tiền mạnh",
       "link": "http://vietstock.vn/2026/10/co-phieu-bat-dong-san-co-tuan-hut-tien-manh-830-1506972.htm",
       "published": "Mon, 26 Oct 2026 20:30:00 +0700"
@@ -417,10 +423,16 @@
       "published": "Fri, 23 Oct 2026 19:52:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 23/10: Khối ngoại và tự doanh ngược chiều tại ACB",
-      "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-2310-khoi-ngoai-va-tu-doanh-nguoc-chieu-tai-acb-830-1506438.htm",
-      "published": "Fri, 23 Oct 2026 19:03:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VCBS MCP: Kết nối AI và dữ liệu cho nhà đầu tư",
+      "link": "https://vneconomy.vn/vcbs-mcp-ket-noi-ai-va-du-lieu-cho-nha-dau-tu.htm",
+      "published": "Tue, 27 Oct 2026 01:00:00 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng hồi mốc 4.100 USD/oz trong lúc chờ tin Fed, SPDR Gold Trust bán ròng thêm",
+      "link": "https://vneconomy.vn/gia-vang-hoi-moc-4100-usdoz-trong-luc-cho-tin-fed-spdr-gold-trust-ban-rong-them.htm",
+      "published": "Tue, 27 Oct 2026 00:28:58 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Wed, 21 Oct 2026 04:08:25 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Việt Nam bị tấn công mạng cao nhất Đông Nam Á, cứ 57 giây lại có vụ nhắm vào ngân hàng, chứng khoán",
-      "link": "https://vneconomy.vn/viet-nam-bi-tan-cong-mang-cao-nhat-dong-nam-a-cu-57-giay-lai-co-vu-nham-vao-ngan-hang-chung-khoan.htm",
-      "published": "Wed, 21 Oct 2026 04:08:04 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Kênh ETC hồi phục, Imexpharm duy trì tăng trưởng lợi nhuận sau 9 tháng",
-      "link": "https://vneconomy.vn/kenh-etc-hoi-phuc-imexpharm-duy-tri-tang-truong-loi-nhuan-sau-9-thang.htm",
-      "published": "Wed, 21 Oct 2026 03:59:26 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "VN-Index có dấu hiệu tạo đáy, mốc 1.800 điểm thử sức dòng tiền",
+      "link": "https://vnbusiness.vn//vn-index-co-dau-hieu-tao-day-moc-1800-diem-thu-suc-dong-tien.html",
+      "published": "Tue, 27 Oct 2026 00:40:47 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Nguy cơ vòng xoáy ‘call margin’ trên thị trường chứng khoán",
       "link": "https://vnbusiness.vn//nguy-co-vong-xoay-call-margin-tren-thi-truong-chung-khoan.html",
       "published": "Tue, 13 Oct 2026 00:44:22 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "VN-Index mất hơn 14 điểm, cổ phiếu thép trở thành điểm sáng hiếm hoi",
-      "link": "https://vnbusiness.vn//vn-index-mat-hon-14-diem-co-phieu-thep-tro-thanh-diem-sang-hiem-hoi.html",
-      "published": "Mon, 12 Oct 2026 09:32:09 GMT"
     }
   ]
 }
