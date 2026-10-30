@@ -1,7 +1,139 @@
 {
-  "collected_at": "2026-10-30T01:38:39.363697+00:00",
+  "collected_at": "2026-10-30T08:12:20.617062+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Cổ phiếu của HAGL Invest sắp được giao dịch trên UPCoM",
+      "link": "https://cafef.vn/loi-khai-cua-cuu-can-bo-cong-an-nhan-tien-nham-giup-mr-pips-chay-giam-dinh-tam-than-188261030131920642.chn",
+      "published": "Fri, 30 Oct 26 14:30:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Đạt Phương tăng trưởng doanh thu 48% sau 9 tháng",
+      "link": "https://cafef.vn/dat-phuong-tang-truong-doanh-thu-48-sau-9-thang-18826103014230372.chn",
+      "published": "Fri, 30 Oct 26 14:22:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vingroup lãi 9 tháng 43,7 nghìn tỷ đồng, gấp 6 lần cùng kỳ, huy động 2,3 tỷ USD từ quốc tế",
+      "link": "https://cafef.vn/vingroup-lai-9-thang-437-nghin-ty-dong-gap-6-lan-cung-ky-huy-dong-23-ty-usd-tu-quoc-te-188261030141102583.chn",
+      "published": "Fri, 30 Oct 26 14:11:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Vốn hoá Alphabet bốc hơi gần 500 tỷ USD trong một ngày",
+      "link": "https://cafef.vn/von-hoa-alphabet-boc-hoi-gan-500-ty-usd-trong-mot-ngay-188261030131724507.chn",
+      "published": "Fri, 30 Oct 26 13:17:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chưa từng có: Vinhomes lãi 9 tháng kỷ lục hơn 75.000 tỷ đồng, vượt 25% kế hoạch cả năm",
+      "link": "https://cafef.vn/chua-tung-co-vinhomes-lai-9-thang-ky-luc-hon-75000-ty-dong-vuot-25-ke-hoach-ca-nam-188261030130647614.chn",
+      "published": "Fri, 30 Oct 26 13:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Infographic: Nhìn lại tổng khối tài sản gây choáng trong vụ Mr Pips",
+      "link": "https://cafef.vn/infographic-nhin-lai-tong-khoi-tai-san-gay-choang-trong-vu-mr-pips-18826103011121683.chn",
+      "published": "Fri, 30 Oct 26 12:12:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chủ tịch Geleximco Vũ Văn Tiền nói thẳng: Ở tập đoàn tôi, mỗi cuộc họp không quá 1 tiếng, cấp dưới báo cáo tối đa 5 phút",
+      "link": "https://cafef.vn/chu-tich-geleximco-vu-van-tien-noi-thang-o-tap-doan-toi-moi-cuoc-hop-khong-qua-1-tieng-cap-duoi-bao-cao-toi-da-5-phut-188261030104308862.chn",
+      "published": "Fri, 30 Oct 26 12:00:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán EVS bầu bổ sung Quyền Tổng giám đốc vào HĐQT",
+      "link": "https://cafef.vn/chung-khoan-evs-bau-bo-sung-quyen-tong-giam-doc-vao-hdqt-188261030105325166.chn",
+      "published": "Fri, 30 Oct 26 11:21:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Đà Nẵng: Làm rõ đường dây 'rửa tiền' khoảng 700 tỷ đồng",
+      "link": "https://cafef.vn/da-nang-lam-ro-duong-day-rua-tien-khoang-700-ty-dong-188261030105456966.chn",
+      "published": "Fri, 30 Oct 26 11:18:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Phản ứng \"bất ngờ\" của Elon Musk trước \"vụ trộm\" lớn nhất lịch sử tiền số",
+      "link": "https://cafef.vn/phan-ung-bat-ngo-cua-elon-musk-truoc-vu-trom-lon-nhat-lich-su-tien-so-188261030111534762.chn",
+      "published": "Fri, 30 Oct 26 11:15:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Con gái Chủ tịch PNJ bị \"call margin\"",
+      "link": "https://cafef.vn/con-gai-chu-tich-pnj-bi-call-margin-188261030110513242.chn",
+      "published": "Fri, 30 Oct 26 11:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Thủy điện Vĩnh Sơn - Sông Hinh chốt ngày chia cổ tức tiền mặt tỷ lệ 10%",
+      "link": "https://cafef.vn/thuy-dien-vinh-son-song-hinh-chot-ngay-chia-co-tuc-tien-mat-ty-le-10-188261030105406897.chn",
+      "published": "Fri, 30 Oct 26 11:02:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng hôm nay 30/10: Lao dốc về đáy trong 1 tháng qua",
+      "link": "https://cafef.vn/gia-vang-hom-nay-30-10-lao-doc-ve-day-trong-1-thang-qua-188261030105013821.chn",
+      "published": "Fri, 30 Oct 26 10:56:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Shark Bình: Số bị cáo đi tù rồi, đây là bài học lớn đối với bản thân",
+      "link": "https://cafef.vn/shark-binh-so-bi-cao-di-tu-roi-day-la-bai-hoc-lon-doi-voi-ban-than-188261030105045152.chn",
+      "published": "Fri, 30 Oct 26 10:50:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một cổ phiếu vừa ngắt chuỗi 29 phiên giảm sàn liên tiếp, 1/3 công ty đổi chủ",
+      "link": "https://cafef.vn/mot-co-phieu-vua-ngat-chuoi-29-phien-giam-san-lien-tiep-1-3-cong-ty-doi-chu-188261030104619609.chn",
+      "published": "Fri, 30 Oct 26 10:49:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Hơn 5,5 tỷ USD tiền mã hóa bị đánh cắp, Binance đối mặt vụ hack lớn nhất lịch sử",
+      "link": "https://cafef.vn/hon-55-ty-usd-tien-ma-hoa-bi-danh-cap-binance-doi-mat-vu-hack-lon-nhat-lich-su-188261030104841997.chn",
+      "published": "Fri, 30 Oct 26 10:48:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "5,6 tỷ USD rời khỏi ví Binance chỉ trong vài phút: Sàn tiền số lớn nhất thế giới nghi bị hack, có thể là vụ trộm lớn nhất lịch sử",
+      "link": "https://cafef.vn/56-ty-usd-roi-khoi-vi-binance-chi-trong-vai-phut-san-tien-so-lon-nhat-the-gioi-nghi-bi-hack-co-the-la-vu-trom-lon-nhat-lich-su-188261030094633203.chn",
+      "published": "Fri, 30 Oct 26 09:46:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "VPBankS dự kiến chào bán 6.000 tỷ đồng trái phiếu",
+      "link": "https://cafef.vn/vpbanks-du-kien-chao-ban-6000-ty-dong-trai-phieu-188261030090131723.chn",
+      "published": "Fri, 30 Oct 26 09:22:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tiềm lực doanh nghiệp vừa 'hút' 1.200 tỷ đồng từ kênh trái phiếu, lãi suất 12,5%",
+      "link": "https://cafef.vn/tiem-luc-doanh-nghiep-vua-hut-1200-ty-dong-tu-kenh-trai-phieu-lai-suat-125-188261030090331629.chn",
+      "published": "Fri, 30 Oct 26 09:03:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Sabeco sắp chi hơn 3.800 tỷ đồng trả cổ tức, lợi nhuận quý III/2026 ‘đi lùi’",
+      "link": "https://cafef.vn/sabeco-sap-chi-hon-3800-ty-dong-tra-co-tuc-loi-nhuan-quy-iii-2026-di-lui-188261030090003912.chn",
+      "published": "Fri, 30 Oct 26 08:59:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một thành viên HĐQT DXG muốn gom 15 triệu cổ phiếu",
+      "link": "https://cafef.vn/mot-thanh-vien-hdqt-dxg-muon-gom-15-trieu-co-phieu-188261030085906133.chn",
+      "published": "Fri, 30 Oct 26 08:59:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng 9999 Bảo Tín Minh Châu hôm nay 30/10/2026 bao nhiêu 1 chỉ?",
+      "link": "https://cafef.vn/gia-vang-9999-bao-tin-minh-chau-hom-nay-30-10-2026-bao-nhieu-1-chi-188261030085806931.chn",
+      "published": "Fri, 30 Oct 26 08:57:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Một cựu sinh viên Kinh tế TP.HCM tạo ra hàng chục nghìn việc làm từ Bắc tới Nam",
@@ -171,136 +303,22 @@
       "published": "Thu, 29 Oct 26 08:59:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng 9999 PNJ hôm nay 29/10/2026 bao nhiêu 1 chỉ?",
-      "link": "https://cafef.vn/gia-vang-9999-pnj-hom-nay-29-10-2026-bao-nhieu-1-chi-188261029085756026.chn",
-      "published": "Thu, 29 Oct 26 08:57:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 30/10: Sắc đỏ bao phủ",
+      "link": "http://vietstock.vn/2026/10/nhip-dap-thi-truong-3010-sac-do-bao-phu-1636-1509009.htm",
+      "published": "Fri, 30 Oct 2026 14:07:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Bạn gái giữ tài sản nghìn tỷ của Mr Pips nhưng bố mẹ vẫn làm ruộng mưu sinh?",
-      "link": "https://cafef.vn/ban-gai-giu-tai-san-nghin-ty-cua-mr-pips-nhung-bo-me-van-lam-ruong-muu-sinh-188261029081629716.chn",
-      "published": "Thu, 29 Oct 26 08:18:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Phân tích kỹ thuật phiên chiều 30/10: Tâm lý bi quan bao trùm",
+      "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-3010-tam-ly-bi-quan-bao-trum-585-1509092.htm",
+      "published": "Fri, 30 Oct 2026 13:03:50 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "“Đại gia” bán lẻ đem hơn 19.000 tỷ đầu tư trái phiếu, “ẩn số” hơn 6.000 tỷ rót vào công ty đa ngành",
-      "link": "https://cafef.vn/dai-gia-ban-le-mang-gan-16000-ty-dau-tu-trai-phieu-an-so-hon-6000-ty-rot-vao-cong-ty-da-nganh-188261028230324148.chn",
-      "published": "Thu, 29 Oct 26 00:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một cựu sinh viên Đại học Kinh tế TPHCM được mệnh danh “nữ hoàng bán cá”, nắm giữ khối tài sản gần 5.000 tỷ đồng",
-      "link": "https://cafef.vn/mot-cuu-sinh-vien-dai-hoc-kinh-te-tphcm-vua-co-them-280-ty-dong-sau-vai-tuan-188261028231826832.chn",
-      "published": "Thu, 29 Oct 26 00:02:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Bất ngờ với lợi nhuận Bách Hóa Xanh trong quý 3",
-      "link": "https://cafef.vn/bat-ngo-voi-loi-nhuan-bach-hoa-xanh-trong-quy-3-188261029000206321.chn",
-      "published": "Thu, 29 Oct 26 00:01:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chuyện chưa kể sau những chuyến “gõ cửa” bị từ chối năm 1999 và tấm hộ chiếu hội nhập của UBCKNN",
-      "link": "https://cafef.vn/chuyen-chua-ke-sau-nhung-chuyen-go-cua-bi-tu-choi-nam-1999-va-tam-ho-chieu-hoi-nhap-cua-ubcknn-188261028121431817.chn",
-      "published": "Thu, 29 Oct 26 00:01:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cổ phiếu \"thủng\" đáy 3 năm, FPT phát thông báo quan trọng",
-      "link": "https://cafef.vn/co-phieu-thung-day-3-nam-fpt-phat-thong-bao-quan-trong-188261028224606129.chn",
-      "published": "Wed, 28 Oct 26 22:49:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Công ty “họ\" Mobifone chuẩn bị lăn chốt cổ tức 25% bằng tiền mặt",
-      "link": "https://cafef.vn/cong-ty-ho-mobifone-chuan-bi-lan-chot-co-tuc-25-bang-tien-mat-188261028154147408.chn",
-      "published": "Wed, 28 Oct 26 20:38:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chứng khoán DSC giảm 57,3% mục tiêu lợi nhuận năm 2026",
-      "link": "https://cafef.vn/chung-khoan-dsc-giam-573-muc-tieu-loi-nhuan-nam-2026-188261028194755697.chn",
-      "published": "Wed, 28 Oct 26 19:47:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Bán ròng triền miên, khối ngoại vẫn còn nắm hơn 455 triệu cổ phiếu FPT",
-      "link": "https://cafef.vn/ban-rong-trien-mien-khoi-ngoai-van-con-nam-hon-455-trieu-co-phieu-fpt-188261028190244374.chn",
-      "published": "Wed, 28 Oct 26 19:01:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "VN-Index đảo chiều tăng, cổ phiếu Digiworld bất ngờ giảm sàn",
-      "link": "https://cafef.vn/vn-index-dao-chieu-tang-co-phieu-digiworld-bat-ngo-giam-san-188261028165741402.chn",
-      "published": "Wed, 28 Oct 26 17:37:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Tỷ phú Phạm Nhật Vượng chính thức cho vận hành hệ thống tạo ra 39 triệu kWh điện sạch một năm",
-      "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-chinh-thuc-cho-van-hanh-he-thong-tao-ra-39-trieu-kwh-dien-sach-mot-nam-188261028171436655.chn",
-      "published": "Wed, 28 Oct 26 17:13:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Bán đá cho sân bay Long Thành, “ông lớn” vật liệu xây dựng báo lãi khủng, cổ phiếu vượt đỉnh lịch sử",
-      "link": "https://cafef.vn/ban-da-cho-san-bay-long-thanh-ong-lon-vat-lieu-xay-dung-bao-lai-khung-co-phieu-vuot-dinh-lich-su-188261028111541055.chn",
-      "published": "Wed, 28 Oct 26 17:11:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "“Đại gia” Việt bán iPhone đang đầu tư 100 tỷ vào trái phiếu công ty của tỷ phú Phạm Nhật Vượng",
-      "link": "https://cafef.vn/dai-gia-viet-ban-iphone-dang-cho-cong-ty-cua-ty-phu-pham-nhat-vuong-vay-100-ty-dong-188261028160954461.chn",
-      "published": "Wed, 28 Oct 26 16:09:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Phiên 28/10: Khối ngoại tiếp đà bán ròng, một cổ phiếu Bluechip bị \"xả\" 260 tỷ đồng",
-      "link": "https://cafef.vn/phien-28-10-khoi-ngoai-tiep-da-ban-rong-mot-co-phieu-bluechip-bi-xa-260-ty-dong-188261028151246116.chn",
-      "published": "Wed, 28 Oct 26 15:45:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Bộ trưởng Bộ Tài chính: Cơ quan quản lý đang tiếp tục làm việc với MSCI để tiếp tục đánh giá và xếp hạng thị trường",
-      "link": "https://cafef.vn/bo-truong-bo-tai-chinh-co-quan-quan-ly-dang-tiep-tuc-lam-viec-voi-msci-de-tiep-tuc-danh-gia-va-xep-hang-thi-truong-188261028151354919.chn",
-      "published": "Wed, 28 Oct 26 15:19:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cổ phiếu doanh nghiệp vừa có lãnh đạo bị khởi tố bất ngờ “cháy hàng”, chuyện gì đây?",
-      "link": "https://cafef.vn/co-phieu-doanh-nghiep-vua-co-lanh-dao-bi-khoi-to-bat-ngo-chay-hang-chuyen-gi-day-188261028145512599.chn",
-      "published": "Wed, 28 Oct 26 15:10:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "MWG lãi kỷ lục quý 3, vượt kế hoạch cả năm sau 9 tháng",
-      "link": "https://cafef.vn/mwg-lai-ky-luc-quy-3-vuot-ke-hoach-ca-nam-sau-9-thang-188261028142151129.chn",
-      "published": "Wed, 28 Oct 26 14:20:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Sáng nay, Quốc hội thảo luận sửa Luật Chứng khoán, một quy định về lãnh đạo công ty chứng khoán gây chú ý",
-      "link": "https://cafef.vn/sang-nay-quoc-hoi-thao-luan-sua-luat-chung-khoan-mot-quy-dinh-ve-lanh-dao-cong-ty-chung-khoan-gay-chu-y-188261028114341623.chn",
-      "published": "Wed, 28 Oct 26 11:53:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nông nghiệp Hòa Phát chốt ngày tạm ứng cổ tức năm 2026",
-      "link": "https://cafef.vn/nong-nghiep-hoa-phat-chot-ngay-tam-ung-co-tuc-nam-2026-188261028104903342.chn",
-      "published": "Wed, 28 Oct 26 11:48:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Đầu tư cơ sở hạ tầng công nghệ thông tin để nhà đầu tư chứng khoán giao dịch 24/24 giờ",
-      "link": "https://cafef.vn/dau-tu-co-so-ha-tang-cong-nghe-thong-tin-de-nha-dau-tu-chung-khoan-giao-dich-24-24-gio-188261028112635546.chn",
-      "published": "Wed, 28 Oct 26 11:26:35 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Em gái Chủ tịch Novaland đăng ký mua 30 triệu cổ phiếu NVL",
-      "link": "https://cafef.vn/em-gai-chu-tich-novaland-dang-ky-mua-30-trieu-co-phieu-nvl-188261028112045261.chn",
-      "published": "Wed, 28 Oct 26 11:20:00 +0700"
+      "source": "VietstockFinance",
+      "title": "KOS bất ngờ tăng trần sau chuỗi 29 phiên nằm sàn, thanh khoản kỷ lục hơn 74 triệu đơn vị",
+      "link": "http://vietstock.vn/2026/10/kos-bat-ngo-tang-tran-sau-chuoi-29-phien-nam-san-thanh-khoan-ky-luc-hon-74-trieu-don-vi-830-1509088.htm",
+      "published": "Fri, 30 Oct 2026 12:41:11 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -405,22 +423,28 @@
       "published": "Wed, 28 Oct 2026 06:02:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 27/10: Khối ngoại và tự doanh trái chiều",
-      "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-2710-khoi-ngoai-va-tu-doanh-trai-chieu-830-1507717.htm",
-      "published": "Tue, 27 Oct 2026 19:32:06 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Đồng yên Nhật đang hưởng lợi từ bầu cử Mỹ, bán tháo cổ phiếu AI và biến động ở Pháp",
+      "link": "https://vneconomy.vn/dong-yen-nhat-dang-huong-loi-tu-bau-cu-my-ban-thao-co-phieu-ai-va-bien-dong-o-phap.htm",
+      "published": "Fri, 30 Oct 2026 07:03:48 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 28/10/2026: Giằng co trong thận trọng",
-      "link": "http://vietstock.vn/2026/10/vietstock-daily-28102026-giang-co-trong-than-trong-1636-1507597.htm",
-      "published": "Tue, 27 Oct 2026 18:25:06 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Dòng tiền quá yếu, chỉ số giảm sốc",
+      "link": "https://vneconomy.vn/dong-tien-qua-yeu-chi-so-giam-soc.htm",
+      "published": "Fri, 30 Oct 2026 05:08:44 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Nhịp đập Thị trường 27/10: Tiếp tục giằng co, tích lũy",
-      "link": "http://vietstock.vn/2026/10/nhip-dap-thi-truong-2710-tiep-tuc-giang-co-tich-luy-1636-1507317.htm",
-      "published": "Tue, 27 Oct 2026 17:02:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "SABECO lãi 3.761 tỷ đồng sau 9 tháng, tạm ứng cổ tức tiền mặt 30%",
+      "link": "https://vneconomy.vn/sabeco-lai-3761-ty-dong-sau-9-thang-tam-ung-co-tuc-tien-mat-30.htm",
+      "published": "Fri, 30 Oct 2026 03:11:02 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Nghi vấn Binance bị hack, hơn 6 tỷ USD bị chuyển khỏi ví nóng",
+      "link": "https://vneconomy.vn/nghi-van-binance-bi-hack-hon-6-ty-usd-bi-chuyen-khoi-vi-nong.htm",
+      "published": "Fri, 30 Oct 2026 03:09:08 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -699,28 +723,28 @@
       "published": "Tue, 27 Oct 2026 03:21:45 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Nhận định của giới phân tích về cuộc họp sắp diễn ra của Fed",
-      "link": "https://vneconomy.vn/nhan-dinh-cua-gioi-phan-tich-ve-cuoc-hop-sap-dien-ra-cua-fed.htm",
-      "published": "Tue, 27 Oct 2026 02:37:48 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Con gái Chủ tịch PNJ lần thứ hai bị call margin trong tháng, cổ phiếu về đáy mới",
+      "link": "https://vnbusiness.vn//con-gai-chu-tich-pnj-lan-thu-hai-bi-call-margin-trong-thang-co-phieu-ve-day-moi.html",
+      "published": "Fri, 30 Oct 2026 07:22:57 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Bán ròng 21.000 tỷ từ đầu năm, xu hướng xả hàng của khối ngoại vẫn chưa chấm dứt?",
-      "link": "https://vneconomy.vn/ban-rong-21000-ty-tu-dau-nam-xu-huong-xa-hang-cua-khoi-ngoai-van-chua-cham-dut.htm",
-      "published": "Tue, 27 Oct 2026 01:49:42 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Quốc Cường Gia Lai đứt chuỗi lãi, Phước Kiển vẫn là gánh nặng",
+      "link": "https://vnbusiness.vn//quoc-cuong-gia-lai-dut-chuoi-lai-phuoc-kien-van-la-ganh-nang.html",
+      "published": "Fri, 30 Oct 2026 07:19:39 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán Mỹ tăng điểm nhờ lạc quan về kế hoạch IPO của Anthoropic, giá dầu đi xuống",
-      "link": "https://vneconomy.vn/chung-khoan-my-tang-diem-nho-lac-quan-ve-ke-hoach-ipo-cua-anthoropic-gia-dau-di-xuong.htm",
-      "published": "Tue, 27 Oct 2026 01:26:22 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Doanh thu tăng 12,5%, vì sao lợi nhuận quý III của Habeco giảm hơn 17%?",
+      "link": "https://vnbusiness.vn//doanh-thu-tang-125-vi-sao-loi-nhuan-quy-iii-cua-habeco-giam-hon-17.html",
+      "published": "Fri, 30 Oct 2026 04:03:29 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VCBS MCP: Kết nối AI và dữ liệu cho nhà đầu tư",
-      "link": "https://vneconomy.vn/vcbs-mcp-ket-noi-ai-va-du-lieu-cho-nha-dau-tu.htm",
-      "published": "Tue, 27 Oct 2026 01:00:00 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Hòa Phát vượt kế hoạch lợi nhuận năm, cổ phiếu HPG vẫn ‘ì ạch’",
+      "link": "https://vnbusiness.vn//hoa-phat-vuot-ke-hoach-loi-nhuan-nam-co-phieu-hpg-van-i-ach.html",
+      "published": "Fri, 30 Oct 2026 04:03:04 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -997,30 +1021,6 @@
       "title": "Nhựa Bình Minh đứt chuỗi tăng trưởng",
       "link": "https://vnbusiness.vn//nhua-binh-minh-dut-chuoi-tang-truong.html",
       "published": "Mon, 19 Oct 2026 03:39:04 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Từ kỳ vọng VN-Index 1.940 điểm đến mục tiêu khơi thông dòng vốn dài hạn",
-      "link": "https://vnbusiness.vn//tu-ky-vong-vn-index-1940-diem-den-muc-tieu-khoi-thong-dong-von-dai-han.html",
-      "published": "Mon, 19 Oct 2026 00:54:42 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Lãi quý III cải thiện, Haxaco vẫn giảm kế hoạch mua lại cổ phiếu",
-      "link": "https://vnbusiness.vn//lai-quy-iii-cai-thien-haxaco-van-giam-ke-hoach-mua-lai-co-phieu.html",
-      "published": "Fri, 16 Oct 2026 10:37:37 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Sau 7 phiên đỏ lửa, chứng khoán đảo chiều: CTG, BID, KDH đồng loạt tăng mạnh",
-      "link": "https://vnbusiness.vn//sau-7-phien-do-lua-chung-khoan-dao-chieu-ctg-bid-kdh-dong-loat-tang-manh.html",
-      "published": "Fri, 16 Oct 2026 09:40:25 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "F88 giải ngân hơn 17.300 tỷ đồng, vì sao phải ‘hãm phanh’ cho vay?",
-      "link": "https://vnbusiness.vn//f88-giai-ngan-hon-17300-ty-dong-vi-sao-phai-ham-phanh-cho-vay.html",
-      "published": "Fri, 16 Oct 2026 05:19:18 GMT"
     }
   ]
 }
