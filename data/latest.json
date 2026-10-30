@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-29T21:35:48.474720+00:00",
+  "collected_at": "2026-10-30T01:38:39.363697+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,18 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 30/10",
+      "link": "http://vietstock.vn/2026/10/top-co-phieu-dang-chu-y-dau-phien-3010-830-1508554.htm",
+      "published": "Fri, 30 Oct 2026 08:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
+      "title": "30/10: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/10/3010-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1508878.htm",
+      "published": "Fri, 30 Oct 2026 06:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Theo dấu dòng tiền cá mập 29/10: Tự doanh và khối ngoại đồng thuận bán ròng",
       "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-2910-tu-doanh-va-khoi-ngoai-dong-thuan-ban-rong-830-1508856.htm",
       "published": "Thu, 29 Oct 2026 19:37:48 +0700"
@@ -411,16 +423,28 @@
       "published": "Tue, 27 Oct 2026 17:02:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 27/10: Những tín hiệu trái chiều xuất hiện",
-      "link": "http://vietstock.vn/2026/10/phan-tich-ky-thuat-phien-chieu-2710-nhung-tin-hieu-trai-chieu-xuat-hien-585-1507365.htm",
-      "published": "Tue, 27 Oct 2026 12:57:40 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ giảm điểm vì cú sụt 12% của cổ phiếu Alphabet, giá dầu đi xuống sau tín hiệu đàm phán hòa bình",
+      "link": "https://vneconomy.vn/chung-khoan-my-giam-diem-vi-cu-sut-12-cua-co-phieu-alphabet-gia-dau-di-xuong-sau-tin-hieu-dam-phan-hoa-binh.htm",
+      "published": "Fri, 30 Oct 2026 01:38:01 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Ngày 27/10/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
-      "link": "http://vietstock.vn/2026/10/ngay-27102026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1507017.htm",
-      "published": "Tue, 27 Oct 2026 10:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "ECB giữ nguyên lãi suất dù lạm phát cao gần gấp đôi mục tiêu",
+      "link": "https://vneconomy.vn/ecb-giu-nguyen-lai-suat-du-lam-phat-cao-gan-gap-doi-muc-tieu.htm",
+      "published": "Fri, 30 Oct 2026 01:10:17 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng trượt nhanh về gần 4.000 USD/oz sau báo cáo lạm phát PCE Mỹ",
+      "link": "https://vneconomy.vn/gia-vang-truot-nhanh-ve-gan-4000-usdoz-sau-bao-cao-lam-phat-pce-my.htm",
+      "published": "Fri, 30 Oct 2026 00:39:43 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Bà Christine Lagarde từ chức Chủ tịch ECB",
+      "link": "https://vneconomy.vn/ba-christine-lagarde-tu-chuc-chu-tich-ecb.htm",
+      "published": "Fri, 30 Oct 2026 00:22:22 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -699,28 +723,10 @@
       "published": "Tue, 27 Oct 2026 01:00:00 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giá vàng hồi mốc 4.000 USD/oz trong lúc chờ tin Fed, SPDR Gold Trust bán ròng thêm",
-      "link": "https://vneconomy.vn/gia-vang-hoi-moc-4000-usdoz-trong-luc-cho-tin-fed-spdr-gold-trust-ban-rong-them.htm",
-      "published": "Tue, 27 Oct 2026 00:28:58 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Ngân hàng trung ương và vàng: Nga bán mạnh, Trung Quốc miệt mài mua",
-      "link": "https://vneconomy.vn/ngan-hang-trung-uong-va-vang-nga-ban-manh-trung-quoc-miet-mai-mua.htm",
-      "published": "Mon, 26 Oct 2026 13:02:07 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Ủy ban Chứng khoán cảnh báo giả mạo trang VCBF",
-      "link": "https://vneconomy.vn/uy-ban-chung-khoan-canh-bao-gia-mao-trang-vcbf.htm",
-      "published": "Mon, 26 Oct 2026 13:01:46 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index quay đầu giảm, thị trường chững lại trước kháng cự 1780",
-      "link": "https://vneconomy.vn/vn-index-quay-dau-giam-thi-truong-chung-lai-truoc-khang-cu-1780.htm",
-      "published": "Mon, 26 Oct 2026 13:00:46 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "AI làm thay đổi cách định giá cổ phiếu công nghệ",
+      "link": "https://vnbusiness.vn//ai-lam-thay-doi-cach-dinh-gia-co-phieu-cong-nghe.html",
+      "published": "Fri, 30 Oct 2026 00:49:21 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "F88 giải ngân hơn 17.300 tỷ đồng, vì sao phải ‘hãm phanh’ cho vay?",
       "link": "https://vnbusiness.vn//f88-giai-ngan-hon-17300-ty-dong-vi-sao-phai-ham-phanh-cho-vay.html",
       "published": "Fri, 16 Oct 2026 05:19:18 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "5,4 tỷ USD chờ rót vào ngân hàng Việt, cuộc đua tăng vốn chưa hạ nhiệt",
-      "link": "https://vnbusiness.vn//54-ty-usd-cho-rot-vao-ngan-hang-viet-cuoc-dua-tang-von-chua-ha-nhiet.html",
-      "published": "Fri, 16 Oct 2026 03:20:47 GMT"
     }
   ]
 }
