@@ -1,7 +1,37 @@
 {
-  "collected_at": "2026-10-31T13:23:38.139111+00:00",
+  "collected_at": "2026-10-31T18:17:15.045323+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán Dầu khí bị phạt và truy thu thuế",
+      "link": "https://cafef.vn/chung-khoan-dau-khi-bi-phat-va-truy-thu-thue-188261031210525337.chn",
+      "published": "Sun, 01 Nov 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Lịch chốt quyền cổ tức tuần 2-6/11: Cổ tức tiền mặt cao nhất 100%",
+      "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-2-6-11-co-tuc-tien-mat-cao-nhat-100-188261031173350162.chn",
+      "published": "Sun, 01 Nov 26 00:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chứng khoán tháng 11 đối mặt nhiều thách thức, dòng tiền tìm cơ hội ở đâu?",
+      "link": "https://cafef.vn/chung-khoan-thang-11-doi-mat-nhieu-thach-thuc-dong-tien-tim-co-hoi-o-dau-188261031155926995.chn",
+      "published": "Sun, 01 Nov 26 00:04:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Thương vụ đấu giá gần 80 triệu cổ phiếu Seaprodex lại bất thành",
+      "link": "https://cafef.vn/thuong-vu-dau-gia-gan-80-trieu-co-phieu-seaprodex-lai-bat-thanh-188261031210046476.chn",
+      "published": "Sun, 01 Nov 26 00:02:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Doanh nghiệp xăng dầu đang làm ăn ra sao?",
+      "link": "https://cafef.vn/doanh-nghiep-xang-dau-dang-lam-an-ra-sao-188261031210238588.chn",
+      "published": "Sat, 31 Oct 26 21:02:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Mr Hunter Lê Khắc Ngọ nói Mr Pips từng nằm viện dài ngày, có dấu hiệu chán nản",
@@ -273,34 +303,16 @@
       "published": "Fri, 30 Oct 26 10:48:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "5,6 tỷ USD rời khỏi ví Binance chỉ trong vài phút: Sàn tiền số lớn nhất thế giới nghi bị hack, có thể là vụ trộm lớn nhất lịch sử",
-      "link": "https://cafef.vn/56-ty-usd-roi-khoi-vi-binance-chi-trong-vai-phut-san-tien-so-lon-nhat-the-gioi-nghi-bi-hack-co-the-la-vu-trom-lon-nhat-lich-su-188261030094633203.chn",
-      "published": "Fri, 30 Oct 26 09:46:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Cổ phiếu KOS thoát sàn",
+      "link": "http://vietstock.vn/2026/10/co-phieu-kos-thoat-san-830-1509810.htm",
+      "published": "Sat, 31 Oct 2026 21:02:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "VPBankS dự kiến chào bán 6.000 tỷ đồng trái phiếu",
-      "link": "https://cafef.vn/vpbanks-du-kien-chao-ban-6000-ty-dong-trai-phieu-188261030090131723.chn",
-      "published": "Fri, 30 Oct 26 09:22:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Tiềm lực doanh nghiệp vừa 'hút' 1.200 tỷ đồng từ kênh trái phiếu, lãi suất 12,5%",
-      "link": "https://cafef.vn/tiem-luc-doanh-nghiep-vua-hut-1200-ty-dong-tu-kenh-trai-phieu-lai-suat-125-188261030090331629.chn",
-      "published": "Fri, 30 Oct 26 09:03:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Sabeco sắp chi hơn 3.800 tỷ đồng trả cổ tức, lợi nhuận quý III/2026 ‘đi lùi’",
-      "link": "https://cafef.vn/sabeco-sap-chi-hon-3800-ty-dong-tra-co-tuc-loi-nhuan-quy-iii-2026-di-lui-188261030090003912.chn",
-      "published": "Fri, 30 Oct 26 08:59:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một thành viên HĐQT DXG muốn gom 15 triệu cổ phiếu",
-      "link": "https://cafef.vn/mot-thanh-vien-hdqt-dxg-muon-gom-15-trieu-co-phieu-188261030085906133.chn",
-      "published": "Fri, 30 Oct 26 08:59:00 +0700"
+      "source": "VietstockFinance",
+      "title": "VN-Index mất gần 33 điểm: Ngân hàng gây sức ép, nhóm Vingroup chống đỡ",
+      "link": "http://vietstock.vn/2026/10/vn-index-mat-gan-33-diem-ngan-hang-gay-suc-ep-nhom-vingroup-chong-do-830-1509796.htm",
+      "published": "Sat, 31 Oct 2026 20:30:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -409,18 +421,6 @@
       "title": "Top cổ phiếu đáng chú ý đầu phiên 29/10",
       "link": "http://vietstock.vn/2026/10/top-co-phieu-dang-chu-y-dau-phien-2910-830-1508054.htm",
       "published": "Thu, 29 Oct 2026 08:00:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "29/10: Đọc gì trước giờ giao dịch chứng khoán?",
-      "link": "http://vietstock.vn/2026/10/2910-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1508256.htm",
-      "published": "Thu, 29 Oct 2026 06:00:00 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 28/10: Khối ngoại bán ròng mạnh FPT",
-      "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-2810-khoi-ngoai-ban-rong-manh-fpt-830-1508126.htm",
-      "published": "Wed, 28 Oct 2026 19:26:52 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
