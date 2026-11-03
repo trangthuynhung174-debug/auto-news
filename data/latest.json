@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-02T17:55:30.738008+00:00",
+  "collected_at": "2026-11-03T00:40:31.064173+00:00",
   "count": 169,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "03/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/11/0311-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1510705.htm",
+      "published": "Tue, 03 Nov 2026 06:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Cổ phiếu chứng khoán bị rút tiền, dòng tiền ở nhóm bất động sản phân hóa",
       "link": "http://vietstock.vn/2026/11/co-phieu-chung-khoan-bi-rut-tien-dong-tien-o-nhom-bat-dong-san-phan-hoa-830-1510447.htm",
       "published": "Mon, 02 Nov 2026 20:30:00 +0700"
@@ -409,12 +415,6 @@
       "title": "Chủ tịch UBCKNN Vũ Thị Chân Phương: \"Doanh nghiệp là yếu tố then chốt thu hút dòng vốn mới\"",
       "link": "http://vietstock.vn/2026/10/chu-tich-ubcknn-vu-thi-chan-phuong-doanh-nghiep-la-yeu-to-then-chot-thu-hut-dong-von-moi-830-1509543.htm",
       "published": "Fri, 30 Oct 2026 19:13:25 +0700"
-    },
-    {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 30/10: Khối ngoại xả VIC, tự doanh dồn lực gom MWG",
-      "link": "http://vietstock.vn/2026/10/theo-dau-dong-tien-ca-map-3010-khoi-ngoai-xa-vic-tu-doanh-don-luc-gom-mwg-830-1509488.htm",
-      "published": "Fri, 30 Oct 2026 19:07:00 +0700"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -718,6 +718,12 @@
     },
     {
       "source": "VnBusiness - Chứng khoán",
+      "title": "Dòng tiền thận trọng, chứng khoán tháng 11 khó có \"sóng\" đồng thuận",
+      "link": "https://vnbusiness.vn//dong-tien-than-trong-chung-khoan-thang-11-kho-co-song-dong-thuan.html",
+      "published": "Tue, 03 Nov 2026 00:29:44 GMT"
+    },
+    {
+      "source": "VnBusiness - Chứng khoán",
       "title": "Vinasun lỗ gần 55 tỷ đồng trong một quý, cổ phiếu xuống còn 5.490 đồng",
       "link": "https://vnbusiness.vn//vinasun-lo-gan-55-ty-dong-trong-mot-quy-co-phieu-xuong-con-5490-dong.html",
       "published": "Mon, 02 Nov 2026 08:59:09 GMT"
@@ -1009,12 +1015,6 @@
       "title": "Supe Lâm Thao: Lợi nhuận quý III tiếp tục suy giảm, lãi vay bào mòn kết quả kinh doanh",
       "link": "https://vnbusiness.vn//supe-lam-thao-loi-nhuan-quy-iii-tiep-tuc-suy-giam-lai-vay-bao-mon-ket-qua-kinh-doanh.html",
       "published": "Wed, 21 Oct 2026 09:19:34 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Cổ phiếu FPT: Cơ hội hồi sinh hay cuộc định giá lại?",
-      "link": "https://vnbusiness.vn//co-phieu-fpt-co-hoi-hoi-sinh-hay-cuoc-dinh-gia-lai.html",
-      "published": "Wed, 21 Oct 2026 08:06:42 GMT"
     }
   ]
 }
