@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-05T19:44:35.829480+00:00",
+  "collected_at": "2026-11-06T00:50:15.319535+00:00",
   "count": 170,
   "items": [
     {
@@ -142,7 +142,7 @@
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Bắt tạm giam quản lý một cửa hàng của ông Nguyễn Đức Tài",
+      "title": "Bắt tạm giam quản lý một cửa hàng",
       "link": "https://cafef.vn/bat-tam-giam-quan-ly-mot-cua-hang-cua-ong-nguyen-duc-tai-188261105110143643.chn",
       "published": "Thu, 05 Nov 26 11:05:00 +0700"
     },
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "06/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/11/0611-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1512135.htm",
+      "published": "Fri, 06 Nov 2026 06:00:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Góc nhìn 06/11: Áp lực bán gia tăng?",
       "link": "http://vietstock.vn/2026/11/goc-nhin-0611-ap-luc-ban-gia-tang-145-1512119.htm",
       "published": "Thu, 05 Nov 2026 19:31:29 +0700"
@@ -417,10 +423,16 @@
       "published": "Tue, 03 Nov 2026 19:42:26 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 04/11/2026: Tiếp tục dò đáy?",
-      "link": "http://vietstock.vn/2026/11/vietstock-daily-04112026-tiep-tuc-do-day-1636-1511197.htm",
-      "published": "Tue, 03 Nov 2026 18:18:27 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Tháng 10: HNX Index giảm 6,96% nhưng thanh khoản tăng 31,3%",
+      "link": "https://vneconomy.vn/thang-10-hnx-index-giam-696-nhung-thanh-khoan-tang-313.htm",
+      "published": "Fri, 06 Nov 2026 00:31:58 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng giữ đà tăng trong lúc chờ báo cáo việc làm Mỹ",
+      "link": "https://vneconomy.vn/gia-vang-giu-da-tang-trong-luc-cho-bao-cao-viec-lam-my.htm",
+      "published": "Fri, 06 Nov 2026 00:30:31 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Mon, 02 Nov 2026 03:42:42 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Lịch sử 10 năm qua cho thấy thị trường chứng khoán thường tăng mạnh trong tháng 11",
-      "link": "https://vneconomy.vn/lich-su-10-nam-qua-cho-thay-thi-truong-chung-khoan-thuong-tang-manh-trong-thang-11.htm",
-      "published": "Mon, 02 Nov 2026 03:09:54 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Những điều cần biết về vụ tấn công kỷ lục nhằm vào sàn tiền ảo Binance",
-      "link": "https://vneconomy.vn/nhung-dieu-can-biet-ve-vu-tan-cong-ky-luc-nham-vao-san-tien-ao-binance.htm",
-      "published": "Mon, 02 Nov 2026 03:01:12 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Cổ phiếu chuyển thế hệ, thị trường chứng khoán xuất hiện biến số mới",
+      "link": "https://vnbusiness.vn//co-phieu-chuyen-the-he-thi-truong-chung-khoan-xuat-hien-bien-so-moi.html",
+      "published": "Fri, 06 Nov 2026 00:43:45 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "FPT mất hơn 53% giá trị từ vùng đỉnh, gần 122.000 tỷ đồng vốn hóa bốc hơi",
       "link": "https://vnbusiness.vn//fpt-mat-hon-53-gia-tri-tu-vung-dinh-gan-122000-ty-dong-von-hoa-boc-hoi.html",
       "published": "Tue, 27 Oct 2026 08:57:46 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "KOS chưa thoát vòng xoáy giảm sàn, áp lực giải chấp gia tăng",
-      "link": "https://vnbusiness.vn//kos-chua-thoat-vong-xoay-giam-san-ap-luc-giai-chap-gia-tang.html",
-      "published": "Tue, 27 Oct 2026 08:44:25 GMT"
     }
   ]
 }
