@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-07T08:27:31.308612+00:00",
+  "collected_at": "2026-11-07T15:29:25.444034+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "VN-Index trải qua tuần biến động, cổ phiếu nào gây sức ép?",
+      "link": "http://vietstock.vn/2026/11/vn-index-trai-qua-tuan-bien-dong-co-phieu-nao-gay-suc-ep-830-1512761.htm",
+      "published": "Sat, 07 Nov 2026 20:30:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Vốn hóa HOSE giảm nhẹ trong tháng 10, câu lạc bộ tỷ USD giảm 2 doanh nghiệp",
       "link": "http://vietstock.vn/2026/11/von-hoa-hose-giam-nhe-trong-thang-10-cau-lac-bo-ty-usd-giam-2-doanh-nghiep-830-1512777.htm",
       "published": "Sat, 07 Nov 2026 12:38:16 +0700"
@@ -417,10 +423,16 @@
       "published": "Thu, 05 Nov 2026 08:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "05/11: Đọc gì trước giờ giao dịch chứng khoán?",
-      "link": "http://vietstock.vn/2026/11/0511-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1511710.htm",
-      "published": "Thu, 05 Nov 2026 06:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Quỹ ngoại: Tâm lý thận trọng nhà đầu tư trong nước đang tạo ra cơ hội tích lũy đặc biệt hấp dẫn",
+      "link": "https://vneconomy.vn/quy-ngoai-tam-ly-than-trong-nha-dau-tu-trong-nuoc-dang-tao-ra-co-hoi-tich-luy-dac-biet-hap-dan.htm",
+      "published": "Sat, 07 Nov 2026 12:30:17 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VN-Index dự báo đi ngang trong tuần tới",
+      "link": "https://vneconomy.vn/vn-index-du-bao-di-ngang-trong-tuan-toi.htm",
+      "published": "Sat, 07 Nov 2026 12:29:18 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Giá vàng hồi mạnh khi giá dầu lao dốc, SPDR Gold Trust bán ròng",
       "link": "https://vneconomy.vn/gia-vang-hoi-manh-khi-gia-dau-lao-doc-spdr-gold-trust-ban-rong.htm",
       "published": "Tue, 03 Nov 2026 00:46:07 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Công ty chứng khoán nhận định gì sau phiên bán tháo bất ngờ",
-      "link": "https://vneconomy.vn/cong-ty-chung-khoan-nhan-dinh-gi-sau-phien-ban-thao-bat-ngo-1306748.htm",
-      "published": "Mon, 02 Nov 2026 16:39:25 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Bản đồ lạm phát thế giới năm 2026",
-      "link": "https://vneconomy.vn/ban-do-lam-phat-the-gioi-nam-2026.htm",
-      "published": "Mon, 02 Nov 2026 13:03:40 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
