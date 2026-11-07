@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-11-06T21:20:53.637403+00:00",
+  "collected_at": "2026-11-07T01:41:33.627348+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nhà sản xuất Anh trai vượt ngàn chông gai thay chủ tịch, tổng giám đốc",
+      "link": "https://cafef.vn/nha-san-xuat-anh-trai-vuot-ngan-chong-gai-thay-chu-tich-tong-giam-doc-188261107083311337.chn",
+      "published": "Sat, 07 Nov 26 08:32:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Doanh nghiệp 167.000 tỷ của ông Phạm Nhật Vượng thay Giám đốc Tài chính",
@@ -297,12 +303,6 @@
       "published": "Thu, 05 Nov 26 15:10:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cập nhật diễn biến dòng vốn tỷ USD FTSE giải ngân vào 27 cổ phiếu Việt Nam: Một cột mốc quan trọng đang đến gần",
-      "link": "https://cafef.vn/cap-nhat-dien-bien-dong-von-ty-usd-ftse-giai-ngan-vao-27-co-phieu-viet-nam-mot-cot-moc-quan-trong-dang-den-gan-188261105150235851.chn",
-      "published": "Thu, 05 Nov 26 15:02:00 +0700"
-    },
-    {
       "source": "VietstockFinance",
       "title": "VinaCapital: Đảng Dân chủ thắng áp đảo là chất xúc tác cho VN-Index",
       "link": "http://vietstock.vn/2026/11/vinacapital-dang-dan-chu-thang-ap-dao-la-chat-xuc-tac-cho-vn-index-830-1512609.htm",
@@ -421,6 +421,12 @@
       "title": "GKM bị phạt 330 triệu đồng vì loạt vi phạm công bố thông tin và trái phiếu",
       "link": "http://vietstock.vn/2026/11/gkm-bi-phat-330-trieu-dong-vi-loat-vi-pham-cong-bo-thong-tin-va-trai-phieu-830-1511707.htm",
       "published": "Wed, 04 Nov 2026 21:45:19 +0700"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Vàng trượt giá, USD tăng mạnh sau báo cáo việc làm Mỹ",
+      "link": "https://vneconomy.vn/vang-truot-gia-usd-tang-manh-sau-bao-cao-viec-lam-my.htm",
+      "published": "Sat, 07 Nov 2026 01:29:55 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -715,12 +721,6 @@
       "title": "Ào ào bán tháo, cổ phiếu giảm sốc nhất 3 tháng",
       "link": "https://vneconomy.vn/ao-ao-ban-thao-co-phieu-giam-soc-nhat-3-thang.htm",
       "published": "Mon, 02 Nov 2026 08:28:54 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Binance vừa khôi phục chức năng rút tiền, 3,6 tỷ USD “chạy khỏi” sàn",
-      "link": "https://vneconomy.vn/binance-vua-khoi-phuc-chuc-nang-rut-tien-36-ty-usd-chay-khoi-san.htm",
-      "published": "Mon, 02 Nov 2026 07:37:53 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
