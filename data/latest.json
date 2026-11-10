@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-11-09T20:29:25.641752+00:00",
+  "collected_at": "2026-11-10T03:15:37.048705+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng 9999 Bảo Tín Minh Châu hôm nay 10/11/2026 bao nhiêu 1 chỉ?",
+      "link": "https://cafef.vn/gia-vang-9999-bao-tin-minh-chau-hom-nay-10-11-2026-bao-nhieu-1-chi-188261110080258983.chn",
+      "published": "Tue, 10 Nov 26 08:12:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giám đốc cấp cao phụ trách tài chính của PNJ từ nhiệm",
+      "link": "https://cafef.vn/giam-doc-cap-cao-phu-trach-tai-chinh-cua-pnj-tu-nhiem-188261110080205957.chn",
+      "published": "Tue, 10 Nov 26 08:01:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Loạt thương hiệu Việt về tay nước ngoài: Cuộc đi săn ngầm giữa cơn bão bán ròng hàng trăm nghìn tỷ trên sàn chứng khoán",
@@ -291,16 +303,16 @@
       "published": "Sun, 08 Nov 26 09:28:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Vinmec của tỷ phú Phạm Nhật Vượng khai trương bệnh viện đầu tiên tại Trung du và miền núi phía Bắc",
-      "link": "https://cafef.vn/vinmec-cua-ty-phu-pham-nhat-vuong-khai-truong-benh-vien-dau-tien-tai-trung-du-va-mien-nui-phia-bac-188261108085552015.chn",
-      "published": "Sun, 08 Nov 26 09:02:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 10/11",
+      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1011-830-1513270.htm",
+      "published": "Tue, 10 Nov 2026 08:00:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng hôm nay 8/11: Hồi phục nhẹ sau khi lao dốc",
-      "link": "https://cafef.vn/gia-vang-hom-nay-8-11-hoi-phuc-nhe-sau-khi-lao-doc-188261108090053315.chn",
-      "published": "Sun, 08 Nov 26 09:01:00 +0700"
+      "source": "VietstockFinance",
+      "title": "10/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/11/1011-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1513271.htm",
+      "published": "Tue, 10 Nov 2026 06:00:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -411,16 +423,34 @@
       "published": "Fri, 06 Nov 2026 19:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Chứng khoán Tuần 02-06/11/2026: Giằng co mạnh",
-      "link": "http://vietstock.vn/2026/11/chung-khoan-tuan-02-06112026-giang-co-manh-1636-1512517.htm",
-      "published": "Fri, 06 Nov 2026 18:17:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Vụ bê bối của CEO Jensen Huang đặt tương lai của Nvidia vào thế khó",
+      "link": "https://vneconomy.vn/vu-be-boi-cua-ceo-jensen-huang-dat-tuong-lai-cua-nvidia-vao-the-kho.htm",
+      "published": "Tue, 10 Nov 2026 02:09:34 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Nhịp đập Thị trường 06/11: Khối ngoại đảo chiều mua ròng",
-      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-0611-khoi-ngoai-dao-chieu-mua-rong-1636-1512213.htm",
-      "published": "Fri, 06 Nov 2026 16:37:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ tăng bùng nổ sau đợt bán tháo tuần trước, giá dầu lao dốc gần 6%",
+      "link": "https://vneconomy.vn/chung-khoan-my-tang-bung-no-sau-dot-ban-thao-tuan-truoc-gia-dau-lao-doc-gan-6.htm",
+      "published": "Tue, 10 Nov 2026 01:30:03 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Ủy ban Chứng khoán Nhà nước cảnh báo lừa đảo xác thực tài khoản chứng khoán",
+      "link": "https://vneconomy.vn/uy-ban-chung-khoan-nha-nuoc-canh-bao-lua-dao-xac-thuc-tai-khoan-chung-khoan.htm",
+      "published": "Tue, 10 Nov 2026 00:50:19 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "VN-Index tiếp tục giảm điểm, nhà đầu tư thận trọng trước ngưỡng 1700",
+      "link": "https://vneconomy.vn/vn-index-tiep-tuc-giam-diem-nha-dau-tu-than-trong-truoc-nguong-1700.htm",
+      "published": "Tue, 10 Nov 2026 00:30:19 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng tăng mạnh nhờ giá dầu và USD đồng loạt giảm, SPDR Gold Trust mua ròng",
+      "link": "https://vneconomy.vn/gia-vang-tang-manh-nho-gia-dau-va-usd-dong-loat-giam-spdr-gold-trust-mua-rong.htm",
+      "published": "Tue, 10 Nov 2026 00:27:37 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -693,34 +723,22 @@
       "published": "Thu, 05 Nov 2026 08:31:06 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Số người siêu giàu tài sản trên 30 triệu USD tại Việt Nam đạt 1.233 người và tăng mạnh trong 5 năm tới",
-      "link": "https://vneconomy.vn/so-nguoi-sieu-giau-tai-san-tren-30-trieu-usd-tai-viet-nam-dat-1233-nguoi-va-tang-manh-trong-5-nam-toi.htm",
-      "published": "Thu, 05 Nov 2026 06:55:33 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Bình Điền doanh thu tăng mạnh, lợi nhuận vẫn đi lùi, lãi vay phình to",
+      "link": "https://vnbusiness.vn//binh-dien-doanh-thu-tang-manh-loi-nhuan-van-di-lui-lai-vay-phinh-to.html",
+      "published": "Tue, 10 Nov 2026 01:36:34 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Sau khi đồng loạt tăng lãi suất trong tháng 9, các ngân hàng trung ương tạm dừng trong tháng 10",
-      "link": "https://vneconomy.vn/sau-khi-dong-loat-tang-lai-suat-trong-thang-9-cac-ngan-hang-trung-uong-tam-dung-trong-thang-10.htm",
-      "published": "Thu, 05 Nov 2026 06:54:15 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Đằng sau khoản lãi 602 tỷ đồng của Đèo Cả là hơn 7.000 tỷ đồng lãi vay chưa trả",
+      "link": "https://vnbusiness.vn//dang-sau-khoan-lai-602-ty-dong-cua-deo-ca-la-hon-7000-ty-dong-lai-vay-chua-tra.html",
+      "published": "Tue, 10 Nov 2026 01:28:41 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Đà tăng chững lại, cổ phiếu phân hóa",
-      "link": "https://vneconomy.vn/da-tang-chung-lai-co-phieu-phan-hoa.htm",
-      "published": "Thu, 05 Nov 2026 05:02:50 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Dự báo lãi suất vẫn duy trì ở mức cao, tạo áp lực lên biên lãi ròng nhóm ngân hàng trong ngắn hạn",
-      "link": "https://vneconomy.vn/du-bao-lai-suat-van-duy-tri-o-muc-cao-tao-ap-luc-len-bien-lai-rong-nhom-ngan-hang-trong-ngan-han.htm",
-      "published": "Thu, 05 Nov 2026 03:26:16 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giới phân tích nêu 4 tác động của kết quả bầu cử Mỹ đến thị trường tài chính",
-      "link": "https://vneconomy.vn/gioi-phan-tich-neu-4-tac-dong-cua-ket-qua-bau-cu-my-den-thi-truong-tai-chinh.htm",
-      "published": "Thu, 05 Nov 2026 03:22:14 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Chứng khoán phát tín hiệu tạo đáy, dòng tiền đang chọn mặt gửi vàng",
+      "link": "https://vnbusiness.vn//chung-khoan-phat-tin-hieu-tao-day-dong-tien-dang-chon-mat-gui-vang.html",
+      "published": "Tue, 10 Nov 2026 01:25:15 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1003,24 +1021,6 @@
       "title": "Sợi Thế Kỷ tăng doanh thu nhưng chưa thoát lỗ, gánh nặng lãi vay đè nặng",
       "link": "https://vnbusiness.vn//soi-the-ky-tang-doanh-thu-nhung-chua-thoat-lo-ganh-nang-lai-vay-de-nang.html",
       "published": "Thu, 29 Oct 2026 07:47:08 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Lợi nhuận tăng hơn 930 lần, Điện Quang vẫn mắc kẹt ở dòng tiền",
-      "link": "https://vnbusiness.vn//loi-nhuan-tang-hon-930-lan-dien-quang-van-mac-ket-o-dong-tien.html",
-      "published": "Thu, 29 Oct 2026 03:44:26 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Lợi nhuận Hodeco giảm sâu, dòng tiền âm, thù lao HĐQT tăng mạnh sau 9 tháng",
-      "link": "https://vnbusiness.vn//loi-nhuan-hodeco-giam-sau-dong-tien-am-thu-lao-hdqt-tang-manh-sau-9-thang.html",
-      "published": "Thu, 29 Oct 2026 03:42:27 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Bất động sản An Gia: Lợi nhuận quý III giảm sâu, hàng tồn kho tăng hơn 10 lần sau 9 tháng",
-      "link": "https://vnbusiness.vn//bat-dong-san-an-gia-loi-nhuan-quy-iii-giam-sau-hang-ton-kho-tang-hon-10-lan-sau-9-thang.html",
-      "published": "Thu, 29 Oct 2026 03:40:56 GMT"
     }
   ]
 }
