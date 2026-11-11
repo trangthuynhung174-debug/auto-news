@@ -1,7 +1,25 @@
 {
-  "collected_at": "2026-11-10T20:17:35.876404+00:00",
+  "collected_at": "2026-11-11T01:04:27.714777+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Không chỉ mở rộng kinh doanh, Masan đang tạo ra nhiều lợi nhuận hơn trên mỗi cổ phiếu",
+      "link": "https://cafef.vn/khong-chi-mo-rong-kinh-doanh-masan-dang-tao-ra-nhieu-loi-nhuan-hon-tren-moi-co-phieu-188261110153052983.chn",
+      "published": "Wed, 11 Nov 26 08:00:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "CEO Novaland vừa bán xong hơn 10,6 triệu cổ phiếu NVL",
+      "link": "https://cafef.vn/ceo-novaland-vua-ban-xong-hon-106-trieu-co-phieu-nvl-188261110232126973.chn",
+      "published": "Wed, 11 Nov 26 05:04:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Công ty dược hàng đầu Việt Nam sắp chi gần 800 tỷ tạm ứng cổ tức",
+      "link": "https://cafef.vn/cong-ty-duoc-hang-dau-viet-nam-sap-chi-gan-800-ty-tam-ung-co-tuc-188261110232226794.chn",
+      "published": "Wed, 11 Nov 26 05:03:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Một dữ liệu từ Vingroup, Petrolimex, Hoà Phát, Thế Giới Di Động...hé lộ động lực phía sau mục tiêu tăng trưởng GDP 2 con số",
@@ -52,7 +70,7 @@
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "Con gái ông Nguyễn Đăng Quang muốn bán sạch cổ phiếu Masan, dồn hơn 600 tỷ cho dự án kinh doanh riêng",
+      "title": "Yến Linh muốn bán cổ phiếu Masan, dồn hơn 600 tỷ cho dự án kinh doanh riêng",
       "link": "https://cafef.vn/con-gai-ong-nguyen-dang-quang-muon-ban-sach-co-phieu-masan-don-hon-600-ty-cho-du-an-kinh-doanh-rieng-188261110202745539.chn",
       "published": "Tue, 10 Nov 26 20:26:00 +0700"
     },
@@ -285,22 +303,10 @@
       "published": "Mon, 09 Nov 26 15:45:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "MBS dự báo lợi nhuận năm 2026 của loạt doanh nghiệp “hot”, một ông lớn có thể tăng hơn 100%",
-      "link": "https://cafef.vn/mbs-du-bao-loi-nhuan-nam-2026-cua-loat-doanh-nghiep-hot-mot-ong-lon-co-the-tang-hon-100-188261109144659075.chn",
-      "published": "Mon, 09 Nov 26 15:24:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Ông Nguyễn Hữu Chỉnh bị bắt, doanh nghiệp bổ nhiệm dàn lãnh đạo mới, cổ phiếu bất ngờ \"bốc đầu\" trên sàn chứng khoán",
-      "link": "https://cafef.vn/ong-nguyen-huu-chinh-bi-bat-doanh-nghiep-bo-nhiem-dan-lanh-dao-moi-co-phieu-bat-ngo-boc-dau-tren-san-chung-khoan-188261109151311943.chn",
-      "published": "Mon, 09 Nov 26 15:21:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "FPT Telecom sắp phát hành hơn 110 triệu cổ phiếu thưởng cho cổ đông",
-      "link": "https://cafef.vn/fpt-telecom-sap-phat-hanh-hon-110-trieu-co-phieu-thuong-cho-co-dong-188261109144524706.chn",
-      "published": "Mon, 09 Nov 26 15:10:00 +0700"
+      "source": "VietstockFinance",
+      "title": "11/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/11/1111-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1513620.htm",
+      "published": "Wed, 11 Nov 2026 06:02:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,22 @@
       "published": "Mon, 09 Nov 2026 06:02:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Vietstock Weekly 09-13/11/2026: Biến động khó lường?",
-      "link": "http://vietstock.vn/2026/11/vietstock-weekly-09-13112026-bien-dong-kho-luong-1636-1512748.htm",
-      "published": "Sun, 08 Nov 2026 18:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Kafi đặt mục tiêu lợi nhuận 3.000 tỷ đồng vào năm 2030",
+      "link": "https://vneconomy.vn/kafi-dat-muc-tieu-loi-nhuan-3000-ty-dong-vao-nam-2030.htm",
+      "published": "Wed, 11 Nov 2026 01:00:00 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Mặc cổ phiếu AI bị bán tháo, Anthoropic đặt mục tiêu định giá 1,4 nghìn tỷ USD khi IPO",
+      "link": "https://vneconomy.vn/mac-co-phieu-ai-bi-ban-thao-anthoropic-dat-muc-tieu-dinh-gia-14-nghin-ty-usd-khi-ipo.htm",
+      "published": "Wed, 11 Nov 2026 00:49:54 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng giảm chóng mặt, USD tăng mạnh sau báo cáo CPI Mỹ",
+      "link": "https://vneconomy.vn/gia-vang-giam-chong-mat-usd-tang-manh-sau-bao-cao-cpi-my.htm",
+      "published": "Wed, 11 Nov 2026 00:28:50 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -705,22 +723,10 @@
       "published": "Sat, 07 Nov 2026 02:51:32 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Nasdaq hồi phục khi nhà đầu tư bắt đáy cổ phiếu chip, giá dầu giảm 17% cả tuần",
-      "link": "https://vneconomy.vn/nasdaq-hoi-phuc-khi-nha-dau-tu-bat-day-co-phieu-chip-gia-dau-giam-17-ca-tuan.htm",
-      "published": "Sat, 07 Nov 2026 02:23:49 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Vàng trượt giá, USD tăng mạnh sau báo cáo việc làm Mỹ",
-      "link": "https://vneconomy.vn/vang-truot-gia-usd-tang-manh-sau-bao-cao-viec-lam-my.htm",
-      "published": "Sat, 07 Nov 2026 01:29:55 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "\"Soi\" phiên mua ròng hiếm hoi của khối ngoại cuối tuần",
-      "link": "https://vneconomy.vn/soi-phien-mua-rong-hiem-hoi-cua-khoi-ngoai-cuoi-tuan.htm",
-      "published": "Fri, 06 Nov 2026 13:42:26 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Khối ngoại bán ròng trăm nghìn tỷ, vì sao vẫn mạnh tay M&A?",
+      "link": "https://vnbusiness.vn//khoi-ngoai-ban-rong-tram-nghin-ty-vi-sao-van-manh-tay-ma.html",
+      "published": "Wed, 11 Nov 2026 00:18:21 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Doanh thu tăng 12,5%, vì sao lợi nhuận quý III của Habeco giảm hơn 17%?",
       "link": "https://vnbusiness.vn//doanh-thu-tang-125-vi-sao-loi-nhuan-quy-iii-cua-habeco-giam-hon-17.html",
       "published": "Fri, 30 Oct 2026 04:03:29 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Hòa Phát vượt kế hoạch lợi nhuận năm, cổ phiếu HPG vẫn ‘ì ạch’",
-      "link": "https://vnbusiness.vn//hoa-phat-vuot-ke-hoach-loi-nhuan-nam-co-phieu-hpg-van-i-ach.html",
-      "published": "Fri, 30 Oct 2026 04:03:04 GMT"
     }
   ]
 }
