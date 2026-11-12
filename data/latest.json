@@ -1,7 +1,103 @@
 {
-  "collected_at": "2026-11-11T23:24:52.873068+00:00",
+  "collected_at": "2026-11-12T06:09:08.345845+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nghịch lý: VN-Index vẫn ở vùng điểm cao, nhưng đa số cổ phiếu chứng khoán giảm giá từ đầu năm",
+      "link": "https://cafef.vn/nghich-ly-vn-index-van-o-vung-diem-cao-nhung-da-so-co-phieu-chung-khoan-giam-gia-tu-dau-nam-188261112112738526.chn",
+      "published": "Thu, 12 Nov 26 11:27:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chuyên gia: Khi nhà đầu tư chán nản nhất, một nhịp tăng mới có thể ở rất gần",
+      "link": "https://cafef.vn/chuyen-gia-khi-nha-dau-tu-chan-nan-nhat-mot-nhip-tang-moi-co-the-o-rat-gan-188261112103449537.chn",
+      "published": "Thu, 12 Nov 26 11:25:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Bất ngờ Chủ tịch Phú Thái, CEO Bkav, ‘cha đẻ’ UniKey và loạt nhân vật đình đám cùng xuất thân từ ngôi trường được ví như ‘MIT Việt Nam’",
+      "link": "https://cafef.vn/bat-ngo-chu-tich-phu-thai-ceo-bkav-cha-de-unikey-va-loat-nhan-vat-dinh-dam-cung-xuat-than-tu-ngoi-truong-duoc-vi-nhu-mit-viet-nam-188261112111848973.chn",
+      "published": "Thu, 12 Nov 26 11:22:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một doanh nghiệp Việt Nam cho 29 nhân viên đi khắp nơi trên thế giới để 'sếp' được ... 'rảnh rỗi'",
+      "link": "https://cafef.vn/mot-doanh-nghiep-viet-nam-cho-29-nhan-vien-di-khap-noi-tren-the-gioi-de-sep-duoc-ranh-roi-188261112111812225.chn",
+      "published": "Thu, 12 Nov 26 11:20:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Tập đoàn Bảo Việt sắp chi hơn 600 tỷ đồng trả cổ tức",
+      "link": "https://cafef.vn/tap-doan-bao-viet-sap-chi-hon-600-ty-dong-tra-co-tuc-188261112105524026.chn",
+      "published": "Thu, 12 Nov 26 11:06:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Nhà đầu tư chứng khoán cảnh giác chiêu lừa đảo xác thực định danh điện tử",
+      "link": "https://cafef.vn/nha-dau-tu-chung-khoan-canh-giac-chieu-lua-dao-xac-thuc-dinh-danh-dien-tu-188261112105253742.chn",
+      "published": "Thu, 12 Nov 26 11:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Hai mã PNJ và NLG bất ngờ lọt rổ chỉ số cận biên lớn nhất của MSCI",
+      "link": "https://cafef.vn/hai-ma-pnj-va-nlg-bat-ngo-lot-ro-chi-so-can-bien-lon-nhat-cua-msci-188261112105145258.chn",
+      "published": "Thu, 12 Nov 26 10:51:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng bạc 12/11 tiếp tục giảm, Phú Quý giữ biên độ chênh lệch rất thấp, SJC và BTMC thế nào?",
+      "link": "https://cafef.vn/gia-vang-bac-12-11-tiep-tuc-giam-phu-quy-giu-bien-do-chenh-lech-rat-thap-sjc-va-btmc-the-nao-188261112095731504.chn",
+      "published": "Thu, 12 Nov 26 10:08:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Gia đình nhà sáng lập sắp nắm quá bán Vinasun đúng lúc hãng taxi lỗ gần 70 tỷ đồng: Điều gì đang diễn ra?",
+      "link": "https://cafef.vn/gia-dinh-nha-sang-lap-sap-nam-qua-ban-vinasun-dung-luc-hang-taxi-lo-gan-70-ty-dong-dieu-gi-dang-dien-ra-188261112100345342.chn",
+      "published": "Thu, 12 Nov 26 10:04:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chuyên gia MBS: Thị trường thiếu sóng lớn, đâu là lợi thế cho Nhà đầu tư?",
+      "link": "https://cafef.vn/chuyen-gia-mbs-thi-truong-thieu-song-lon-dau-la-loi-the-cho-nha-dau-tu-188261111163924931.chn",
+      "published": "Thu, 12 Nov 26 10:00:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Quyết định gây chấn động tại doanh nghiệp vận hành nhà máy lọc dầu đầu tiên của Việt Nam",
+      "link": "https://cafef.vn/quyet-dinh-gay-chan-dong-tai-doanh-nghiep-van-hanh-nha-may-loc-dau-dau-tien-cua-viet-nam-188261112093215013.chn",
+      "published": "Thu, 12 Nov 26 09:32:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "TTC Hospitality bổ nhiệm một Phó Tổng Giám đốc",
+      "link": "https://cafef.vn/ttc-hospitality-bo-nhiem-mot-pho-tong-giam-doc-188261112092804101.chn",
+      "published": "Thu, 12 Nov 26 09:27:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Taseco Land điều chỉnh giảm mục tiêu lợi nhuận năm 2026",
+      "link": "https://cafef.vn/taseco-land-dieu-chinh-giam-muc-tieu-loi-nhuan-nam-2026-188261112092719086.chn",
+      "published": "Thu, 12 Nov 26 09:27:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Jensen Huang lại bị tố ngoại tình với cấp dưới, Nvidia sớm thay CEO?",
+      "link": "https://cafef.vn/jensen-huang-lai-bi-to-ngoai-tinh-voi-cap-duoi-nvidia-som-thay-ceo-188261112082006542.chn",
+      "published": "Thu, 12 Nov 26 08:50:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng 9999 Bảo Tín Mạnh Hải hôm nay 12/11/2026 bao nhiêu 1 chỉ?",
+      "link": "https://cafef.vn/gia-vang-9999-bao-tin-manh-hai-hom-nay-12-11-2026-bao-nhieu-1-chi-188261112081036765.chn",
+      "published": "Thu, 12 Nov 26 08:31:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Một cổ phiếu \"quốc dân\" bất ngờ về vùng định giá thấp hiếm thấy trong 17 năm",
+      "link": "https://cafef.vn/mot-co-phieu-quoc-dan-bat-ngo-ve-vung-dinh-gia-thap-hiem-thay-trong-17-nam-188261111161818128.chn",
+      "published": "Thu, 12 Nov 26 06:30:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "NHNN bắt đầu mua ngoại tệ, VNDIRECT chỉ ra tín hiệu đáng chú ý với VN-Index",
@@ -207,100 +303,34 @@
       "published": "Wed, 11 Nov 26 10:52:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Quý IV/2026: Nhóm phi tài chính và bảo hiểm tiếp sức đà tăng trưởng lợi nhuận?",
-      "link": "https://cafef.vn/quy-iv-2026-nhom-phi-tai-chinh-va-bao-hiem-tiep-suc-da-tang-truong-loi-nhuan-188261111094721701.chn",
-      "published": "Wed, 11 Nov 26 10:38:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Nhịp đập Thị trường 12/11: Rơi nhanh trước nhiều áp lực",
+      "link": "http://vietstock.vn/2026/11/nhip-dap-thi-truong-1211-roi-nhanh-truoc-nhieu-ap-luc-1636-1514083.htm",
+      "published": "Thu, 12 Nov 2026 11:57:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng hôm nay chạm đáy sau 1 tuần",
-      "link": "https://cafef.vn/gia-vang-hom-nay-cham-day-sau-1-tuan-188261111100201726.chn",
-      "published": "Wed, 11 Nov 26 10:16:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Ngày 12/11/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+      "link": "http://vietstock.vn/2026/11/ngay-12112026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-585-1513918.htm",
+      "published": "Thu, 12 Nov 2026 10:00:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một doanh nghiệp bị xử phạt do công bố thông tin sai lệch về lợi nhuận",
-      "link": "https://cafef.vn/mot-doanh-nghiep-bi-xu-phat-do-cong-bo-thong-tin-sai-lech-ve-loi-nhuan-188261111092522961.chn",
-      "published": "Wed, 11 Nov 26 10:15:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Top cổ phiếu đáng chú ý đầu phiên 12/11",
+      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1211-830-1513915.htm",
+      "published": "Thu, 12 Nov 2026 08:00:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một “ông lớn” ngành điện bất ngờ nâng mục tiêu lợi nhuận gấp hơn 4 lần",
-      "link": "https://cafef.vn/mot-ong-lon-nganh-dien-bat-ngo-nang-muc-tieu-loi-nhuan-gap-hon-4-lan-188261111101308848.chn",
-      "published": "Wed, 11 Nov 26 10:13:00 +0700"
+      "source": "VietstockFinance",
+      "title": "12/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/11/1211-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1514023.htm",
+      "published": "Thu, 12 Nov 2026 06:00:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nghiên cứu phân bảng chứng khoán giúp nhà đầu tư nhận diện rủi ro",
-      "link": "https://cafef.vn/nghien-cuu-phan-bang-chung-khoan-giup-nha-dau-tu-nhan-dien-rui-ro-188261111100433785.chn",
-      "published": "Wed, 11 Nov 26 10:04:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Thu thuế chuyển nhượng tài sản số, bảo đảm công bằng giữa các kênh đầu tư",
-      "link": "https://cafef.vn/thu-thue-chuyen-nhuong-tai-san-so-bao-dam-cong-bang-giua-cac-kenh-dau-tu-188261111100429738.chn",
-      "published": "Wed, 11 Nov 26 10:04:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Điện Máy Xanh chốt ngày chi hơn 2.500 tỷ đồng tạm ứng cổ tức 2026",
-      "link": "https://cafef.vn/dien-may-xanh-chot-ngay-chi-hon-2500-ty-dong-tam-ung-co-tuc-2026-188261111094319279.chn",
-      "published": "Wed, 11 Nov 26 09:43:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Không chỉ mở rộng kinh doanh, Masan đang tạo ra nhiều lợi nhuận hơn trên mỗi cổ phiếu",
-      "link": "https://cafef.vn/khong-chi-mo-rong-kinh-doanh-masan-dang-tao-ra-nhieu-loi-nhuan-hon-tren-moi-co-phieu-188261110153052983.chn",
-      "published": "Wed, 11 Nov 26 08:00:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "CEO Novaland vừa bán xong hơn 10,6 triệu cổ phiếu NVL",
-      "link": "https://cafef.vn/ceo-novaland-vua-ban-xong-hon-106-trieu-co-phieu-nvl-188261110232126973.chn",
-      "published": "Wed, 11 Nov 26 05:04:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Công ty dược hàng đầu Việt Nam sắp chi gần 800 tỷ tạm ứng cổ tức",
-      "link": "https://cafef.vn/cong-ty-duoc-hang-dau-viet-nam-sap-chi-gan-800-ty-tam-ung-co-tuc-188261110232226794.chn",
-      "published": "Wed, 11 Nov 26 05:03:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một dữ liệu từ Vingroup, Petrolimex, Hoà Phát, Thế Giới Di Động...hé lộ động lực phía sau mục tiêu tăng trưởng GDP 2 con số",
-      "link": "https://cafef.vn/mot-du-lieu-tu-vingroup-petrolimex-hoa-phat-the-gioi-di-donghe-lo-dong-luc-phia-sau-muc-tieu-tang-truong-gdp-2-con-so-188261110230545272.chn",
-      "published": "Wed, 11 Nov 26 00:05:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chứng khoán bất ngờ bùng nổ sau thông tin quan trọng, chuyên gia hé lộ 3 nhóm cổ phiếu hưởng lợi",
-      "link": "https://cafef.vn/chung-khoan-bat-ngo-bung-no-sau-thong-tin-quan-trong-chuyen-gia-he-lo-3-nhom-co-phieu-huong-loi-18826111022364639.chn",
-      "published": "Wed, 11 Nov 26 00:04:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Lộ diện nhóm ngành được dự báo tăng trưởng lợi nhuận gần 50% trong quý 4",
-      "link": "https://cafef.vn/lo-dien-nhom-nganh-duoc-du-bao-tang-truong-loi-nhuan-gan-50-trong-quy-4-188261110162111775.chn",
-      "published": "Wed, 11 Nov 26 00:03:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Một CTCK dự báo VN-Index có thể vượt 2.000 điểm vào cuối năm",
-      "link": "https://cafef.vn/mot-ctck-du-bao-vn-index-co-the-vuot-2000-diem-vao-cuoi-nam-188261110155120228.chn",
-      "published": "Wed, 11 Nov 26 00:03:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Điện Máy Xanh chốt ngày chia hơn 2.500 tỷ đồng cổ tức, một \"đại gia\" sắp nhận về hàng nghìn tỷ",
-      "link": "https://cafef.vn/dien-may-xanh-chot-ngay-chia-hon-2500-ty-dong-co-tuc-mot-dai-gia-sap-nhan-ve-hang-nghin-ty-18826111023023233.chn",
-      "published": "Wed, 11 Nov 26 00:02:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Bất ngờ: Chủ tịch Trần Hùng Huy nhận tiền cổ tức từ ACB ít hơn vợ chồng bầu Kiên",
-      "link": "https://cafef.vn/bat-ngo-chu-tich-tran-hung-huy-nhan-tien-co-tuc-tu-acb-it-hon-vo-chong-bau-kien-188261110160054803.chn",
-      "published": "Wed, 11 Nov 26 00:01:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Dầu khí An Pha và loạt doanh nghiệp bị xử phạt vi phạm công bố thông tin",
+      "link": "http://vietstock.vn/2026/11/dau-khi-an-pha-va-loat-doanh-nghiep-bi-xu-phat-vi-pham-cong-bo-thong-tin-3118-1514011.htm",
+      "published": "Wed, 11 Nov 2026 19:47:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -393,34 +423,52 @@
       "published": "Tue, 10 Nov 2026 10:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Top cổ phiếu đáng chú ý đầu phiên 10/11",
-      "link": "http://vietstock.vn/2026/11/top-co-phieu-dang-chu-y-dau-phien-1011-830-1513270.htm",
-      "published": "Tue, 10 Nov 2026 08:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Thanh khoản tiếp tục “dò đáy”, khối ngoại tăng bán",
+      "link": "https://vneconomy.vn/thanh-khoan-tiep-tuc-do-day-khoi-ngoai-tang-ban.htm",
+      "published": "Thu, 12 Nov 2026 05:07:10 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "10/11: Đọc gì trước giờ giao dịch chứng khoán?",
-      "link": "http://vietstock.vn/2026/11/1011-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1513271.htm",
-      "published": "Tue, 10 Nov 2026 06:00:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Ray Dalio và những nguyên tắc giúp ra quyết định tốt hơn",
+      "link": "https://vneconomy.vn/ray-dalio-va-nhung-nguyen-tac-giup-ra-quyet-dinh-tot-hon.htm",
+      "published": "Thu, 12 Nov 2026 04:50:55 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Dòng tiền chảy mạnh vào nhóm chứng khoán, bất động sản",
-      "link": "http://vietstock.vn/2026/11/dong-tien-chay-manh-vao-nhom-chung-khoan-bat-dong-san-830-1513091.htm",
-      "published": "Mon, 09 Nov 2026 20:30:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Rủi ro tiềm ẩn, mỗi quý nhà đầu tư vay margin đang phải gánh chi phí lãi khoảng 13 nghìn tỷ đồng",
+      "link": "https://vneconomy.vn/rui-ro-tiem-an-moi-quy-nha-dau-tu-vay-margin-dang-phai-ganh-chi-phi-lai-khoang-13-nghin-ty-dong.htm",
+      "published": "Thu, 12 Nov 2026 04:00:23 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "UBCKNN cảnh báo lừa đảo núp bóng xác thực tài khoản chứng khoán",
-      "link": "http://vietstock.vn/2026/11/ubcknn-canh-bao-lua-dao-nup-bong-xac-thuc-tai-khoan-chung-khoan-830-1513251.htm",
-      "published": "Mon, 09 Nov 2026 19:37:08 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Mối lo về AI khiến khối ngoại rút vốn mạnh khỏi chứng khoán châu Á",
+      "link": "https://vneconomy.vn/moi-lo-ve-ai-khien-khoi-ngoai-rut-von-manh-khoi-chung-khoan-chau-a.htm",
+      "published": "Thu, 12 Nov 2026 03:56:30 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Theo dấu dòng tiền cá mập 09/11: Tự doanh, khối ngoại cùng bán ròng giữa lúc thanh khoản thấp",
-      "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-0911-tu-doanh-khoi-ngoai-cung-ban-rong-giua-luc-thanh-khoan-thap-830-1513181.htm",
-      "published": "Mon, 09 Nov 2026 19:34:43 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Vốn hóa thị trường chứng khoán Việt Nam tăng 3,3% đạt 10.306,94 nghìn tỷ đồng",
+      "link": "https://vneconomy.vn/von-hoa-thi-truong-chung-khoan-viet-nam-tang-33-dat-1030694-nghin-ty-dong.htm",
+      "published": "Thu, 12 Nov 2026 03:56:21 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Đồng USD cao nhất 19 tháng do khả năng Fed phải tăng lãi suất mạnh tay hơn",
+      "link": "https://vneconomy.vn/dong-usd-cao-nhat-19-thang-do-kha-nang-fed-phai-tang-lai-suat-manh-tay-hon.htm",
+      "published": "Thu, 12 Nov 2026 02:22:18 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ bật tăng nhờ cổ phiếu AI hồi mạnh, giá dầu đi lên sau tuyên bố của Iran",
+      "link": "https://vneconomy.vn/chung-khoan-my-bat-tang-nho-co-phieu-ai-hoi-manh-gia-dau-di-len-sau-tuyen-bo-cua-iran.htm",
+      "published": "Thu, 12 Nov 2026 01:31:26 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng giảm dưới mốc 4.000 USD/oz vì mối lo lãi suất cao hơn lâu hơn",
+      "link": "https://vneconomy.vn/gia-vang-giam-duoi-moc-4000-usdoz-vi-moi-lo-lai-suat-cao-hon-lau-hon.htm",
+      "published": "Thu, 12 Nov 2026 00:30:43 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -675,52 +723,22 @@
       "published": "Mon, 09 Nov 2026 04:30:34 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Mặt bằng lãi suất mới sẽ kích hoạt nhịp phục hồi ngắn hạn ở nhóm nhạy cảm cao với chi phí vốn?",
-      "link": "https://vneconomy.vn/mat-bang-lai-suat-moi-se-kich-hoat-nhip-phuc-hoi-ngan-han-o-nhom-nhay-cam-cao-voi-chi-phi-von.htm",
-      "published": "Mon, 09 Nov 2026 03:23:15 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Lợi nhuận Hodeco giảm 88,4%, cổ phiếu vẫn bật tăng hơn 30%",
+      "link": "https://vnbusiness.vn//loi-nhuan-hodeco-giam-884-co-phieu-van-bat-tang-hon-30.html",
+      "published": "Thu, 12 Nov 2026 04:18:25 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Hơn một nửa 100 altcoin hàng đầu năm 2021 đã mất 90% giá trị",
-      "link": "https://vneconomy.vn/hon-mot-nua-100-altcoin-hang-dau-nam-2021-da-mat-90-gia-tri.htm",
-      "published": "Mon, 09 Nov 2026 02:35:50 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Gia đình nhà sáng lập muốn nắm quyền chi phối Vinasun, cổ đông lớn liên tục biến động",
+      "link": "https://vnbusiness.vn//gia-dinh-nha-sang-lap-muon-nam-quyen-chi-phoi-vinasun-co-dong-lon-lien-tuc-bien-dong.html",
+      "published": "Thu, 12 Nov 2026 04:18:01 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "OpenAI đạt định giá 1.250 tỷ USD sau vòng gọi vốn 11 tỷ USD",
-      "link": "https://vneconomy.vn/openai-dat-dinh-gia-1250-ty-usd-sau-vong-goi-von-11-ty-usd.htm",
-      "published": "Mon, 09 Nov 2026 02:35:34 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Ngân hàng Thế giới dự báo giá vàng và giá bạc giảm trong năm 2027 và 2028",
-      "link": "https://vneconomy.vn/ngan-hang-the-gioi-du-bao-gia-vang-va-gia-bac-giam-trong-nam-2027-va-2028.htm",
-      "published": "Mon, 09 Nov 2026 02:01:46 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "NAB gia nhập nhóm doanh nghiệp tỷ USD, PGV, LPS và GEL bị loại",
-      "link": "https://vneconomy.vn/nab-gia-nhap-nhom-doanh-nghiep-ty-usd-pgv-lps-va-gel-bi-loai.htm",
-      "published": "Mon, 09 Nov 2026 02:01:37 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "HNX huy động được 69.362 tỷ đồng trái phiếu Chính phủ, đạt 173% kế hoạch phát hành tháng 10",
-      "link": "https://vneconomy.vn/hnx-huy-dong-duoc-69362-ty-dong-trai-phieu-chinh-phu-dat-173-ke-hoach-phat-hanh-thang-10.htm",
-      "published": "Mon, 09 Nov 2026 02:00:58 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Áp lực giảm giá vàng còn lớn do triển vọng lãi suất cao hơn lâu hơn",
-      "link": "https://vneconomy.vn/ap-luc-giam-gia-vang-con-lon-do-trien-vong-lai-suat-cao-hon-lau-hon.htm",
-      "published": "Mon, 09 Nov 2026 00:27:19 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Thanh khoản tăng mạnh, tiền đổ vào nhóm Chứng khoán",
-      "link": "https://vneconomy.vn/thanh-khoan-tang-manh-tien-do-vao-nhom-chung-khoan.htm",
-      "published": "Mon, 09 Nov 2026 00:27:07 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Chứng khoán Việt Nam trước cơ hội đón dòng vốn dài hạn từ Nhật Bản",
+      "link": "https://vnbusiness.vn//chung-khoan-viet-nam-truoc-co-hoi-don-dong-von-dai-han-tu-nhat-ban.html",
+      "published": "Thu, 12 Nov 2026 00:46:09 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1003,24 +1021,6 @@
       "title": "Khang Điền: Hàng tồn kho tiến sát 30.000 tỷ đồng, nợ phải trả tăng gần 80%",
       "link": "https://vnbusiness.vn//khang-dien-hang-ton-kho-tien-sat-30000-ty-dong-no-phai-tra-tang-gan-80.html",
       "published": "Mon, 02 Nov 2026 03:54:42 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Lợi nhuận Big 3 tăng mạnh, cổ phiếu vẫn chịu áp lực điều chỉnh",
-      "link": "https://vnbusiness.vn//loi-nhuan-big-3-tang-manh-co-phieu-van-chiu-ap-luc-dieu-chinh.html",
-      "published": "Mon, 02 Nov 2026 03:54:03 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Doanh nghiệp địa ốc lãi lớn, áp lực dòng tiền vẫn đè nặng cổ phiếu",
-      "link": "https://vnbusiness.vn//doanh-nghiep-dia-oc-lai-lon-ap-luc-dong-tien-van-de-nang-co-phieu.html",
-      "published": "Mon, 02 Nov 2026 00:40:46 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Becamex IDC gánh hơn 26.000 tỷ đồng nợ vay, lợi nhuận suy giảm",
-      "link": "https://vnbusiness.vn//becamex-idc-ganh-hon-26000-ty-dong-no-vay-loi-nhuan-suy-giam.html",
-      "published": "Sat, 31 Oct 2026 02:10:54 GMT"
     }
   ]
 }
