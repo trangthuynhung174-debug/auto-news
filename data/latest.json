@@ -1,7 +1,43 @@
 {
-  "collected_at": "2026-11-13T11:55:46.361842+00:00",
+  "collected_at": "2026-11-13T19:21:35.066443+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chuyên gia: Thanh khoản chứng khoán có thể đạt 60.000 – 70.000 tỷ đồng mỗi phiên trong chu kỳ tới",
+      "link": "https://cafef.vn/chuyen-gia-thanh-khoan-chung-khoan-co-the-dat-60000-70000-ty-dong-moi-phien-trong-chu-ky-toi-188261112221238139.chn",
+      "published": "Sat, 14 Nov 26 00:04:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Dragon Capital: Chứng khoán Việt Nam chưa phản ánh đầy đủ triển vọng đảo chiều lãi suất",
+      "link": "https://cafef.vn/dragon-capital-chung-khoan-viet-nam-chua-phan-anh-day-du-trien-vong-dao-chieu-lai-suat-188261113115221205.chn",
+      "published": "Sat, 14 Nov 26 00:03:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Lãi vượt kế hoạch năm, nắm \"núi tiền\" gần 50.000 tỷ đồng, một ông lớn sắp đón cú hích từ siêu dự án 12 tỷ USD",
+      "link": "https://cafef.vn/lai-vuot-ke-hoach-nam-nam-nui-tien-gan-50000-ty-dong-mot-ong-lon-sap-don-cu-hich-tu-sieu-du-an-12-ty-usd-188261113215632023.chn",
+      "published": "Sat, 14 Nov 26 00:02:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Khối ngoại bán ròng gần nghìn tỷ trong tuần 9/13/11, một cổ phiếu bị \"xả\" gần 900 tỷ",
+      "link": "https://cafef.vn/khoi-ngoai-ban-rong-gan-nghin-ty-trong-tuan-9-13-11-mot-co-phieu-bi-xa-gan-900-ty-188261113230204714.chn",
+      "published": "Fri, 13 Nov 26 23:01:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Khai sai thuế, PNJ bị phạt gần 2 tỷ đồng",
+      "link": "https://cafef.vn/khai-sai-thue-pnj-bi-phat-gan-2-ty-dong-188261113204306125.chn",
+      "published": "Fri, 13 Nov 26 20:42:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Ái nữ kín tiếng của Chủ tịch Hồ Minh Quang lần đầu đăng ký mua cổ phiếu Thép Nam Kim",
+      "link": "https://cafef.vn/ai-nu-kin-tieng-cua-chu-tich-ho-minh-quang-lan-dau-dang-ky-mua-co-phieu-thep-nam-kim-188261113200054275.chn",
+      "published": "Fri, 13 Nov 26 20:03:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "Tự doanh CTCK mua ròng hàng trăm tỷ phiên cuối tuần, cổ phiếu nào được \"gom\" mạnh nhất?",
@@ -267,40 +303,16 @@
       "published": "Thu, 12 Nov 26 14:14:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Trái phiếu doanh nghiệp tháng 10: Lãi suất lên 12,5%, áp lực đáo hạn gần 45.000 tỷ đồng",
-      "link": "https://cafef.vn/trai-phieu-doanh-nghiep-thang-10-lai-suat-len-125-ap-luc-dao-han-gan-45000-ty-dong-188261112141319609.chn",
-      "published": "Thu, 12 Nov 26 14:13:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Doanh nghiệp bất động sản, khách sạn bị phạt vì chậm công bố thông tin",
+      "link": "http://vietstock.vn/2026/11/doanh-nghiep-bat-dong-san-khach-san-bi-phat-vi-cham-cong-bo-thong-tin-830-1514797.htm",
+      "published": "Fri, 13 Nov 2026 19:32:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Động thái của Tổng Giám đốc Vinasun",
-      "link": "https://cafef.vn/dong-thai-cua-tong-giam-doc-vinasun-188261112140301816.chn",
-      "published": "Thu, 12 Nov 26 14:02:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Hương Ly muốn mua 5 triệu cổ phiếu giữa lúc thị giá lao dốc",
-      "link": "https://cafef.vn/huong-ly-muon-mua-5-trieu-co-phieu-giua-luc-thi-gia-lao-doc-188261112134504809.chn",
-      "published": "Thu, 12 Nov 26 13:44:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Nghịch lý: VN-Index vẫn ở vùng điểm cao, nhưng đa số cổ phiếu chứng khoán giảm giá từ đầu năm",
-      "link": "https://cafef.vn/nghich-ly-vn-index-van-o-vung-diem-cao-nhung-da-so-co-phieu-chung-khoan-giam-gia-tu-dau-nam-188261112112738526.chn",
-      "published": "Thu, 12 Nov 26 11:27:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Chuyên gia: Khi nhà đầu tư chán nản nhất, một nhịp tăng mới có thể ở rất gần",
-      "link": "https://cafef.vn/chuyen-gia-khi-nha-dau-tu-chan-nan-nhat-mot-nhip-tang-moi-co-the-o-rat-gan-188261112103449537.chn",
-      "published": "Thu, 12 Nov 26 11:25:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Bất ngờ Chủ tịch Phú Thái, CEO Bkav, ‘cha đẻ’ UniKey và loạt nhân vật đình đám cùng xuất thân từ ngôi trường được ví như ‘MIT Việt Nam’",
-      "link": "https://cafef.vn/bat-ngo-chu-tich-phu-thai-ceo-bkav-cha-de-unikey-va-loat-nhan-vat-dinh-dam-cung-xuat-than-tu-ngoi-truong-duoc-vi-nhu-mit-viet-nam-188261112111848973.chn",
-      "published": "Thu, 12 Nov 26 11:22:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Theo dấu dòng tiền cá mập 13/11: Khối ngoại và tự doanh hành động trái chiều tại VIX",
+      "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-1311-khoi-ngoai-va-tu-doanh-hanh-dong-trai-chieu-tai-vix-830-1514757.htm",
+      "published": "Fri, 13 Nov 2026 19:12:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -411,16 +423,22 @@
       "published": "Wed, 11 Nov 2026 16:42:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Biến động sở hữu cổ đông lớn, PIT tăng trần liên tiếp",
-      "link": "http://vietstock.vn/2026/11/bien-dong-so-huu-co-dong-lon-pit-tang-tran-lien-tiep-830-1513730.htm",
-      "published": "Wed, 11 Nov 2026 14:27:11 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Trung Quốc cảnh báo xử lý nghiêm các trường hợp nhà giàu trốn thuế",
+      "link": "https://vneconomy.vn/trung-quoc-canh-bao-xu-ly-nghiem-cac-truong-hop-nha-giau-tron-thue.htm",
+      "published": "Fri, 13 Nov 2026 13:08:36 GMT"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Phân tích kỹ thuật phiên chiều 11/11: Áp lực bán vẫn hiện hữu",
-      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-phien-chieu-1111-ap-luc-ban-van-hien-huu-585-1513729.htm",
-      "published": "Wed, 11 Nov 2026 13:02:56 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Có tới 88 quỹ cổ phiếu báo lỗ nặng trong tháng 10",
+      "link": "https://vneconomy.vn/co-toi-88-quy-co-phieu-bao-lo-nang-trong-thang-10.htm",
+      "published": "Fri, 13 Nov 2026 13:08:23 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Khối ngoại tiếp tục mua ròng, gom nhiều nhất một cổ phiếu chứng khoán",
+      "link": "https://vneconomy.vn/khoi-ngoai-tiep-tuc-mua-rong-gom-nhieu-nhat-mot-co-phieu-chung-khoan.htm",
+      "published": "Fri, 13 Nov 2026 13:08:13 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -703,24 +721,6 @@
       "title": "Bùng nổ cùng thế giới, bảng điện xanh mướt, thanh khoản phục hồi",
       "link": "https://vneconomy.vn/bung-no-cung-the-gioi-bang-dien-xanh-muot-thanh-khoan-phuc-hoi.htm",
       "published": "Tue, 10 Nov 2026 08:21:50 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Vì sao đồng yên khó phục hồi lên mức cao hơn sau đợt can thiệp tỷ giá kỷ lục của Nhật Bản?",
-      "link": "https://vneconomy.vn/vi-sao-dong-yen-kho-phuc-hoi-len-muc-cao-hon-sau-dot-can-thiep-ty-gia-ky-luc-cua-nhat-ban.htm",
-      "published": "Tue, 10 Nov 2026 07:23:04 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Các ETF ngoại bất ngờ bị rút ròng mạnh",
-      "link": "https://vneconomy.vn/cac-etf-ngoai-bat-ngo-bi-rut-rong-manh.htm",
-      "published": "Tue, 10 Nov 2026 04:25:28 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tái cơ cấu ETF chỉ số HoSE tháng 10/2026: Dòng tiền dự kiến tập trung mạnh vào GMD, REE và VJC",
-      "link": "https://vneconomy.vn/tai-co-cau-etf-chi-so-hose-thang-102026-dong-tien-du-kien-tap-trung-manh-vao-gmd-ree-va-vjc.htm",
-      "published": "Tue, 10 Nov 2026 04:25:21 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
