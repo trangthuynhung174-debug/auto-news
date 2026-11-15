@@ -1,7 +1,19 @@
 {
-  "collected_at": "2026-11-14T23:42:39.181269+00:00",
+  "collected_at": "2026-11-15T05:17:43.633364+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Từ công chức đến ông chủ Sunshine: Chủ tịch Đỗ Anh Tuấn trở lại trường cũ tài trợ 20 tỷ đồng và tìm kiếm nhân tài",
+      "link": "https://cafef.vn/tu-cong-chuc-den-ong-chu-sunshine-chu-tich-do-anh-tuan-tro-lai-truong-cu-tai-tro-20-ty-dong-va-tim-kiem-nhan-tai-188261115085057017.chn",
+      "published": "Sun, 15 Nov 26 08:51:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Lịch chốt quyền cổ tức tuần 16-20/11: Cổ tức tiền mặt cao nhất 45%",
+      "link": "https://cafef.vn/lich-chot-quyen-co-tuc-tuan-16-20-11-co-tuc-tien-mat-cao-nhat-45-188261114161213186.chn",
+      "published": "Sun, 15 Nov 26 08:05:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "1 lượng vàng đổi 90 lượng bạc, mua gì đây?",
@@ -46,8 +58,8 @@
     },
     {
       "source": "CafeF - Chứng khoán",
-      "title": "FECON trúng hàng nghìn tỷ đồng hợp đồng, Vingroup gần như vắng bóng, Sun Group còn những gói thầu nào?",
-      "link": "https://cafef.vn/fecon-trung-hang-nghin-ty-dong-hop-dong-vingroup-gan-nhu-vang-bong-sun-group-con-nhung-goi-thau-nao-188261114115755932.chn",
+      "title": "FECON trúng hàng nghìn tỷ đồng hợp đồng, hiện còn những gói thầu nào với các ông lớn?",
+      "link": "https://cafef.vn/fecon-trung-hang-nghin-ty-dong-hop-dong-hien-con-nhung-goi-thau-nao-voi-cac-ong-lon-188261114115755932.chn",
       "published": "Sat, 14 Nov 26 12:07:00 +0700"
     },
     {
@@ -291,16 +303,10 @@
       "published": "Thu, 12 Nov 26 22:53:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "Toàn văn thông báo chính thức của Nvidia về việc Jensen Huang từ chức CEO, công bố người tạm quyền thay thế",
-      "link": "https://cafef.vn/toan-van-thong-bao-chinh-thuc-cua-nvidia-ve-viec-jensen-huang-tu-chuc-ceo-cong-bo-nguoi-tam-quyen-thay-the-188261112225140272.chn",
-      "published": "Thu, 12 Nov 26 22:51:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "MB dự kiến chào bán 200 triệu cổ phiếu cho 6 nhà đầu tư",
-      "link": "https://cafef.vn/mb-du-kien-chao-ban-200-trieu-co-phieu-cho-6-nha-dau-tu-188261112203854871.chn",
-      "published": "Thu, 12 Nov 26 20:38:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 16-20/11/2026",
+      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-16-20112026-585-1514888.htm",
+      "published": "Sun, 15 Nov 2026 07:30:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,16 @@
       "published": "Wed, 11 Nov 2026 19:22:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Vietstock Daily 12/11/2026: Giằng co chưa dứt?",
-      "link": "http://vietstock.vn/2026/11/vietstock-daily-12112026-giang-co-chua-dut-1636-1513917.htm",
-      "published": "Wed, 11 Nov 2026 18:17:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Nhiều quỹ lớn tiếp tục tăng tỷ trọng tiền mặt, phòng ngừa thị trường nhiều biến động",
+      "link": "https://vneconomy.vn/nhieu-quy-lon-tiep-tuc-tang-ty-trong-tien-mat-phong-ngua-thi-truong-nhieu-bien-dong.htm",
+      "published": "Sun, 15 Nov 2026 03:29:25 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Xu thế dòng tiền: Vì sao thanh khoản “bốc hơi”?",
+      "link": "https://vneconomy.vn/xu-the-dong-tien-vi-sao-thanh-khoan-boc-hoi.htm",
+      "published": "Sun, 15 Nov 2026 03:25:49 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "Tháng 10: Giao dịch trái phiếu Chính phủ không diễn ra, VN30 giảm 10%",
       "link": "https://vneconomy.vn/thang-10-giao-dich-trai-phieu-chinh-phu-khong-dien-ra-vn30-giam-10.htm",
       "published": "Tue, 10 Nov 2026 13:31:09 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tâm lý nhà đầu tư tích cực, khối ngoại cũng gom ròng gần 500 tỷ",
-      "link": "https://vneconomy.vn/tam-ly-nha-dau-tu-tich-cuc-khoi-ngoai-cung-gom-rong-gan-500-ty.htm",
-      "published": "Tue, 10 Nov 2026 13:30:50 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Trong quá trình phục hồi, VN-Index vẫn có thể đối diện những phiên sụt giảm bất ngờ",
-      "link": "https://vneconomy.vn/trong-qua-trinh-phuc-hoi-vn-index-van-co-the-doi-dien-nhung-phien-sut-giam-bat-ngo.htm",
-      "published": "Tue, 10 Nov 2026 13:30:40 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
