@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-17T18:14:24.665521+00:00",
+  "collected_at": "2026-11-18T01:30:02.633508+00:00",
   "count": 170,
   "items": [
     {
@@ -304,6 +304,12 @@
     },
     {
       "source": "VietstockFinance",
+      "title": "18/11: Đọc gì trước giờ giao dịch chứng khoán?",
+      "link": "http://vietstock.vn/2026/11/1811-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1515702.htm",
+      "published": "Wed, 18 Nov 2026 06:02:00 +0700"
+    },
+    {
+      "source": "VietstockFinance",
       "title": "Theo dấu dòng tiền cá mập 17/11: Tự doanh, khối ngoại đồng thuận bán ròng",
       "link": "http://vietstock.vn/2026/11/theo-dau-dong-tien-ca-map-1711-tu-doanh-khoi-ngoai-dong-thuan-ban-rong-830-1515694.htm",
       "published": "Tue, 17 Nov 2026 19:34:00 +0700"
@@ -417,10 +423,16 @@
       "published": "Mon, 16 Nov 2026 10:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "Hơn 29 triệu cổ phiếu đổi chủ, Hapro xoay chuyển cục diện tư cách đại chúng",
-      "link": "http://vietstock.vn/2026/11/hon-29-trieu-co-phieu-doi-chu-hapro-xoay-chuyen-cuc-dien-tu-cach-dai-chung-830-1513088.htm",
-      "published": "Mon, 16 Nov 2026 08:02:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Chứng khoán Mỹ bán tháo trước khi Nvidia công bố báo cáo tài chính, giá dầu tăng do tin từ eo biển Hormuz",
+      "link": "https://vneconomy.vn/chung-khoan-my-ban-thao-truoc-khi-nvidia-cong-bo-bao-cao-tai-chinh-gia-dau-tang-do-tin-tu-eo-bien-hormuz.htm",
+      "published": "Wed, 18 Nov 2026 01:24:50 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Giá vàng vẫn đuối, SPDR Gold Trust mua ròng liên tục",
+      "link": "https://vneconomy.vn/gia-vang-van-duoi-spdr-gold-trust-mua-rong-lien-tuc.htm",
+      "published": "Wed, 18 Nov 2026 00:43:44 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -711,16 +723,10 @@
       "published": "Thu, 12 Nov 2026 15:30:48 GMT"
     },
     {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "VN-Index giảm nhẹ, nhà đầu tư thận trọng trước kháng cự 1750 điểm",
-      "link": "https://vneconomy.vn/vn-index-giam-nhe-nha-dau-tu-than-trong-truoc-khang-cu-1750-diem.htm",
-      "published": "Thu, 12 Nov 2026 15:30:36 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Chứng khoán sinh lời kém, giới nhà giàu Ấn Độ tìm đến tài sản hữu hình",
-      "link": "https://vneconomy.vn/chung-khoan-sinh-loi-kem-gioi-nha-giau-an-do-tim-den-tai-san-huu-hinh.htm",
-      "published": "Thu, 12 Nov 2026 12:22:52 GMT"
+      "source": "VnBusiness - Chứng khoán",
+      "title": "Cổ phiếu bất động sản: Tiền lớn trở lại, cơ hội phục hồi phân hóa",
+      "link": "https://vnbusiness.vn//co-phieu-bat-dong-san-tien-lon-tro-lai-co-hoi-phuc-hoi-phan-hoa.html",
+      "published": "Wed, 18 Nov 2026 00:26:05 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
@@ -1015,12 +1021,6 @@
       "title": "Hà Đô đối mặt áp lực kép: Lợi nhuận giảm, dự phòng nợ khó đòi gần 940 tỷ đồng",
       "link": "https://vnbusiness.vn//ha-do-doi-mat-ap-luc-kep-loi-nhuan-giam-du-phong-no-kho-doi-gan-940-ty-dong.html",
       "published": "Wed, 04 Nov 2026 03:42:45 GMT"
-    },
-    {
-      "source": "VnBusiness - Chứng khoán",
-      "title": "Lợi nhuận Kosy teo tóp, hàng nghìn tỷ đồng vẫn nằm tại các dự án",
-      "link": "https://vnbusiness.vn//loi-nhuan-kosy-teo-top-hang-nghin-ty-dong-van-nam-tai-cac-du-an.html",
-      "published": "Wed, 04 Nov 2026 02:20:27 GMT"
     }
   ]
 }
