@@ -1,3 +1,3 @@
-# Tin LPB — cập nhật 2026-11-19T08:37:56.242847+00:00
+# Tin LPB — cập nhật 2026-11-19T17:59:52.420834+00:00
 
-LPB - Hơn 17,355 tỷ đồng cổ phiếu LPB được 'sang tay' chỉ trong 12 phiên (http://vietstock.vn/2026/11/hon-17355-ty-dong-co-phieu-lpb-duoc-sang-tay-chi-trong-12-phien-830-1516048.htm)
+LPB - Hơn 107 triệu cp sang tay phiên 19/11, lũy kế từ đầu tháng gần 21% cổ phần LPB (http://vietstock.vn/2026/11/hon-107-trieu-cp-sang-tay-phien-1911-luy-ke-tu-dau-thang-gan-21-co-phan-lpb-830-1516226.htm)
