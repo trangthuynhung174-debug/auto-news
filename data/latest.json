@@ -1,7 +1,37 @@
 {
-  "collected_at": "2026-11-22T00:59:52.983094+00:00",
+  "collected_at": "2026-11-22T07:56:14.159322+00:00",
   "count": 170,
   "items": [
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chủ tịch 35 tuổi sắp mua gần 14 triệu cổ phiếu SMC",
+      "link": "https://cafef.vn/chu-tich-35-tuoi-sap-mua-gan-14-trieu-co-phieu-smc-188261122124812704.chn",
+      "published": "Sun, 22 Nov 26 12:48:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Chuyên gia chỉ ra “chất xúc tác” 5.000 tỷ USD có thể giúp vàng tăng giá trở lại",
+      "link": "https://cafef.vn/chuyen-gia-chi-ra-chat-xuc-tac-5000-ty-usd-co-the-giup-vang-tang-gia-tro-lai-188261122090823455.chn",
+      "published": "Sun, 22 Nov 26 09:10:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá bạc lao dốc hơn 15% trong một tuần, “cá mập” bất ngờ gom 77 tấn bạc hai phiên liên tiếp",
+      "link": "https://cafef.vn/gia-bac-lao-doc-hon-15-trong-mot-tuan-ca-map-bat-ngo-gom-77-tan-bac-hai-phien-lien-tiep-188261122085944985.chn",
+      "published": "Sun, 22 Nov 26 09:06:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "Giá vàng hôm nay 22/11: Hồi phục nhẹ nhưng vẫn đứng ở ngưỡng thấp",
+      "link": "https://cafef.vn/gia-vang-hom-nay-22-11-hoi-phuc-nhe-nhung-van-dung-o-nguong-thap-188261122090107889.chn",
+      "published": "Sun, 22 Nov 26 09:05:00 +0700"
+    },
+    {
+      "source": "CafeF - Chứng khoán",
+      "title": "PNJ rối loạn sau sự cố kim cương, CEO Phan Quốc Công thừa nhận điểm yếu",
+      "link": "https://cafef.vn/pnj-roi-loan-sau-su-co-kim-cuong-ceo-phan-quoc-cong-thua-nhan-diem-yeu-188261122090214246.chn",
+      "published": "Sun, 22 Nov 26 09:04:00 +0700"
+    },
     {
       "source": "CafeF - Chứng khoán",
       "title": "2/3 số cổ phiếu trên HoSE giảm mạnh hơn VN-Index hé lộ điều gì?",
@@ -273,34 +303,10 @@
       "published": "Thu, 19 Nov 26 15:15:00 +0700"
     },
     {
-      "source": "CafeF - Chứng khoán",
-      "title": "VAFI kiến nghị giảm 50% thuế giao dịch chứng khoán",
-      "link": "https://cafef.vn/vafi-kien-nghi-giam-50-thue-giao-dich-chung-khoan-188261119142908476.chn",
-      "published": "Thu, 19 Nov 26 14:31:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Cổ phiếu FPT \"phá đáy\" hơn 3 năm, Vietcap hé lộ loạt thông tin đáng chú ý",
-      "link": "https://cafef.vn/co-phieu-fpt-pha-day-hon-3-nam-vietcap-he-lo-loat-thong-tin-dang-chu-y-188261119115559771.chn",
-      "published": "Thu, 19 Nov 26 13:44:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Ông Lê Thanh Thản: Từ công chức tỉnh nghèo đến con đường dựng nghiệp Mường Thanh",
-      "link": "https://cafef.vn/ong-le-thanh-than-tu-cong-chuc-tinh-ngheo-den-con-duong-dung-nghiep-muong-thanh-188261119103652399.chn",
-      "published": "Thu, 19 Nov 26 13:37:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Ông Đặng Lê Nguyên Vũ bán nhà tại Thành phố Cà phê: Tặng kim cương 5 ly trị giá 70 triệu đồng cho khách hàng, hỗ trợ lãi suất 0%",
-      "link": "https://cafef.vn/ong-dang-le-nguyen-vu-ban-nha-tai-thanh-pho-ca-phe-tang-kim-cuong-5-ly-tri-gia-70-trieu-dong-cho-khach-hang-ho-tro-lai-suat-0-188261119101806263.chn",
-      "published": "Thu, 19 Nov 26 12:19:00 +0700"
-    },
-    {
-      "source": "CafeF - Chứng khoán",
-      "title": "Giá vàng bốc hơi hơn 30% từ đỉnh, chuyên gia chỉ ra tín hiệu tạo đáy quan trọng",
-      "link": "https://cafef.vn/gia-vang-boc-hoi-hon-30-tu-dinh-chuyen-gia-chi-ra-tin-hieu-tao-day-quan-trong-188261119104559267.chn",
-      "published": "Thu, 19 Nov 26 11:01:00 +0700"
+      "source": "VietstockFinance",
+      "title": "Phân tích kỹ thuật chứng khoán Việt Nam: Tuần 23-27/11/2026",
+      "link": "http://vietstock.vn/2026/11/phan-tich-ky-thuat-chung-khoan-viet-nam-tuan-23-27112026-585-1516785.htm",
+      "published": "Sun, 22 Nov 2026 07:30:00 +0700"
     },
     {
       "source": "VietstockFinance",
@@ -417,10 +423,16 @@
       "published": "Thu, 19 Nov 2026 06:00:00 +0700"
     },
     {
-      "source": "VietstockFinance",
-      "title": "KSB và HHP bị xử phạt",
-      "link": "http://vietstock.vn/2026/11/ksb-va-hhp-bi-xu-phat-830-1515989.htm",
-      "published": "Wed, 18 Nov 2026 19:47:00 +0700"
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Công ty chứng khoán nhận định gì về rủi ro VN-Index thủng đáy ngắn hạn?",
+      "link": "https://vneconomy.vn/cong-ty-chung-khoan-nhan-dinh-gi-ve-rui-ro-vn-index-thung-day-ngan-han.htm",
+      "published": "Sun, 22 Nov 2026 03:33:58 GMT"
+    },
+    {
+      "source": "VnEconomy - Chứng khoán",
+      "title": "Xu thế dòng tiền: Rủi ro ngoại biên có đẩy VN-Index về đáy 1600 điểm?",
+      "link": "https://vneconomy.vn/xu-the-dong-tien-rui-ro-ngoai-bien-co-day-vn-index-ve-day-1600-diem.htm",
+      "published": "Sun, 22 Nov 2026 03:33:02 GMT"
     },
     {
       "source": "VnEconomy - Chứng khoán",
@@ -709,18 +721,6 @@
       "title": "VN-Index phục hồi quanh mốc 1720 điểm, sắc đỏ vẫn áp đảo",
       "link": "https://vneconomy.vn/vn-index-phuc-hoi-quanh-moc-1720-diem-sac-do-van-ap-dao.htm",
       "published": "Tue, 17 Nov 2026 05:02:30 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Giám đốc thị trường nước ngoài của SSI: Việt Nam là thị trường mới nổi tuyệt vời, kinh tế tăng trưởng nhất thế giới",
-      "link": "https://vneconomy.vn/giam-doc-thi-truong-nuoc-ngoai-cua-ssi-viet-nam-la-thi-truong-moi-noi-tuyet-voi-kinh-te-tang-truong-nhat-the-gioi.htm",
-      "published": "Tue, 17 Nov 2026 04:25:51 GMT"
-    },
-    {
-      "source": "VnEconomy - Chứng khoán",
-      "title": "Tổng giám đốc IMF cảnh báo kinh tế toàn cầu “đứng một chân” giữa cơn sốt AI",
-      "link": "https://vneconomy.vn/tong-giam-doc-imf-canh-bao-kinh-te-toan-cau-dung-mot-chan-giua-con-sot-ai.htm",
-      "published": "Tue, 17 Nov 2026 03:37:53 GMT"
     },
     {
       "source": "VnBusiness - Chứng khoán",
